@@ -34,6 +34,7 @@ Components |Existing Projects|Protentially Interesting Projects|
 Components |Existing Projects|Protentially Interesting Projects|
 |:----|:----|:----|
 |Decentralized Pinning Service|    |Helping users to pin thier files in Crust network|
+
 |Wallet|    |    |
 |Storage and Node Explorer|    |    |
 
@@ -61,6 +62,7 @@ Enhancing the compatibility between Crust Network and various distributed file s
 Components |Existing Projects|Protentially Interesting Projects|
 |:----|:----|:----|
 |  File systems   |    |  Enabling Crust to be more compatible to multiple file systems such as Dat, Bittorrent, Swarm, etc.  |
+
 
 ### Chain Protocols
 To enhance the design for GPoS,  MPoW and Decentralized Storage Market (DSM).

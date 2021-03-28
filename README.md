@@ -26,7 +26,9 @@ In addition to the information provided on your application, note that your proj
 
 ### Project ideas
 An overview of existing projects in the Crust Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](crust_stacks.md). 
+
 If you have a **good concept of the technical challenges** that your idea entails and would like feedback before applying, you can send us an [email](hi@crust.network) and tell us about it.
+
 
 ## Support
 
@@ -36,6 +38,7 @@ The scope of our Grants Programs consists of funding and feedback on delivered m
 ## DCF Grant Committee
 
 The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technical experts from DCF, and is responsible for evaluating grant applications and providing feedback on these.
+
 
 ## Application Process
 
@@ -57,5 +60,4 @@ The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technica
 ### 3. Milestone Delivery and Payment
 
 Milestones are to be delivered on the Grant Milestone Delivery repository. You can find the delivery process [here](https://github.com/crustio/Crust-Grant-Milestone-Delivery).
-
 
