@@ -4,8 +4,9 @@
 * **Team Name:** Legal name of your team
 * **Payment Address:** CRU ERC20 address 
 
-
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+
+> ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
 
 ### Overview
 
