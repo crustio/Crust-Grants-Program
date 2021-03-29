@@ -9,7 +9,7 @@ By participating you acknowledge and accept the​ terms and conditions​ of th
 
 * * * * *
 
-These Terms and Conditions are entered into by and between the Decentralized Cloud Foundation, 9 raffles place #05-02 republic plaza, singapore (048619) and you as an applicant for the technical grant for software development, research and/or the production of software documentation and technical education material as specified in Guidelines for technical grant of Decentralized Cloud Foundation (henceforth "User" or "You"). Please read these Terms and Conditions carefully. By signing off the terms and conditions via the CLA assistant, You confirm that You have read these Terms and Conditions and that You agree to be bound by them.
+These Terms and Conditions are entered into by and between the Decentralized Cloud Foundation, 9 raffles place #05-02 republic plaza, singapore (048619) and you as an applicant for the technical grant for software development, research and/or the production of software documentation and technical education material as specified in Guidelines for technical grant of Decentralized Cloud Foundation (henceforth "User" or "You"). Please read these Terms and Conditions carefully. By submit pull request to this github repo, You confirm that You have read these Terms and Conditions and that You agree to be bound by them.
 
 We reserve the right to change, modify, add or remove portions of these Terms and Conditions from time to time. If this occurs, We will notify You in adequate form on such updates.
 
