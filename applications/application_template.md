@@ -2,7 +2,8 @@
 
 * **Project Name:** Name of your project 
 * **Team Name:** Legal name of your team
-* **Payment Address:** CRU ERC20 address 
+* **Payment Address:** Ethereum address 
+* **Receivable Token:** CRU or USDT
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
