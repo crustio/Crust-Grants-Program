@@ -44,7 +44,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 ### Contact
 * **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
+* **Contact Email:** Contact email (e.g. dean@crust.network)
 * **Website:**
 
 ### Legal Structure 
