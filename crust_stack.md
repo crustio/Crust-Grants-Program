@@ -14,7 +14,7 @@ The goal of this page is to provide an overview of the open-source Crust technol
 |-------------------------------------------------------------------------------------|
 |       Storage Management, Disk Management        /             Strategies           |
 |-------------------------------------------------------------------------------------|
-|                  IPFS, BT                      /             File ststems           |
+|                  IPFS, BT                      /             File systems           |
 |-------------------------------------------------------------------------------------|
 |               MPoW, GPoS, DSM                /              Chain Protocols         |
 |-------------------------------------------------------------------------------------|
