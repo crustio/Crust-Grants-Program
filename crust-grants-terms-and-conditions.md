@@ -55,17 +55,17 @@ The terms defined in this section whenever used in these Terms and Conditions sh
 
 If You are submitting an application for a Grant, You represent and warrant that:
 
--   each of the following statements is true and accurate and all of the information You provided was and shall remain true and complete;
+-   Each of the following statements is true and accurate and all of the information You provided was and shall remain true and complete;
 -   If You are registering on behalf of a legal entity, such legal entity is duly organized and validly existing under the applicable laws of the jurisdiction of its organization and you are duly authorized by such legal entity to act on its behalf;
 -   You are of legal age to form a binding contract;
 -   You have the right, full power and authority to enter into these Terms and Conditions, to exercise your rights and perform your obligations under these Terms and Conditions and in doing so will not violate any other agreement to which You are a Party nor any laws;
--   these Terms and Conditions constitutes a legal, valid and binding obligation on You which are enforceable against You in accordance with their terms;
--   no consent, authorisation, licence or approval of or notice to any governmental authority nor your shareholders, partners, members, other record or beneficial owners or other any relevant person (as applicable) is required to authorise the execution, delivery, validity, enforceability or admissibility in evidence of the performance by You of your obligations under these Terms and Conditions;
+-   These Terms and Conditions constitutes a legal, valid and binding obligation on You which are enforceable against You in accordance with their terms;
+-   No consent, authorisation, licence or approval of or notice to any governmental authority nor your shareholders, partners, members, other record or beneficial owners or other any relevant person (as applicable) is required to authorise the execution, delivery, validity, enforceability or admissibility in evidence of the performance by You of your obligations under these Terms and Conditions;
 -   You are not a citizen of, or resident in or located in, or incorporated or otherwise :
-    1.  listed on any of the following lists (each a Sanctions List): the Consolidated United Nations Security Council Sanctions List; the Specially Designated Nationals and Blocked Persons List or the Sectoral Sanctions Identification List maintained by the US Office of Foreign Assets Control (OFAC); the Consolidated List of Persons, Groups and Entities subject to EU Financial Sanctions; the Consolidated List of Financial Sanctions Targets or List of persons subject to restrictive measures in view of Russia's actions destabilising the situation in Ukraine, maintained by the UK Treasury; the Singapore Financial Action Task Force on Money Laundering（FATF）Satement; or any similar list maintained by, or public announcement of sanctions made by, any other Sanctions Authority (as defined below);
-    2.  owned or controlled by, or acting on behalf of or for the benefit of, any person on a Sanctions List;
-    3.  located in, resident in or incorporated under the laws of (as applicable) Syria, Iran, Cuba, Crimea or North Korea, or any other country or territory which, after the Effective Date, becomes the target of such comprehensive, country-wide or territory-wide Sanctions (as defined below) as currently apply to the aforementioned territories; or
-    4.  the target of any sanctions laws, regulations, embargoes or restrictive measures (Sanctions), as amended from time to time, administered, enacted or enforced by: the United Nations, the United States, the European Union, the United Kingdom, Singapore or the respective Governmental Authorities and agencies of any of the foregoing responsible for administering, enacting or enforcing Sanctions, including without limitation, OFAC, the US Department of State, the United Kingdom Treasury or the SECO (Sanctions Authority), Singapore, MAS.
+    1.  Listed on any of the following lists (each a Sanctions List): the Consolidated United Nations Security Council Sanctions List; the Specially Designated Nationals and Blocked Persons List or the Sectoral Sanctions Identification List maintained by the US Office of Foreign Assets Control (OFAC); the Consolidated List of Persons, Groups and Entities subject to EU Financial Sanctions; the Consolidated List of Financial Sanctions Targets or List of persons subject to restrictive measures in view of Russia's actions destabilising the situation in Ukraine, maintained by the UK Treasury; the Singapore Financial Action Task Force on Money Laundering（FATF）Satement; or any similar list maintained by, or public announcement of sanctions made by, any other Sanctions Authority (as defined below);
+    2.  Owned or controlled by, or acting on behalf of or for the benefit of, any person on a Sanctions List;
+    3.  Located in, resident in or incorporated under the laws of (as applicable) Syria, Iran, Cuba, Crimea or North Korea, or any other country or territory which, after the Effective Date, becomes the target of such comprehensive, country-wide or territory-wide Sanctions (as defined below) as currently apply to the aforementioned territories; or
+    4.  The target of any sanctions laws, regulations, embargoes or restrictive measures (Sanctions), as amended from time to time, administered, enacted or enforced by: the United Nations, the United States, the European Union, the United Kingdom, Singapore or the respective Governmental Authorities and agencies of any of the foregoing responsible for administering, enacting or enforcing Sanctions, including without limitation, OFAC, the US Department of State, the United Kingdom Treasury or the SECO (Sanctions Authority), Singapore, MAS.
 
 -   You will comply with any laws applicable to Your software (built based upon the Crust Network) and not engage in any illegal activities. In particular, You will not use the Crust Network to facilitate infringement of any third party intellectual property rights or data privacy rights.
 
@@ -87,7 +87,7 @@ The grants process consists of five parts, each of them described in more detail
 
 To apply for a grant of the Crust Grants Program, You shall comply with the procedures established in the README.md file under <https://github.com/crustio/Crust-Grants-Program> as well as the process defined inside this document.
 
-To apply for a grant of the Decentralized Cloud Foundation Crust Grants Program, the grantee needs to fork (= create a copy on GitHub of) the Crust-Grants-Program GitHub repository. In the newly created fork (=copy on GitHub), the grantee has to create a copy of the application-template.md. The copied application-template.md needs to be renamed as "project_name.md". "Project_name" needs to be replaced with the name of the project application. Additionally, the grantee has to fill out all mandatory parts of the application-template.md presented in bold letters. Once the grantees have completed the application, they need to create a new pull request (= in this case, a mechanism to submit the changes of the fork to the original Crust-Grants-Program GitHub repository) by clicking on the "create new pull request" button shown inside the fork of the Crust Crust-Grants-Program GitHub repository. After this, the grantee needs to sign off the terms and conditions presented via the CLA assistant.
+To apply for a grant of the Decentralized Cloud Foundation Crust Grants Program, the grantee needs to fork (= create a copy on GitHub of) the Crust-Grants-Program GitHub repository. In the newly created fork (=copy on GitHub), the grantee has to create a copy of the application-template.md. The copied application-template.md needs to be renamed as "project_name.md". "Project_name" needs to be replaced with the name of the project application. Additionally, the grantee has to fill out all mandatory parts of the application-template.md presented in bold letters. Once the grantees have completed the application, they need to create a new pull request (= in this case, a mechanism to submit the changes of the fork to the original Crust-Grants-Program GitHub repository) by clicking on the "create new pull request" button shown inside the fork of the Crust Crust-Grants-Program GitHub repository.
 
 **(ii)  Application review process:**
 
@@ -117,10 +117,10 @@ If You are unable to remedy the defects within this additional period, You shall
 
 In the event of default, DCF may either, at its discretion:
 
-- insist on the rectification of the milestones and/or the Software;
-- delegate the completion of the Software to a third party at your expenses;
-- reduce payment of the Grant because of the reduced value of the Software; or
-- refuse payment of the Grant in full (for the avoidance of doubt, this may require You to refund all milestone and advance payments made under these Terms and Conditions).
+- Insist on the rectification of the milestones and/or the Software;
+- Delegate the completion of the Software to a third party at your expenses;
+- Reduce payment of the Grant because of the reduced value of the Software; or
+- Refuse payment of the Grant in full (for the avoidance of doubt, this may require You to refund all milestone and advance payments made under these Terms and Conditions).
 
 As soon as one evaluator approves the pull request, the delivery is officially accepted. The delivery is now a part of the [Grant Milestone Delivery GitHub repository](https://github.com/crustio/Grant-Milestone-Delivery). The time point of the acceptance by the evaluator is hereby stored on GitHub. The original submission is stored with a unique commit hash (identifier) and can not be altered by any party.
 
@@ -134,12 +134,12 @@ The subject matter of these Terms and Conditions is (i) the development of the S
 
 In performing your obligations under these Terms and Conditions, You shall: 
 
-1.  use reasonable skill and care; 
-2.  comply with any date or time specified according to the Time Schedule;
-3.  perform your obligations in accordance with good industry practice, being practices in relation to the development of software and related deliverables the same as or similar to the Software that are usually followed by other suppliers in the same industry, including adherence to industry codes of practice and industry standards in relation to such products and services; 
-4.  perform your obligations in accordance with all laws and codes of conducts applicable;
-5.  ensure that your development team consists of a sufficient number of appropriately skilled and experienced individuals
-6.  develop the Software as an open source software under the Apache license version 2.0.
+1.  Use reasonable skill and care; 
+2.  Comply with any date or time specified according to the Time Schedule;
+3.  Perform your obligations in accordance with good industry practice, being practices in relation to the development of software and related deliverables the same as or similar to the Software that are usually followed by other suppliers in the same industry, including adherence to industry codes of practice and industry standards in relation to such products and services; 
+4.  Perform your obligations in accordance with all laws and codes of conducts applicable;
+5.  Ensure that your development team consists of a sufficient number of appropriately skilled and experienced individuals
+6.  Develop the Software as an open source software under the Apache license version 2.0.
 
 The Parties acknowledge and agree that the requirements set out in the Milestones may only be varied or amended by submitting another pull request and the following reevaluation by the committee under the same conditions as the initial application review process specified above.
 
@@ -154,8 +154,8 @@ The Parties acknowledge and agree that the requirements set out in the Milestone
 4.  You shall remain positive towards the Foundation, the Foundation representatives and its goals, plans and projects. You shall advocate for the Foundation's projects' and sub-projects' aims during the term of the Agreement.
 
 5.  You shall, at all times during the term of the Agreement refrain from making, causing to be made, publishing, ratifying, endorsing, re-publishing or promulgating any and all disparaging remarks or derogatory, false, negative, critical, vilifying or otherwise detrimental statements or comments, whether implied or expressed, made in any format to any party or entity with respect to the Foundation, its officers, directors, employees, council members, advisors or otherwise affiliated individuals, entities and projects, including, but not limited to negative statements pertaining to:
-    1.  any management style, methods of doing business, quality of products and services, the business affairs, operation, financial condition and standing in the community; and
-    2.  any treatment of its officers, directors, employees, council members, advisors or otherwise affiliated individuals and any circumstances surrounding any such employment and/or separation of employment from the Foundation or advisory relationships.
+    1.  Any management style, methods of doing business, quality of products and services, the business affairs, operation, financial condition and standing in the community; and
+    2.  Any treatment of its officers, directors, employees, council members, advisors or otherwise affiliated individuals and any circumstances surrounding any such employment and/or separation of employment from the Foundation or advisory relationships.
 
 
 6.  You agree to forbear from making any public or non-confidential statement with respect to any claim or complaint against the Foundation without having obtained the Foundation’s prior written consent.
@@ -186,17 +186,17 @@ You hereby warrant that:
 
 (b)  You have the exclusive and unlimited right and authority to use and dispose of the Software and the related deliverables by granting to DCF license rights according to these Terms and Conditions and such use and right to dispose did not and will not conflict with, infringe upon or violate any copyright or any other proprietary right of any other person;
 
-(c)  there are no licenses or rights current in effect in favor of any third party to use the Software and the related deliverables which would impair the rights granted to DCF as provided for under these Terms and Conditions; and
+(c)  There are no licenses or rights current in effect in favor of any third party to use the Software and the related deliverables which would impair the rights granted to DCF as provided for under these Terms and Conditions; and
 
-1.  there is no pending or threatened claim, action, suit, investigation or proceeding of any kind challenging, alleging or asserting that the Software and the related deliverables were improperly or invalidly granted or are otherwise not protected as Intellectual Property Rights.
+1.  There is no pending or threatened claim, action, suit, investigation or proceeding of any kind challenging, alleging or asserting that the Software and the related deliverables were improperly or invalidly granted or are otherwise not protected as Intellectual Property Rights.
 
 You further warrant that the Software and the related deliverables:
 
-(a)  are free of defects in materials and workmanship;  
+(a)  Are free of defects in materials and workmanship;  
 
-(b)  fully conform the Specifications and perform the functions and criteria as described in the Specifications; and
+(b)  Fully conform the Specifications and perform the functions and criteria as described in the Specifications; and
 
-(c)  are sufficient and fit for the intended use as described in the Specifications.
+(c)  Are sufficient and fit for the intended use as described in the Specifications.
 
 Your liability for a single loss event shall be limited to the aggregate total of all sums paid by DCF to You under these Terms and Conditions. Nevertheless, You shall not be held liable for indirect, special, punitive, exemplary, incidental or consequential damages or losses arising out of these Terms and Conditions.
 
@@ -210,12 +210,12 @@ These Terms and Conditions (i) comes into force on the Effective Date (notwithst
 
 Termination with immediate effect will occur if the terms of the Terms and Conditions agreement is violated, as follows:
 
-(a)  if a deadline according to the Time Schedule is not met;
+(a)  If a deadline according to the Time Schedule is not met;
 
-1.  if it results from Your behavior that such a deadline will not be met; 
-2.  if You become bankrupt, insolvent, wound-up or dissolved or otherwise loses its legal personality as a validly standing entity; 
-3.  if there is a Change in Control and DCF. has not given his prior written consent to such Change in control; and/or
-4.  is the event You do not comply with Section 6 (d), (e) and (f) and/or causes, in any way and at DCF's discretion, any damage to DCF or Crust's image or reputation.
+1.  If it results from Your behavior that such a deadline will not be met; 
+2.  If You become bankrupt, insolvent, wound-up or dissolved or otherwise loses its legal personality as a validly standing entity; 
+3.  If there is a Change in Control and DCF. has not given his prior written consent to such Change in control; and/or
+4.  Is the event You do not comply with Section 6 (4), (5) and (6) and/or causes, in any way and at DCF's discretion, any damage to DCF or Crust's image or reputation.
 
 Furthermore, termination can happen for any reason at the discretion of the DCF Technologies Foundation.
 
@@ -275,7 +275,7 @@ You shall at all times acknowledge and agree that certain risks exist in relatio
 
 ### Intellectual property
 
-As regards the  network and its underlying technology, DCF is offering You the right to use it open-source based and DCF does not retain any proprietary intellectual property rights therein (see the GPL-License Version 3 available under <https://www.gnu.org/licenses/gpl-3.0.en.html>​).
+As regards the  network and its underlying technology, DCF is offering You the right to use it open-source based and DCF does not retain any proprietary Intellectual Property Rights therein (see the GPL-License Version 3 available under <https://www.gnu.org/licenses/gpl-3.0.en.html>​).
 
 However, DCF retains all rights, title and interest in any intellectual property rights relating to its business (such as e.g. trademarks or logos on its Website or copyrights/know-how in other business offerings not related to the  network).
 
@@ -285,4 +285,4 @@ To the extent that You will gain access to and collect and process personally id
 
 ### Limitation of liability
 
-In no event and under no legal theory shall Web. 3.0 be liable to You for damages, including any direct, indirect, special, general, incidental or consequential damages of any character arising as a result of this License or out of the use or inability to use the  network (including, but not limited to, loss of data or data being rendered inaccurate or losses sustained by You or third parties or a failure of the network to operate with any other programs, loss of goodwill, work stoppage, business interruption, computer failure or malfunction or any and all other commercial damages or losses), even if a contributor has been advised of the possibility of such damages. DCF does not control, take responsibility for, or assume liability for the data in any way processed and stored by You or any third party using the  network and for any damage or loss incurred thereto. You shall solely be liable for the appropriateness, lawfulness, and accurateness of the data in any way processed by You using the network (and or if using such data outside of the network i.e. "off-chain".
+In no event and under no legal theory shall DCF be liable to You for damages, including any direct, indirect, special, general, incidental or consequential damages of any character arising as a result of this License or out of the use or inability to use the  network (including, but not limited to, loss of data or data being rendered inaccurate or losses sustained by You or third parties or a failure of the network to operate with any other programs, loss of goodwill, work stoppage, business interruption, computer failure or malfunction or any and all other commercial damages or losses), even if a contributor has been advised of the possibility of such damages. DCF does not control, take responsibility for, or assume liability for the data in any way processed and stored by You or any third party using the  network and for any damage or loss incurred thereto. You shall solely be liable for the appropriateness, lawfulness, and accurateness of the data in any way processed by You using the network (and or if using such data outside of the network i.e. "off-chain".
