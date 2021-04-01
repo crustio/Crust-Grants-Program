@@ -2,10 +2,12 @@
 
 * **Project Name:** Name of your project 
 * **Team Name:** Legal name of your team
-* **Payment Address:** CRU ERC20 address 
-
+* **Payment Address:** Ethereum address 
+* **Receivable Token:** CRU or USDT
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+
+> ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
 
 ### Overview
 
@@ -42,7 +44,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 ### Contact
 * **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
+* **Contact Email:** Contact email (e.g. dean@crust.network)
 * **Website:**
 
 ### Legal Structure 

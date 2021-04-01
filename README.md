@@ -25,17 +25,20 @@ Additionally, it must fulfill the following requirements:
 In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/crustio/Crust-Grant-Milestone-Delivery/blob/main/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, *written* documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
 
 ### Project ideas
-An overview of existing projects in the Crust Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](crust_stacks.md). 
-If you have a **good concept of the technical challenges** that your idea entails and would like feedback before applying, you can send us an [email](CrustNetwork@gmail.com) and tell us about it.
+An overview of existing projects in the Crust Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](crust_stack.md). 
+
+If you have a **good concept of the technical challenges** that your idea entails and would like feedback before applying, you can send us an email(`hi@crust.network`) and tell us about it.
+
 
 ## Support
 
 The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. 
 
 
-### DCF Grants Committee
+## DCF Grant Committee
 
-The DCF(Decentralized Cloud Foundation) Grants Committee consists of the technical experts from DCF, and is responsible for evaluating grant applications and providing feedback on these.
+The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technical experts from DCF, and is responsible for evaluating grant applications and providing feedback on these.
+
 
 ## Application Process
 
@@ -43,11 +46,11 @@ The DCF(Decentralized Cloud Foundation) Grants Committee consists of the technic
 
 1. [Fork](https://github.com/crustio/Crust-Grants-Program/fork) this repository.
 
-2. In the newly created fork, create acopy of the [applications/application_template]([applications/application_template.md](https://github.com/crustio/Crust-Grants-Program/blob/main/applications/applicaiton_template.md)) under the directory `applications/`. Make sure you **do not modify the template file directly**.
+2. In the newly created fork, create acopy of the [applications/application_template](applications/application_template.md) under the directory `applications/`. Make sure you **do not modify the template file directly**.
 3. Name the new file after your project:`project_name.md`.
 4. Fill out the template with the details of your project. The more information you provide, the faster the review.
 5. Once you're done, create a pull request. The pull request should only contain *one new file* — the Markdown file you created from the template.
-6. Sign off on the [terms and conditions]() as a Contributor License Agreement. You might need to reload the pull request to see its comment.
+6. Sign off on the [terms and conditions](crust-grants-terms-and-conditions.md) as a Contributor License Agreement. You might need to reload the pull request to see its comment.
 
 ### 2. Application Review
 
@@ -57,14 +60,4 @@ The DCF(Decentralized Cloud Foundation) Grants Committee consists of the technic
 ### 3. Milestone Delivery and Payment
 
 Milestones are to be delivered on the Grant Milestone Delivery repository. You can find the delivery process [here](https://github.com/crustio/Crust-Grant-Milestone-Delivery).
-
-
-
-
-
-
-
-
-
-
 
