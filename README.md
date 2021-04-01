@@ -50,7 +50,7 @@ The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technica
 3. Name the new file after your project:`project_name.md`.
 4. Fill out the template with the details of your project. The more information you provide, the faster the review.
 5. Once you're done, create a pull request. The pull request should only contain *one new file* — the Markdown file you created from the template.
-6. Sign off on the [terms and conditions](crust-grants-terms-and-conditions.md) as a Contributor License Agreement. You might need to reload the pull request to see its comment.
+6. Review the [terms and conditions](crust-grants-terms-and-conditions.md).  Every pull request you make in this repository will be considered an acceptance of the terms and conditions.
 
 ### 2. Application Review
 
