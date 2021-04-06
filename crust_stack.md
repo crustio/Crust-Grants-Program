@@ -28,13 +28,12 @@ Components |Existing Projects|Protentially Interesting Projects|
 |NFT|    |Marketplaces, Games, Collectibles, which stores NFT related multimedia files in Crust Network|
 |Website hosting tools|    | CI/CD tools that can automatically host websites on Crust|
 |Content storage and delivery|    | Accelerated P2P-CDNs|
+|Decentralized Pinning Service|    |Helping users to pin their files in Crust network|
 
 
 ### Blockchain based applications
 Components |Existing Projects|Protentially Interesting Projects|
 |:----|:----|:----|
-|Decentralized Pinning Service|    |Helping users to pin thier files in Crust network|
-
 |Wallet|    |    |
 |Storage and Node Explorer|    |    |
 
@@ -73,4 +72,4 @@ Components |Existing Projects|Protentially Interesting Projects|
 |Storage worker (sWorker, the key module for Crust storage proof mechanism)|    |Enhanced file sealing mechanism|
 |TEE compatibility|    |Enhanced compatibility with Intel SGX and with other TEE architecture such as ARM Trustzone, AMD SEV ,etc.|
 
-
+### Others
