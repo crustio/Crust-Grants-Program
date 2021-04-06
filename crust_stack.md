@@ -1,6 +1,5 @@
 # Crust Stack
-
-The goal of this page is to provide an overview of the open-source Crust technology stack. Please feel free to make edits and additions via Pull Requests. We apologize if we missed your project!
+Crust Grants Program is application-oriented, currently it only supports software development projects. The goal of this page is to provide an overview of the open-source Crust technology stack. Please feel free to make edits and additions via Pull Requests. We apologize if we missed your project!
 
 
 <!-- markdownlint-disable MD040 -->
@@ -21,6 +20,7 @@ The goal of this page is to provide an overview of the open-source Crust technol
 ```
 
 ### Case studies
+
 1. [Decentralized Uniswap Interface Hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
 2. [Store NFT Files in Crust/IPFS](https://medium.com/crustnetwork/how-to-use-crust-network-to-store-nft-files-4f45e96150b1)
 
@@ -78,3 +78,4 @@ Components |Existing Projects|Potentially Interesting Projects|
 |TEE compatibility|    |Enhanced compatibility with Intel SGX and with other TEE architecture such as ARM TrustZone, AMD SEV ,etc.|
 
 ### Others
+If your idea is not in the stack, but you think it is very important to decentralized cloud ecosystem, you can contact hi@crust.network to demonstrate your idea.
