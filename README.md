@@ -18,7 +18,7 @@ Generally, your project will have better chances to get accepted if:
 
 Additionally, it must fulfill the following requirements:
 
-- All code produced as part of a grant must be **open-sourced**, and it must also not rely on closed-source software for full funcionality. We prefer Apache 2.0, but GPLv3 or Unlicense are also acceptable.
+- All code produced as part of a grant must be **open-sourced**, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3 or Unlicense are also acceptable.
 - We do not award grants for projects that have been the object of a successful token sale.
 - Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
 
@@ -46,7 +46,7 @@ The DCF(Decentralized Cloud Foundation) Grant Committee consists of the technica
 
 1. [Fork](https://github.com/crustio/Crust-Grants-Program/fork) this repository.
 
-2. In the newly created fork, create acopy of the [applications/application_template](applications/application_template.md) under the directory `applications/`. Make sure you **do not modify the template file directly**.
+2. In the newly created fork, create a copy of the [applications/application_template](applications/application_template.md) under the directory `applications/`. Make sure you **do not modify the template file directly**.
 3. Name the new file after your project:`project_name.md`.
 4. Fill out the template with the details of your project. The more information you provide, the faster the review.
 5. Once you're done, create a pull request. The pull request should only contain *one new file* — the Markdown file you created from the template.

@@ -62,7 +62,7 @@ If You are submitting an application for a Grant, You represent and warrant that
 -   These Terms and Conditions constitutes a legal, valid and binding obligation on You which are enforceable against You in accordance with their terms;
 -   No consent, authorisation, licence or approval of or notice to any governmental authority nor your shareholders, partners, members, other record or beneficial owners or other any relevant person (as applicable) is required to authorise the execution, delivery, validity, enforceability or admissibility in evidence of the performance by You of your obligations under these Terms and Conditions;
 -   You are not a citizen of, or resident in or located in, or incorporated or otherwise :
-    1.  Listed on any of the following lists (each a Sanctions List): the Consolidated United Nations Security Council Sanctions List; the Specially Designated Nationals and Blocked Persons List or the Sectoral Sanctions Identification List maintained by the US Office of Foreign Assets Control (OFAC); the Consolidated List of Persons, Groups and Entities subject to EU Financial Sanctions; the Consolidated List of Financial Sanctions Targets or List of persons subject to restrictive measures in view of Russia's actions destabilising the situation in Ukraine, maintained by the UK Treasury; the Singapore Financial Action Task Force on Money Laundering（FATF）Satement; or any similar list maintained by, or public announcement of sanctions made by, any other Sanctions Authority (as defined below);
+    1.  Listed on any of the following lists (each a Sanctions List): the Consolidated United Nations Security Council Sanctions List; the Specially Designated Nationals and Blocked Persons List or the Sectoral Sanctions Identification List maintained by the US Office of Foreign Assets Control (OFAC); the Consolidated List of Persons, Groups and Entities subject to EU Financial Sanctions; the Consolidated List of Financial Sanctions Targets or List of persons subject to restrictive measures in view of Russia's actions destabilising the situation in Ukraine, maintained by the UK Treasury; the Singapore Financial Action Task Force on Money Laundering（FATF）Statement; or any similar list maintained by, or public announcement of sanctions made by, any other Sanctions Authority (as defined below);
     2.  Owned or controlled by, or acting on behalf of or for the benefit of, any person on a Sanctions List;
     3.  Located in, resident in or incorporated under the laws of (as applicable) Syria, Iran, Cuba, Crimea or North Korea, or any other country or territory which, after the Effective Date, becomes the target of such comprehensive, country-wide or territory-wide Sanctions (as defined below) as currently apply to the aforementioned territories; or
     4.  The target of any sanctions laws, regulations, embargoes or restrictive measures (Sanctions), as amended from time to time, administered, enacted or enforced by: the United Nations, the United States, the European Union, the United Kingdom, Singapore or the respective Governmental Authorities and agencies of any of the foregoing responsible for administering, enacting or enforcing Sanctions, including without limitation, OFAC, the US Department of State, the United Kingdom Treasury or the SECO (Sanctions Authority), Singapore, MAS.
@@ -78,7 +78,7 @@ To apply for the Crust Grants Program, your application shall fulfill the follow
 -  It shall be a software-based project, which contributes to the advancement of the Crust ecosystem;
 -  the total amount of funding requested for the project shall be below USD 30,000 for follow-up grants at the time of submission;
 -  the Software shall be released under the Apache license version 2.0.;
--  You must accept payment in the blockchain tokens to the Crust Network ("CRUs") or the Ethereum based CRUs. 
+-  You must accept payment in the blockchain tokens to the Crust Network ("CRUs") or the Ethereum based CRU or the Ethereum based stablecoin USDT. 
 -  You will need to submit the application and deliver the milestones according to the process specified below.
 
 The grants process consists of five parts, each of them described in more detail below:
@@ -126,7 +126,7 @@ As soon as one evaluator approves the pull request, the delivery is officially a
 
 **(v)  Payment process:**
 
-The DCF Grant Committee specified in the [Crust-Grants-Program GitHub repository](https://github.com/crustio/Crust-Grants-Program), gets notified once the above-specified delivery was accepted or after 2 weeks without any feedback after the initial delivery. As soon as any feedback is provided by the evaluators, this feedback first needs to be resolved. After this, the DCF Grant Commitee makes the payment to the Crust or Ethereum address specified in the initial application.
+The DCF Grant Committee specified in the [Crust-Grants-Program GitHub repository](https://github.com/crustio/Crust-Grants-Program), gets notified once the above-specified delivery was accepted or after 2 weeks without any feedback after the initial delivery. As soon as any feedback is provided by the evaluators, this feedback first needs to be resolved. After this, the DCF Grant Committee makes the payment to the Crust or Ethereum address specified in the initial application.
 
 ## 5.  Scope of these Terms and Conditions
 
@@ -249,7 +249,7 @@ Any disputes arising out of or in connection with these terms and conditions and
 
 ## 14.  Crust Network
 
-If You are using Crusst network for the purpose of the software development, research and/or the production of software documentation and technical education material You agree to be bound by specific term as follows:
+If You are using Crust network for the purpose of the software development, research and/or the production of software documentation and technical education material You agree to be bound by specific term as follows:
 
 You are free to use the software to gain access to and use the Crust network and to build your own network(s) and have your network interact with other networks which are also part of the Crust network.
 
