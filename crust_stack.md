@@ -78,4 +78,4 @@ Components |Existing Projects|Potentially Interesting Projects|
 |TEE compatibility|    |Enhanced compatibility with Intel SGX and with other TEE architecture such as ARM TrustZone, AMD SEV ,etc.|
 
 ### Others
-If your idea is not in the stack, but you think it is very important to decentralized cloud ecosystem, you can contact hi@crust.network to demonstrate your idea.
+If your idea is important for the decentralized cloud ecosystem, but it is not currently in this stack, please feel free to write to hi@crust.network to let us know.
