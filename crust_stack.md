@@ -21,8 +21,8 @@ The goal of this page is to provide an overview of the open-source Crust technol
 ```
 
 ### Case studies
-1, [Decentralized Uniswap Interface Hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
-2, [Store NFT Files in Crust/IPFS](https://medium.com/crustnetwork/how-to-use-crust-network-to-store-nft-files-4f45e96150b1)
+1. [Decentralized Uniswap Interface Hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
+2. [Store NFT Files in Crust/IPFS](https://medium.com/crustnetwork/how-to-use-crust-network-to-store-nft-files-4f45e96150b1)
 
 
 
