@@ -26,7 +26,7 @@ To develop more applications & senarios for Crust.
 Components |Existing Projects|Protentially Interesting Projects|
 |:----|:----|:----|
 |NFT|    |Marketplaces, Games, Collectibles, which stores NFT related multimedia files in Crust Network|
-|Website hosting tools|    | CI/CD tools that can automatically host websites on Crust|
+|Website hosting tools| [IPFS-Crust-Pinner](https://github.com/crustio/ipfs-crust-pinner)   | CI/CD tools that can automatically host websites on Crust|
 |Content storage and delivery|    | Accelerated P2P-CDNs|
 |Decentralized Pinning Service|    |Helping users to pin their files in Crust network|
 
