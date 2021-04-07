@@ -30,7 +30,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 |Decentralized Pinning Service|    |Helping users to pin their files in Crust network|
 ### Showcases and Scenarios
 #### Website Hosting
-* [Decentralized Uniswap Interface hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
+* Decentralized website hosting, for example, [Decentralized Uniswap Interface hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
 
 #### Off-Chain Data Storage
 * Integrate Crust with NFT Exchanges and NFT minting tools
