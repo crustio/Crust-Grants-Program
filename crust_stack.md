@@ -30,14 +30,14 @@ Components |Existing Projects|Potentially Interesting Projects|
 |Decentralized Pinning Service|    |Helping users to pin their files in Crust network|
 ### Showcases and Scenarios
 #### Website Hosting
-* [Decentralized Uniswap Interface hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
-* 
+* Decentralized website hosting, for example, [Decentralized Uniswap Interface hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
+
 #### Off-Chain Data Storage
-* Integrate Crust with NFT Exchanges and NFT minting tools, such as [BCA](https://www.bcaex.co/#/Home), [Minty](https://docs.ipfs.io/how-to/mint-nfts-with-ipfs/#how-minty-works), etc.
-* Integrate Crust with decentralized full-node data storage solutions, such as [Saito Protocol](https://saito.io/)
+* Integrate Crust with NFT Exchanges and NFT minting tools
+* Integrate Crust with decentralized full-node data storage solutions
   
 #### Accelerated Content Delivery
-* Integrate Crust with decentralized video websites and social media platforms, such as [DTube](https://d.tube/) and [MaskNetwork](https://mask.io/)
+* Integrate Crust with decentralized video websites and social media platforms
 
 ## Blockchain based applications
 Components |Existing Projects|Potentially Interesting Projects|
