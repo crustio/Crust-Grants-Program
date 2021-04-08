@@ -1,4 +1,4 @@
-# Crust Stack
+# Crust stack
 Crust Grants Program is application-oriented, currently it only supports software development projects. The goal of this page is to provide an overview of the open-source Crust technology stack. Please feel free to make edits and additions via Pull Requests. We apologize if we missed your project!
 
 
@@ -28,15 +28,15 @@ Components |Existing Projects|Potentially Interesting Projects|
 |Website hosting tools| [IPFS-Crust-Pinner](https://github.com/crustio/ipfs-crust-pinner)   | CI/CD tools that can automatically host websites on Crust|
 |Content storage and delivery|    | Accelerated P2P-CDNs|
 |Decentralized Pinning Service|    |Helping users to pin their files in Crust network|
-### Showcases and Scenarios
-#### Website Hosting
+### Showcases and scenarios
+#### Website hosting
 * Decentralized website hosting, for example, [Decentralized Uniswap Interface hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
 
-#### Off-Chain Data Storage
+#### Off-chain data storage
 * Integrate Crust with NFT Exchanges and NFT minting tools
 * Integrate Crust with decentralized full-node data storage solutions
   
-#### Accelerated Content Delivery
+#### Accelerated content delivery
 * Integrate Crust with decentralized video websites and social media platforms
 
 ## Blockchain based applications
@@ -45,7 +45,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 |Wallet|    |    |
 |Storage and Node Explorer|    |    |
 
-## Development Tools
+## Development tools
 To develop useful API and SDK available for muti-languages.
 
 Components |Existing Projects|Potentially Interesting Projects|
@@ -71,7 +71,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 |  File systems   |    |  Enabling Crust to be more compatible to multiple file systems such as Dat, BitTorrent, Swarm, etc.  |
 
 
-## Chain Protocols
+## Chain protocols
 To enhance the design for GPoS,  MPoW and Decentralized Storage Market (DSM).
 
 Components |Existing Projects|Potentially Interesting Projects|
