@@ -24,8 +24,15 @@ Please provide the following:
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
 * Mockups/designs of any UI components
+Homepage
 ![image](https://user-images.githubusercontent.com/16051365/114265209-d681db00-99ef-11eb-8588-0c052a848c9d.png)
-![image](https://user-images.githubusercontent.com/16051365/114265362-a6870780-99f0-11eb-8456-d83070e26dc2.png)
+
+Demo video got from ipfs.io/ipfs gateway stored on Crust Network
+![image](https://user-images.githubusercontent.com/16051365/114265474-4b094980-99f1-11eb-8620-9d54d49415b1.png)
+
+Upload video
+![image](https://user-images.githubusercontent.com/16051365/114265505-712ee980-99f1-11eb-8829-34f383d51ff6.png)
+
 
 
 * Data models / API specifications of the core functionality
