@@ -25,6 +25,8 @@ We expect the teams to already have a solid idea about your project's expected f
 
 * Mockups/designs of any UI components
 ![image](https://user-images.githubusercontent.com/16051365/114265209-d681db00-99ef-11eb-8588-0c052a848c9d.png)
+![image](https://user-images.githubusercontent.com/16051365/114265362-a6870780-99f0-11eb-8456-d83070e26dc2.png)
+
 
 * Data models / API specifications of the core functionality
 * An overview of the technology stack to be used
