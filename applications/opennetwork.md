@@ -14,7 +14,7 @@
 Please provide the following:
   * Opennetwork
   * Most of people use centralized video sharing platforms and they are satisfied with that, but up to one day they realized that they are hardly controlled by incognito algorithms and decisions of the management board behind these platforms. It's easy to realize how powerful the centralized platforms are from the recent political events in 2020. Opennetwork was created as a open-source video sharing platform based on distributed networks to offer a solution opposed to conventional platforms:
-    * Video hosting ressources: Opennetwork is based on distributed storage network (e.g Crust Network) which is an emerging solution to reduce the power of centralized storage company. Distributed strorage offers cheap, controllable solution but there are not much show cases for public audience. Opennetwork is an complement component in the very early stage of distributed storage era.
+    * Video hosting ressources: Opennetwork is based on distributed storage network (e.g Crust Network) which is an emerging solution to reduce the power of centralized storage company. Distributed strorage offers cheap, controllable solution but there are not much show cases for public audience. Opennetwork is a complement component in the very early stage of distributed storage era.
     * Censorship-free
     * Non-profit: most decisions that lead people to the controlled situation come from the profit. Opennetwork uses cheap, distributed storage ressources (even cheaper in the future since hardware is becoming cheaper and get double capacity every 2 years according to Moore's law) therefore it does not require a huge amount of money to maintain the platform.
   * The idea is clear and simple, Opennetwork is built on nodejs.
