@@ -24,6 +24,8 @@ Please provide the following:
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
 * Mockups/designs of any UI components
+![image](https://user-images.githubusercontent.com/16051365/114265209-d681db00-99ef-11eb-8588-0c052a848c9d.png)
+
 * Data models / API specifications of the core functionality
 * An overview of the technology stack to be used
 * Documentation of core components, protocols, architecture, etc. to be deployed
