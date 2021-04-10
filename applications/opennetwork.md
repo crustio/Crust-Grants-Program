@@ -1,9 +1,9 @@
 # Crust Grant Proposal
 
-* **Project Name:** Name of your project 
-* **Team Name:** Legal name of your team
-* **Payment Address:** Ethereum address 
-* **Receivable Token:** CRU or USDT
+* **Project Name:** Opennetwork
+* **Team Name:** NTN
+* **Payment Address:** 0x04a02f853711D04Eb0E009D3d1554C7eCeD580E6
+* **Receivable Token:** CRU
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -12,10 +12,13 @@
 ### Overview
 
 Please provide the following:
-  * A project name
-  * A brief description of your project.
-  * An indication of how your project relates to / integrates into Crust.
-  * An indication of why your team is interested in creating this project.
+  * Opennetwork
+  * Most of people use centralized video sharing platforms and they are satisfied with that, but up to one day they realized that they are hardly controlled by incognito algorithms and decisions of the management board behind these platforms. It's easy to realize how powerful the centralized platforms are from the recent political events in 2020. Opennetwork was created as a open-source video sharing platform based on distributed networks to offer a solution opposed to conventional platforms:
+    * Video hosting ressources: Opennetwork is based on distributed storage network (e.g Crust Network) which is an emerging solution to reduce the power of centralized storage company. Distributed strorage offers cheap, controllable solution but there are not much show cases for public audiance. Opennetwork is an complement component in the very early stage of distributed storage era.
+    * Censorship-free
+    * Non-profit: most decisions that lead people to the controlled situation come from the profit. Opennetwork use cheap, distributed storage ressources therefore it does not require a huge amount of money to maintain the platform.
+  * The idea is clear and simple, Opennetwork is built on nodejs.
+  * We experienced multiple protocols of distributed content sharing such as bitTorrent, IPFS, Lbry,... The idea of distributed storage is interessting but the content would disappear if there are not nodes that keep them. Many distributed networks come to resolve that issue such as Crust Network, Filecoin, Sia, Storj,... but the show case is still very limited, public audience is not aware of such networks. People get attention to these names just for "investment" (in other word: manipulation) purpose. Opennetwork  believes that distributed storage is in very early stage and it will be much more popular in the future since people is now aware of censorship they got from centralized platforms.
 
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
