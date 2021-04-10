@@ -56,13 +56,12 @@ Help us locate your project in the Crust landscape and what problems it tries to
 ## Team
 
 ### Team members
-* Name of team leader
-* Names of team members	
+* Nguyen Trong Nghia
 
 ### Contact
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. dean@crust.network)
-* **Website:**
+* **Contact Name:** Nguyen Trong Nghia
+* **Contact Email:** trongnghia.nguyen@outlook.com
+* **Website:*http://35.205.187.224:3000/*
 
 ### Legal Structure 
 * **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
