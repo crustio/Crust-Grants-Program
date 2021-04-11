@@ -28,7 +28,8 @@ We expect the teams to already have a solid idea about your project's expected f
 **We only focus on backend at the moment therefore the frontend is not modified yet, some texts got from the theme are not changed.**
 
 Homepage
-![image](https://user-images.githubusercontent.com/16051365/114265209-d681db00-99ef-11eb-8588-0c052a848c9d.png)
+![image](https://user-images.githubusercontent.com/16051365/114315703-60b96480-9b00-11eb-9635-d1d3edb201ef.png)
+
 
 Demo video got from ipfs.io/ipfs gateway stored on Crust Network
 ![image](https://user-images.githubusercontent.com/16051365/114265474-4b094980-99f1-11eb-8620-9d54d49415b1.png)
@@ -61,7 +62,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 ### Contact
 * **Contact Name:** Nguyen Trong Nghia
 * **Contact Email:** trongnghia.nguyen@outlook.com
-* **Website:**http://35.205.187.224:3000/ (demo)
+* **Website:**http://34.116.253.29:3000/ (demo)
 
 ### Legal Structure 
 * **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
