@@ -20,7 +20,7 @@ Crust Grants Program is application-oriented, currently it only supports softwar
 ```
 
 
-## User based applications
+## User Based Applications
 To develop more applications & scenarios for Crust.
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
@@ -39,7 +39,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 #### Accelerated Content Delivery
 * Integrate Crust with decentralized video websites and social media platforms
 
-## Blockchain based applications
+## Blockchain Based Applications
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
 |Wallet|    |    |
@@ -63,7 +63,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 |  Disk Management  |    | Strategy enhancement for Disk management    |
 
 
-## File systems
+## File Systems
 Enhancing the compatibility between Crust Network and various distributed file systems
 
 Components |Existing Projects|Potentially Interesting Projects|
