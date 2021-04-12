@@ -62,7 +62,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 ### Contact
 * **Contact Name:** Nguyen Trong Nghia
 * **Contact Email:** trongnghia.nguyen@outlook.com
-* **Website:**http://34.116.253.29:3000/ (demo)
+* **Website:**http://crust.live (demo)
 
 ### Legal Structure 
 * **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
