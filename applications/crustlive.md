@@ -41,7 +41,7 @@ Sia.tech is a working platform for a long time but until the moment public peopl
 
 Lbry has their own video sharing platform https://odysee.com/ (previously lbry.tv) It's not fully distributed because the contents are guaranteed by private Lbry nodes. Public nodes don't have incentive to keep their nodes alive. Odysee has more than 15M visits each month. People start using distributed video sharing platform because they care more and more about the cencorship.
 
-D.tube is a distributed video sharing blockchain, this project is awesome but the weakest point of the project is that people should be responsable for the storage of their videos. This project could work for a certain amount of people but for public audience it doesn't work. I made a survey of my friends who are engineers in IT fields, they are not aware about distributed storage protocols and distributed storage platforms, so asking them to store videos themself without using centralized platforms is a diffucult mission.
+D.tube is a distributed video sharing blockchain, this project is awesome but the weakest point of the project is that people should be responsable for the storage of their videos. This project could work for a certain amount of people but for public audience it doesn't work. I made a survey with my friends who are engineers in IT fields, they are not aware about distributed storage protocols and distributed storage platforms, so asking them to store videos themself without using centralized platforms is a diffucult mission.
 
 
   * If so, how is your project different?
