@@ -36,12 +36,12 @@ Upload video
 
 Sia.tech is a working platform for a long time but until the moment public people don't use it to store their files. Distributed storage in general doesn't have much use cases where people can trust and put their personal data on it. Crust.live is the place where people can share their public videos and experience how easy and powerful a distributed storage system has. What people are worrying the most about when using distributed storage platforms is its privacy and its stability. Crust Live can convince people about the stability by showing that their videos (in other word: their data) are always playable with high speed and low latency on Crust.Network.
 
-* What need(s) does your project meet? 
 * Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
 
 Lbry has their own video sharing platform https://odysee.com/ (previously lbry.tv) It's not fully distributed because the contents are guaranteed by private Lbry nodes. Public nodes don't have incentive to keep their nodes alive. Odysee has more than 15M visits each month. People start using distributed video sharing platform because they care more and more about the cencorship.
 
 D.tube is a distributed video sharing blockchain, this project is awesome but the weakest point of the project is that people should be responsable for the storage of their videos. This project could work for a percentage of people but for public audience it doesn't work. I made a survey of my friends who are engineers in IT fields, they are not aware about distributed storage protocols and distributed storage platforms, so asking them to store videos themself without using centralized platforms is a diffucult mission.
+
   * If so, how is your project different?
   
 Crust Live was built by Crust Network supporters theirfore it's for Crust Network first. Crust Live is trully decentralized and is maintained by donation and advertisement. 
