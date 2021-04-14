@@ -10,8 +10,6 @@
 > ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
 
 ### Overview
-
-  * Project name: Crust.Live
   * Description: Most of people use centralized video sharing platforms and they are satisfied with that, but up to one day they realized that they are hardly controlled by incognito algorithms and decisions of the management board behind these platforms. It's easy to realize how dictatorial the centralized platforms are from the recent political events in 2020. Crust Live was created as an open-source video sharing platform based on distributed network to offer a solution opposed to conventional platforms:
     * Video hosting ressources: Crust Live is based on distributed storage networks (e.g Crust Network) which is an emerging solution to reduce the power of centralized storage companies. Distributed strorage offers cheap, controllable solution but there are not much show cases for public audience. Crust Live is a complement component in the very early stage of distributed storage era.
     * Censorship-free
