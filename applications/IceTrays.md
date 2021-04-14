@@ -88,8 +88,7 @@
 
   | Number | Deliverable              | Specification                                                |
   | -----: | ------------------------ | ------------------------------------------------------------ |
-  |    0a. | License                  | MIT license                                                  |
-  |    0b. | Documentation            | A dockerfile with deploying a 3 nodes **itsd** cluster and A document with how to use **itsc**. |
+  |     0. | Documentation            | A dockerfile with deploying a 3 nodes **itsd** cluster and A document with how to use **itsc**. |
   |     1. | command-line application | We will provide a raft cluster with at least three nodes running. Cluster supports uploading files to IPFS and crust network. At the same time, we will provide an easy-to-use command-line tool **itsc**, which supports uploading, downloading, moving, deleting files and querying files and cluster status. |
 
   
