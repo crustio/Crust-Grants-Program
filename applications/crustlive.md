@@ -88,10 +88,11 @@ Sia.tech is a working platform for a long time but until the moment public peopl
 * 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. |Private gateway|Create private gateway|  
-| 2. |Website Security|Strengthen the security to avoid malicious attacks|
-| 3. |Free uploading video|Using donation to create a common budget where users could use to store their video easily with Crust Live|  
-| 4. |Auto-selected gateway|Compare different gateway and choose the best gateway for users| 
+| 1. |Private gateway|Create private gateway|
+| 2. |Additional features|Implement additional functions for the website (e.g. chat)| 
+| 3. |Website Security|Strengthen the security to avoid malicious attacks|
+| 4. |Free uploading video|Using donation to create a common budget where users could use to store their video easily with Crust Live|  
+| 5. |Auto-selected gateway|Compare different gateway and choose the best gateway for users| 
 
 
 ## Future Plans
