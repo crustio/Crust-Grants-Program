@@ -103,10 +103,7 @@ Crust Live was built by Crust Network supporters therefore it's for Crust Networ
 
 ## Future Plans
 
-Please include here
-
-The supporters (Crust investors) will promote the project if the project go well.
-
+TBD
 
 ## Additional Information 
 * Are there are any teams who have already contributed (financially) to your project?
