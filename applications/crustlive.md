@@ -23,7 +23,7 @@
 Homepage
 ![image](https://user-images.githubusercontent.com/16051365/114685909-946bd880-9d12-11eb-91bd-30c12459a577.png)
 
-Demo video got from ipfs.io/ipfs gateway stored on Crust Network
+Demo video got from ipfs.io/ipfs gateway
 ![image](https://user-images.githubusercontent.com/16051365/114686053-b7968800-9d12-11eb-8f7d-11e2aeba97df.png)
 
 Upload video
