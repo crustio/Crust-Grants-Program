@@ -46,7 +46,7 @@ D.tube is a distributed video sharing blockchain, this project is awesome but th
 
   * If so, how is your project different?
   
-Crust Live was built by Crust Network supporters therefore it's for Crust Network first. Crust Live is trully decentralized and is maintained by donation and advertisement. 
+Crust Live was built by Crust Network supporters therefore it's for Crust Network first. Crust Live is fully decentralized and is maintained by donation and advertisement. 
   
 
 ## Team
