@@ -11,9 +11,8 @@
 
 ### Overview
 
-Please provide the following:
-  * Crust.Live
-  * Most of people use centralized video sharing platforms and they are satisfied with that, but up to one day they realized that they are hardly controlled by incognito algorithms and decisions of the management board behind these platforms. It's easy to realize how dictatorial the centralized platforms are from the recent political events in 2020. Crust Live was created as an open-source video sharing platform based on distributed network to offer a solution opposed to conventional platforms:
+  * Project name: Crust.Live
+  * Description: Most of people use centralized video sharing platforms and they are satisfied with that, but up to one day they realized that they are hardly controlled by incognito algorithms and decisions of the management board behind these platforms. It's easy to realize how dictatorial the centralized platforms are from the recent political events in 2020. Crust Live was created as an open-source video sharing platform based on distributed network to offer a solution opposed to conventional platforms:
     * Video hosting ressources: Crust Live is based on distributed storage networks (e.g Crust Network) which is an emerging solution to reduce the power of centralized storage companies. Distributed strorage offers cheap, controllable solution but there are not much show cases for public audience. Crust Live is a complement component in the very early stage of distributed storage era.
     * Censorship-free
     * Non-profit: most decisions that lead people to the controlled situation come from the profit. Crust Live uses cheap, distributed storage ressources (even cheaper in the future since hardware is becoming cheaper and get double capacity every 2 years according to Moore's law) therefore it does not require a huge amount of money to maintain the platform. The profit that is used to maintain the platform come from the donation and advertisement.
@@ -65,23 +64,6 @@ Sia.tech is a working platform for a long time but until the moment public peopl
 ### Team LinkedIn Profiles
 * https://www.linkedin.com/in/trongnghia/
 
-## Development Roadmap
-
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to IPFS/Crust. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month. 
-
-For each milestone,
-
-* make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-* include the amount of funding requested _per milestone_.
-* include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-* provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-* commit to providing Dockerfiles for the delivery of your project. 
-* indicate milestone duration as well as number of full-time employees working on each milestone, and include the approximate number of days along with the cost per day.
-* _Deliverables 0a-0d are mandatory_ and shall not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
 * **Total Estimated Duration:** 4 months
