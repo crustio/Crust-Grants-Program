@@ -75,7 +75,7 @@ Crust Live was built by Crust Network supporters therefore it's for Crust Networ
 * **Total Costs:** 15000 USD
 
 ### Milestone 1 MVP website
-* **Estimated Duration:** 2 month
+* **Estimated Duration:** 2 months
 * **FTE:**  1
 * **Costs:** 10,000 USD
 
@@ -88,10 +88,10 @@ Crust Live was built by Crust Network supporters therefore it's for Crust Networ
 
 ### Milestone 2 Stable website
 
-* **Estimated Duration:** 2 month
+* **Estimated Duration:** 2 months
 * **FTE:**  1
 * **Costs:** 5,000 USD
-* 
+
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. |Private gateway|Create private gateway|
