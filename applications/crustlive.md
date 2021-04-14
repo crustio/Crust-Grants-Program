@@ -74,7 +74,7 @@ Crust Live was built by Crust Network supporters therefore it's for Crust Networ
 * **Full-Time Equivalent (FTE):**  1
 * **Total Costs:** 15000 USD
 
-### Milestone 1 MVP website
+### Milestone 1: MVP website
 * **Estimated Duration:** 2 months
 * **FTE:**  1
 * **Costs:** 10,000 USD
@@ -86,7 +86,7 @@ Crust Live was built by Crust Network supporters therefore it's for Crust Networ
 
 
 
-### Milestone 2 Stable website
+### Milestone 2: Stable website
 
 * **Estimated Duration:** 2 months
 * **FTE:**  1
