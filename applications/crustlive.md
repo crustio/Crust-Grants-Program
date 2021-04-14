@@ -1,6 +1,7 @@
 # Crust Grant Proposal
 
 * **Project Name:** CrustLive
+* **Website:** http://crust.live
 * **Team Name:** NTN
 * **Payment Address:** 0x04a02f853711D04Eb0E009D3d1554C7eCeD580E6
 * **Receivable Token:** USDT/USDB
@@ -57,7 +58,6 @@ Crust Live was built by Crust Network supporters therefore it's for Crust Networ
 ### Contact
 * **Contact Name:** Nguyen Trong Nghia
 * **Contact Email:** trongnghia.nguyen@outlook.com
-* **Website:**http://crust.live (demo)
 
 ### Legal Structure 
 * **No legal structure** 
