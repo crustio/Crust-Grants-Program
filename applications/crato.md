@@ -94,12 +94,10 @@ For each milestone,
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Crust nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
-| 1. | Crust module: X | We will create a Crust module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Crust module: Y | We will create a Crust module that will... |  
-| 3. | Crust module: Z | We will create a Crust module that will... |  
+| 0. | License | Apache 2.0 |
+| 1. | Architect Design | We discussed and designed the architect of our project.|  
+| 2. | Basic Functionality Implementation | We implemented several basic functionality including IPFS integration, we can also pin file, folder to the server.  |  
+| 3. | Integrate crust.| All the files will be uploaded to the crust network. |  
 
 
 
@@ -109,7 +107,7 @@ For each milestone,
 * **FTE:**  1
 * **Costs:** 6,000 USD
 
-Added some user-friendly features.
+Added some user-friendly features like indicator, searching, payment (Stripe integration) etc..
 
 ## Future Plans
 
