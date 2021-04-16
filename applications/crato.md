@@ -46,7 +46,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 ### Contact
 * **Contact Name:** Zihao Ding
-* **Contact Email:** zihao@crato.io
+* **Contact Email:** atjohore@outlook.com
 * **Website:** https://www.crato.io/
 
 ### Legal Structure 
