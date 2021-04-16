@@ -32,7 +32,7 @@ We expect the teams to already have a solid idea about your project's expected f
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem? We built a centralized Crust account to help users to initiate files orders on Crust, so that we could provide decentralized data storage service on top of our centralized IPFS storage service. In a nutshell, we provided simpler interface for users to user crust.
+* Where and how does your project fit into the ecosystem? We built a centralized Crust account to help users to initiate files orders on Crust, so that we could provide decentralized data storage service on top of our centralized IPFS storage service. In a nutshell, we provided simpler interface for users to use crust.
 * What need(s) does your project meet?  Balanced Storage Service, both centralized and decentralized.
 * Are there any other projects similar to yours in the IPFS/Crust ecosystem? Not sure.
   * If so, how is your project different?
@@ -86,7 +86,7 @@ For each milestone,
 * **Full-Time Equivalent (FTE):**  2.5 FTE
 * **Total Costs:** 15,000 USD
 
-### Milestone 1 Example — Implement Crust Order Modules 
+### Milestone 1 Example — Implement Basic Functionality of Crato
 * **Estimated Duration:** 1.5 month
 * **FTE:**  1.5
 * **Costs:** 9,000 USD
@@ -109,13 +109,13 @@ For each milestone,
 * **FTE:**  1
 * **Costs:** 6,000 USD
 
-
+Added some user-friendly features.
 
 ## Future Plans
 
 Please include here
 
-We will add SDK and standard CI/CD functionality for professional users.
+We will continue to optimize the project and then add SDK and standard CI/CD functionality for professional users.
 
 
 ## Additional Information 
