@@ -1,9 +1,9 @@
 # Crust Grant Proposal
 
-* **Project Name:** Name of your project 
-* **Team Name:** Legal name of your team
-* **Payment Address:** Ethereum address 
-* **Receivable Token:** CRU or USDT
+* **Project Name:** Crato
+* **Team Name:** Nash Cloud
+* **Payment Address:** 0xdd2f8a0e413ddd58bf60a1c9218723f312671e33
+* **Receivable Token:** CRU
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -12,55 +12,56 @@
 ### Overview
 
 Please provide the following:
-  * A project name
-  * A brief description of your project.
-  * An indication of how your project relates to / integrates into Crust.
-  * An indication of why your team is interested in creating this project.
+  * A project name: Crato
+  * A brief description of your project: Sophisticated Pin Service Built On IPFS
+  * An indication of how your project relates to / integrates into Crust: Crato seriously takes its role as eco-partner of Crust to
+provide decentralized meta data management service with easy
+IPFS API and toolkit.
+  * An indication of why your team is interested in creating this project: We have always been interested in field of Storage, by the power of IPFS and Crust blockchain, we have chance to creat a brand new storage service.
 
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
 * Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
+* Data models / API specifications of the core functionality: provided in our repo
+* An overview of the technology stack to be used: Ruby on Rails, vue 3.x, IPFS
+* Documentation of core components, protocols, architecture, etc. to be deployed: Crust whitepaper, IPFS protocol
 * PoC/MVP or other relevant prior work or research on the topic
 
 ### Ecosystem Fit 
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem? 
-* What need(s) does your project meet? 
-* Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
+* Where and how does your project fit into the ecosystem? We built a centralized Crust account to help users to initiate files orders on Crust, so that we could provide decentralized data storage service on top of our centralized IPFS storage service. In a nutshell, we provided simpler interface for users to user crust.
+* What need(s) does your project meet?  Balanced Storage Service, both centralized and decentralized.
+* Are there any other projects similar to yours in the IPFS/Crust ecosystem? Not sure.
   * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
 
 ## Team
 
 ### Team members
-* Name of team leader
-* Names of team members	
+* Name of team leader: Zihao Ding
+* Names of team members: Zihao Ding, ChengGuo Piao
 
 ### Contact
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. dean@crust.network)
-* **Website:**
+* **Contact Name:** Zihao Ding
+* **Contact Email:** zihao@crato.io
+* **Website:** https://www.crato.io/
 
 ### Legal Structure 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
-* **Registered Legal Entity:** Name of your registered legal entity, if available. 
+* **Registered Address:** Floor 6, Eight on the Bund, No.8 2nd Zhongshan East Road, Shanghai
+* **Registered Legal Entity:** Nash Cloud
 
 ### Team's experience
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
 
 ### Team Code Repos
-* https://github.com/<your_repo_1>
-* https://github.com/<your_repo_2>
+* https://github.com/cgpiao/nash-spa
+* https://github.com/cgpiao/nash-api
 
 ### Team LinkedIn Profiles
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+
 
 ## Development Roadmap
 
@@ -81,14 +82,15 @@ For each milestone,
 > If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 12,000 USD)
+* **Total Estimated Duration:** 2.5 months
+* **Full-Time Equivalent (FTE):**  2.5 FTE
+* **Total Costs:** 15,000 USD
 
 ### Milestone 1 Example — Implement Crust Order Modules 
-* **Estimated Duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USD
+* **Estimated Duration:** 1.5 month
+* **FTE:**  1.5
+* **Costs:** 9,000 USD
+
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -105,17 +107,15 @@ For each milestone,
 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 4,000 USD
+* **Costs:** 6,000 USD
 
-...
 
 
 ## Future Plans
 
 Please include here
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+We will add SDK and standard CI/CD functionality for professional users.
 
 
 ## Additional Information 
@@ -124,5 +124,5 @@ Any additional information that you think is relevant to this application that h
 
 Possible additional information to include:
 
-* Are there are any teams who have already contributed (financially) to your project?
-* Do you have a community of users or open-source developers who are contributing to your project?
+* Are there are any teams who have already contributed (financially) to your project? No.
+* Do you have a community of users or open-source developers who are contributing to your project? No.
