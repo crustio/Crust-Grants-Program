@@ -83,7 +83,7 @@ For each milestone,
 
 ### Overview
 * **Total Estimated Duration:** 3 months
-* **Full-Time Equivalent (FTE):**  3 FTE
+* **Full-Time Equivalent (FTE):**  2 FTE
 * **Total Costs:** 30,000 USD
 
 ### Milestone 1 Example — Implement Basic Functionality of Crato
