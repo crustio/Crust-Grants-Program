@@ -22,11 +22,11 @@ IPFS API and toolkit.
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
-* Mockups/designs of any UI components
+* Mockups/designs of any UI components: We already fininshed the design of UI components so you may simply refer to our product website.
 * Data models / API specifications of the core functionality: provided in our repo
 * An overview of the technology stack to be used: Ruby on Rails, vue 3.x, IPFS
 * Documentation of core components, protocols, architecture, etc. to be deployed: Crust whitepaper, IPFS protocol
-* PoC/MVP or other relevant prior work or research on the topic
+* PoC/MVP or other relevant prior work or research on the topic: you may refer to Pinata, from which part of our product derived inspiration.
 
 ### Ecosystem Fit 
 
@@ -34,9 +34,8 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 * Where and how does your project fit into the ecosystem? We built a centralized Crust account to help users to initiate files orders on Crust, so that we could provide decentralized data storage service on top of our centralized IPFS storage service. In a nutshell, we provided simpler interface for users to use crust.
 * What need(s) does your project meet?  Balanced Storage Service, both centralized and decentralized.
-* Are there any other projects similar to yours in the IPFS/Crust ecosystem? Very likely no; unless pinata switch its focus to Crust.
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+* Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
+  * Very likely no; unless pinata switch its focus to Crust.
 
 ## Team
 
@@ -55,7 +54,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 ### Team's experience
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
-Lei, previously head of data science of a fortune 500 company and CEO of a couple of multi-nationa companies; Chao, previouly a SDE leader at Alibaba; Zihao, an experienced developer across multiple areas in blockchain field. 
+Lei, previously head of data science of a fortune 500 company and CEO of a couple of multi-nationa companies; Chao, previouly a SDE leader at Alibaba; Zihao, an experienced developer across multiple areas in blockchain field.
 
 ### Team Code Repos
 * https://github.com/cgpiao/nash-spa
@@ -68,29 +67,16 @@ https://www.linkedin.com/in/lulei/
 
 This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to IPFS/Crust. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month. 
-
-For each milestone,
-
-* make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-* include the amount of funding requested _per milestone_.
-* include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-* provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-* commit to providing Dockerfiles for the delivery of your project. 
-* indicate milestone duration as well as number of full-time employees working on each milestone, and include the approximate number of days along with the cost per day.
-* _Deliverables 0a-0d are mandatory_ and shall not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
 * **Total Estimated Duration:** 3-6 months
-* **Full-Time Equivalent (FTE):**  6 FTE
-* **Total Costs:** 100,000 USD
+* **Full-Time Equivalent (FTE):**  3 FTE
+* **Total Costs:** 30,000 USD
 
 ### Milestone 1 Example — Implement Basic Functionality of Crato
 * **Estimated Duration:** 2 month
-* **FTE:**  4
-* **Costs:** 40,000 USD
+* **FTE:**  3
+* **Costs:** 20,000 USD
 
 
 | Number | Deliverable | Specification |
@@ -105,8 +91,8 @@ For each milestone,
 ### Milestone 2 Example — Additional features
 
 * **Estimated Duration:** 1.5 month
-* **FTE:**  4
-* **Costs:** 30,000 USD
+* **FTE:**  3
+* **Costs:** 10,000 USD
 
 Added some user-friendly features like indicator, searching, payment (Stripe integration) etc..
 
