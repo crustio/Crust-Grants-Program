@@ -104,7 +104,7 @@ For each milestone,
 ### Milestone 2 Example — Additional features
 
 * **Estimated Duration:** 1 month
-* **FTE:**  1
+* **FTE:**  2
 * **Costs:** 10,000 USD
 
 Added some user-friendly features like indicator, searching, payment (Stripe integration) etc..
