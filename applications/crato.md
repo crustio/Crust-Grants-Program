@@ -2,7 +2,7 @@
 
 * **Project Name:** Crato
 * **Team Name:** Nash Cloud
-* **Payment Address:** 0xdd2f8a0e413ddd58bf60a1c9218723f312671e33
+* **Payment Address:** 0xfE219465caA035D568BB4d9F2263cde3cf279AD8
 * **Receivable Token:** CRU
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -34,19 +34,19 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 * Where and how does your project fit into the ecosystem? We built a centralized Crust account to help users to initiate files orders on Crust, so that we could provide decentralized data storage service on top of our centralized IPFS storage service. In a nutshell, we provided simpler interface for users to use crust.
 * What need(s) does your project meet?  Balanced Storage Service, both centralized and decentralized.
-* Are there any other projects similar to yours in the IPFS/Crust ecosystem? Not sure.
+* Are there any other projects similar to yours in the IPFS/Crust ecosystem? Very likely no; unless pinata switch its focus to Crust.
   * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
 
 ## Team
 
 ### Team members
-* Name of team leader: Zihao Ding
-* Names of team members: Zihao Ding, ChengGuo Piao
+* Name of team leader: Lei Lu
+* Names of team members: Lei Lu, Chao Li, Zihao Ding, ChengGuo Piao
 
 ### Contact
-* **Contact Name:** Zihao Ding
-* **Contact Email:** atjohore@outlook.com
+* **Contact Name:** Lei Lu
+* **Contact Email:** Lei.Lu@molemart.com
 * **Website:** https://www.crato.io/
 
 ### Legal Structure 
@@ -55,13 +55,14 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 ### Team's experience
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
+Lei, previously head of data science of a fortune 500 company and CEO of a couple of multi-nationa companies; Chao, previouly a SDE leader at Alibaba; Zihao, an experienced developer across multiple areas in blockchain field. 
 
 ### Team Code Repos
 * https://github.com/cgpiao/nash-spa
 * https://github.com/cgpiao/nash-api
 
 ### Team LinkedIn Profiles
-
+https://www.linkedin.com/in/lulei/
 
 ## Development Roadmap
 
@@ -82,14 +83,14 @@ For each milestone,
 > If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
-* **Total Estimated Duration:** 3 months
-* **Full-Time Equivalent (FTE):**  2 FTE
-* **Total Costs:** 30,000 USD
+* **Total Estimated Duration:** 3-6 months
+* **Full-Time Equivalent (FTE):**  6 FTE
+* **Total Costs:** 100,000 USD
 
 ### Milestone 1 Example — Implement Basic Functionality of Crato
 * **Estimated Duration:** 2 month
-* **FTE:**  2
-* **Costs:** 20,000 USD
+* **FTE:**  4
+* **Costs:** 40,000 USD
 
 
 | Number | Deliverable | Specification |
@@ -103,9 +104,9 @@ For each milestone,
 
 ### Milestone 2 Example — Additional features
 
-* **Estimated Duration:** 1 month
-* **FTE:**  2
-* **Costs:** 10,000 USD
+* **Estimated Duration:** 1.5 month
+* **FTE:**  4
+* **Costs:** 30,000 USD
 
 Added some user-friendly features like indicator, searching, payment (Stripe integration) etc..
 
