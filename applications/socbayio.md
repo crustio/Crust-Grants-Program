@@ -22,13 +22,13 @@
 * Mockups/designs of any UI components
 
 Homepage
-![image](https://user-images.githubusercontent.com/16051365/114685909-946bd880-9d12-11eb-91bd-30c12459a577.png)
+![image](https://user-images.githubusercontent.com/16051365/115372200-f2913380-a1ca-11eb-9ac9-122a4aa1e5ed.png)
 
 Demo video got from ipfs.io/ipfs gateway
-![image](https://user-images.githubusercontent.com/16051365/114686053-b7968800-9d12-11eb-8f7d-11e2aeba97df.png)
+![image](https://user-images.githubusercontent.com/16051365/115372829-94b11b80-a1cb-11eb-8ad7-f603bd364b93.png)
 
 Upload video
-![image](https://user-images.githubusercontent.com/16051365/114686203-db59ce00-9d12-11eb-93fc-e0a2e11fc69e.png)
+![image](https://user-images.githubusercontent.com/16051365/115372758-8236e200-a1cb-11eb-80c9-b3820f308ff5.png)
 
 
 ### Ecosystem Fit 
