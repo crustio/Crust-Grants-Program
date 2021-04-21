@@ -41,7 +41,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 ### Team members
 * Name of team leader: Lei Lu
-* Names of team members: Lei Lu, Chao Li, Zihao Ding, ChengGuo Piao
+* Names of team members: Lei Lu, Chao Li, Zihao Ding
 
 ### Contact
 * **Contact Name:** Lei Lu
