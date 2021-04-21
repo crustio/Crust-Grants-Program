@@ -1,6 +1,6 @@
 # Crust Grant Proposal
 
-* **Project Name:** SkyePass
+* **Project Name:** SkyeKiwi Protocol
 * **Team Name:** SkyeKiwi Team
 * **Payment Address**: 0xa5E4E1BB29eE2D16B07545CCf565868aE34F92a2
 * **Receivable Token:** USDT
