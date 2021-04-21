@@ -21,7 +21,7 @@ The SkyeKiwi protocol is off-chain tools to divide and encrypt any arbitrary dat
 
 For instance, given a file `file.txt` and an encryption schema as following:
 
-```json
+```javascript
 {
     pieces: 6, 
     quorum: 3,
@@ -61,7 +61,7 @@ This sample schema will instruct the protocol to generate an encryption that giv
 
 The protocol will then generate an metadata for the file and uploads the metadata as instructed by `metadata_ipfs`. A sample encryption schema will look like:
 
-```JSON
+```javascript
 {
     name: 'file.txt',
     notes: 'some note to tell what is this file ....',
@@ -85,7 +85,7 @@ Some other use cases for the encryption schema:
 
 1. Public File
 
-    ```json
+    ```javascript
     {
         pieces: 1, 
         quorum: 1,
@@ -97,7 +97,7 @@ Some other use cases for the encryption schema:
 
 2. Equal Access Right for all team members
 
-    ```json
+    ```javascript
     {
         pieces: 4, 
         quorum: 2,
@@ -150,7 +150,7 @@ When a user is trying to update a file, the user will first check in if the remo
 
 When multiple parties are needed to decrypt and recover a file, a `Host` client (one of the parties) will initiate the process and generate an ephemeral key pair and distribute the public key to all other parties, all parties will have to structure a message and pass it on encrypted with the ephemeral public key. The `Host` client can, therefore, recover the original file. A sample message will be structured as such:
 
-```json
+```javascript
 {
 	message: 'a decrypted piece of the original file.......',
     signer: 'a publickey',
