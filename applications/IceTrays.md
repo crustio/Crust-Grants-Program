@@ -11,19 +11,19 @@
 
   ### Overview
 
-  ​	IceTrays is a multitiered file storage API cluster built on Crust and IPFS,  and it's based on raft consensus. It also provide a mutable file system.
+  IceTrays is a multitiered file storage API cluster built on Crust and IPFS,  and it's based on raft consensus. It also provide a mutable file system .It will serve for developers.
 
   ### Project Details 
 
-  ​	Here's a high-level overview of the main components.
+  Here's a high-level overview of the main components.
 
-  ​	![image-20210412183532989](https://tva1.sinaimg.cn/large/008eGmZEly1gphw4nbzbpj316t0u0afn.jpg)
+  ![image-20210412183532989](https://user-images.githubusercontent.com/19503475/115512688-d36ed080-a2b4-11eb-954a-c896d63e349e.png)
 
-  ​	IceTrays cluster based on raft consensus, combined with IPFS and CRUST technology, combines multiple IPFS nodes into a cluster to provide users with hot storage, while crust network is used as cold storage to ensure reliability. IceTrays node supports both file path and CID retrieval, which provides an easy-to-use  combined API for IPFS and CRUST.
+  IceTrays cluster based on raft consensus, combined with IPFS and CRUST technology, combines multiple IPFS nodes into a cluster to provide users with hot storage, while crust network is used as cold storage to ensure reliability. IceTrays node supports both file path and CID retrieval, which provides an easy-to-use  combined API for IPFS and CRUST. 
 
-  ​	 I have written a general framework to familiarize  with the raft consensus. The [minimum viable product](https://github.com/ysh0566/ipfs-fs-cluster) can add, move, delete file and make directory, and  other nodes in network can sync directory root state from leader. Recently I noticed the crust project. I think crust is well integrated with it, which gives me motivation to improve the project.
+   I have written a general framework to familiarize  with the raft consensus. The [minimum viable product](https://github.com/ysh0566/ipfs-fs-cluster) can add, move, delete file and make directory, and  other nodes in network can sync directory root state from leader. Recently I noticed the crust project. I think crust is well integrated with it, which gives me motivation to improve the project.
 
-  ​	 It's a golang project.
+   It's a golang project.
 
   
 
@@ -33,11 +33,11 @@
 
   * Where and how does your project fit into the ecosystem? 
 
-    Decentralized Pinning Service
+     IPFS cluster gateway on Development Tool Layer.
 
   * What need(s) does your project meet? 
 
-    Providing  Helping users to pin their files in Crust network.
+    Providing  Helping users to pin their files in IPFS and Crust network.
 
   * Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
 
@@ -128,6 +128,8 @@
 
   - Maybe we can use GeoIP and optimize GC logic then we can use the cluster as a P2P-CDNs?
   - Access to filecoin network(But i don't think filecoin is a good choice for cold storage. )
+  - More detailed documentation.
+  - Provide help to developers who use IceTrays.
 
 
   ## Additional Information 
