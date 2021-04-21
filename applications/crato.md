@@ -41,7 +41,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 ### Team members
 * Name of team leader: Lei Lu
-* Names of team members: Lei Lu, Chao Li, Zihao Ding
+* Names of team members: Lei Lu, Chao Li
 
 ### Contact
 * **Contact Name:** Lei Lu
@@ -54,7 +54,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 
 ### Team's experience
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
-Lei, previously head of data science of a fortune 500 company and CEO of a couple of multi-nationa companies; Chao, previouly a SDE leader at Alibaba; Zihao, an experienced developer across multiple areas in blockchain field.
+Lei, previously head of data science of a fortune 500 company and CEO of a couple of multi-nationa companies; Chao, previouly a SDE leader at Alibaba
 
 ### Team Code Repos
 * https://github.com/cgpiao/nash-spa
