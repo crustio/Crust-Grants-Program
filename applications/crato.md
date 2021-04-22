@@ -1,7 +1,7 @@
 # Crust Grant Proposal
 
 * **Project Name:** Crato
-* **Team Name:** Nash Cloud
+* **Team Name:** Crato
 * **Payment Address:** 0xdd2f8a0e413ddd58bf60a1c9218723f312671e33
 * **Receivable Token:** USDT
 
@@ -48,9 +48,6 @@ Help us locate your project in the Crust landscape and what problems it tries to
 * **Contact Email:** atjohore@outlook.com
 * **Website:** https://www.crato.io/
 
-### Legal Structure 
-* **Registered Address:** Floor 6, Eight on the Bund, No.8 2nd Zhongshan East Road, Shanghai
-* **Registered Legal Entity:** Nash Cloud
 
 ### Team's experience
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. Zihao, an experienced developer.
