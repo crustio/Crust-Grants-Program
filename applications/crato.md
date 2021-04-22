@@ -2,8 +2,8 @@
 
 * **Project Name:** Crato
 * **Team Name:** Nash Cloud
-* **Payment Address:** 0xfE219465caA035D568BB4d9F2263cde3cf279AD8
-* **Receivable Token:** CRU
+* **Payment Address:** 0xdd2f8a0e413ddd58bf60a1c9218723f312671e33
+* **Receivable Token:** USDT
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -40,12 +40,12 @@ Help us locate your project in the Crust landscape and what problems it tries to
 ## Team
 
 ### Team members
-* Name of team leader: Lei Lu
-* Names of team members: Lei Lu, Chao Li
+* Name of team leader: Zihao Ding
+* Names of team members: Zihao Ding, Piao Chengguo
 
 ### Contact
-* **Contact Name:** Lei Lu
-* **Contact Email:** Lei.Lu@molemart.com
+* **Contact Name:** Zihao Ding
+* **Contact Email:** atjohore@outlook.com
 * **Website:** https://www.crato.io/
 
 ### Legal Structure 
@@ -53,15 +53,14 @@ Help us locate your project in the Crust landscape and what problems it tries to
 * **Registered Legal Entity:** Nash Cloud
 
 ### Team's experience
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
-Lei, previously head of data science of a fortune 500 company and CEO of a couple of multi-nationa companies; Chao, previouly a SDE leader at Alibaba
+Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. Zihao, an experienced developer.
 
 ### Team Code Repos
 * https://github.com/cgpiao/nash-spa
 * https://github.com/cgpiao/nash-api
 
 ### Team LinkedIn Profiles
-https://www.linkedin.com/in/lulei/
+https://www.linkedin.com/in/zihao-ding-0106a010a/
 
 ## Development Roadmap
 
