@@ -26,7 +26,7 @@ For instance, given a file `file.txt` and an encryption schema as following:
     pieces: 6, 
     quorum: 3,
     publicSharesCount: 0,
-    metadata_ipfs: {host: "ipfs.infura.io", port: 5001, protocol: "https"}
+    metadata_ipfs: {host: "ipfs.infura.io", port: 5001, protocol: "https"},
     members: [{
       publicKey: "publickey1",
       ipfs: {host: "ipfs.infura.io", port: 5001, protocol: "https"}
@@ -69,7 +69,7 @@ The protocol will then generate an metadata for the file and uploads the metadat
     pieces: 6, 
     quorum: 3,
     publicSharesCount: 0,
-    publicShares: [ ]
+    publicShares: [ ],
     pieces: [{
         publicKey: 'publickey1',
         cid: 'cid1.....'
@@ -90,7 +90,7 @@ Some other use cases for the encryption schema:
         pieces: 1, 
         quorum: 1,
         publicShares: 1,
-        metadata_ipfs: {host: "ipfs.infura.io", port: 5001, protocol: "https"}
+        metadata_ipfs: {host: "ipfs.infura.io", port: 5001, protocol: "https"},
         members: []
     }
     ```
@@ -102,7 +102,7 @@ Some other use cases for the encryption schema:
         pieces: 4, 
         quorum: 2,
         publicSharesCount: 1,
-        metadata_ipfs: {host: "ipfs.infura.io", port: 5001, protocol: "https"}
+        metadata_ipfs: {host: "ipfs.infura.io", port: 5001, protocol: "https"},
         members: [{
           publicKey: "publickey1",
           ipfs: {host: "ipfs.infura.io", port: 5001, protocol: "https"}
@@ -208,7 +208,7 @@ Besides private work for companies that cannot be shared, a password manager bas
 | 0a.    | License               | Apache 2.0 on all repos                                      |
 | 0b.    | Documentations        | A guideline of how to run and test all functionalities described below. |
 | 1.     | Sample Smart Contract | The core smart contract that stores IPFS hash, generate unique vault ID and implement access management. <br/>We are using ink! and the smart contract development suite maintained and developed by [Patract Labs](https://patract.io/) for developing environment, unit testing and deployment. |
-| 2.     | Protocol Library      | 1. 3 sample encryption schema as described above and tooling to build customized encryption schema. <br/>2. Core metadata handler that takes in a file and the encryption schema to generate a sharable metadata file. <br/>3. Use a sample smart contract to facilitate authorization management and file updating. <br/>4. Persistent storage with Crust Network APIs<br/>5. Unit tests and integration test w/Chia |
+| 2.     | Protocol Library      | 1. 3 sample encryption schema as described above and tooling to build customized encryption schema. <br/>2. Core metadata handler that takes in a file and the encryption schema to generate a sharable metadata file. <br/>3. Use a sample smart contract to facilitate authorization management and file updating. <br/>4. Persistent storage with Crust Network APIs<br/>5. Unit tests and integration test |
 
 ### Milestone 2 — Ready for Release
 * **Estimated Duration:** 2 Weeks
