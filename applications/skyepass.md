@@ -70,7 +70,7 @@ The protocol will then generate an metadata for the file and uploads the metadat
     quorum: 3,
     publicSharesCount: 0,
     publicShares: [ ]
-    members: [{
+    pieces: [{
         publicKey: 'publickey1',
         cid: 'cid1.....'
     } .... ]
@@ -188,7 +188,7 @@ Besides private work for companies that cannot be shared, a password manager bas
 ### Overview
 * **Total Estimated Duration:** 8 weeks
 * **Full-time equivalent (FTE):**  2.5 FTE 
-* **Total Costs:** $22,400
+* **Total Costs:** $16,800
 
 ### Milestone 1 — Core Protocol
 * **Estimated Duration:** 4 Weeks
@@ -210,21 +210,21 @@ Besides private work for companies that cannot be shared, a password manager bas
 | 1.     | Sample Smart Contract | The core smart contract that stores IPFS hash, generate unique vault ID and implement access management. <br/>We are using ink! and the smart contract development suite maintained and developed by [Patract Labs](https://patract.io/) for developing environment, unit testing and deployment. |
 | 2.     | Protocol Library      | 1. 3 sample encryption schema as described above and tooling to build customized encryption schema. <br/>2. Core metadata handler that takes in a file and the encryption schema to generate a sharable metadata file. <br/>3. Use a sample smart contract to facilitate authorization management and file updating. <br/>4. Persistent storage with Crust Network APIs<br/>5. Unit tests and integration test w/Chia |
 
-### Milestone 2 — Multi-parties Recovery
-* **Estimated Duration:** 4 Weeks
+### Milestone 2 — Ready for Release
+* **Estimated Duration:** 2 Weeks
 
 * **FTE:**  2
 
-* **Costs:** \$11,200 (2 FTE * 35 Hours per week * 4 Weeks * $40Hourly Wage.)
+* **Costs:** \$5,600 (2 FTE * 35 Hours per week * 2 Weeks * $40Hourly Wage.)
 
     
   
 
-| Number | Deliverable                                   | Specification                                                |
-| ------ | --------------------------------------------- | ------------------------------------------------------------ |
-| 0a.    | License                                       | Apache 2.0 on all repos                                      |
-| 0b.    | Documentations                                | A guideline of how to run and test all functionalities described below.<br/>A guideline of how to integrate the library for developers. |
-| 1.     | Multi-parties Recovery Add-on to the protocol | 1. `Host` Client to issue ephemeral keys to other clients through WebSocket<br/>2. Other clients will have to decrypt and sign a structured file within a given time frame <br/>3. `Host` will receive and verify the signature and recover the file<br/>4. `Host` can then choose to broadcast the resulting file to other clients. <br/>5. Unit tests and integration test w/Chia |
+| Number | Deliverable    | Specification                                                |
+| ------ | -------------- | ------------------------------------------------------------ |
+| 0a.    | License        | Apache 2.0 on all repos                                      |
+| 0b.    | Documentations | **Medium Post** for:<br/>A guideline of how to run and test all functionalities described below.<br/>A guideline of how to integrate the library for developers.<br/>A guideline of how to run a sample NFT market with encrypted image files |
+| 1.     | Demos          | 1. Demo for encrypting and sharing a small password database<br/>2. Demo for encrypting an artwork image. <br/>3. Demo for encrypting and sharing a multi-gigabytes large video file<br/> |
 
 
 ## Future Plans
