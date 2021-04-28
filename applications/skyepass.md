@@ -223,7 +223,7 @@ Besides private work for companies that cannot be shared, a password manager bas
 | Number | Deliverable    | Specification                                                |
 | ------ | -------------- | ------------------------------------------------------------ |
 | 0a.    | License        | Apache 2.0 on all repos                                      |
-| 0b.    | Documentations | **Medium Post** for:<br/>A guideline of how to run and test all functionalities described below.<br/>A guideline of how to integrate the library for developers.<br/>A guideline of how to run a sample NFT market with encrypted image files |
+| 0b.    | Documentations | **Medium Post** for:<br/>How to integrate SkyeKiwi for your project.<br/>How to run an NFT market with encrypted image files |
 | 1.     | Demos          | 1. Demo for encrypting and sharing a small password database<br/>2. Demo for encrypting an artwork image. <br/>3. Demo for encrypting and sharing a multi-gigabytes large video file<br/> |
 
 
