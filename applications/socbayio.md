@@ -82,7 +82,8 @@ Socbay.io was built by Crust Network supporters therefore it's for Crust Network
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. |MVP website|Implement basic functions for the website| 
-| 2. |Self uploading video|Implement private node to store temporary videos, user must place the order themself on Crust Apps|  
+| 2. |Upload file to Crust Network|Using socbay.io fund and Crust treasury to upload user videos to Crust Network| 
+| 3. |User video files checking|Checking file status on Crust Network| 
 
 
 
@@ -94,11 +95,9 @@ Socbay.io was built by Crust Network supporters therefore it's for Crust Network
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. |Private gateway|Create private gateway|
-| 2. |Additional features|Implement additional functions for the website (e.g. chat)| 
-| 3. |Website Security|Strengthen the security to avoid malicious attacks|
-| 4. |Free uploading video|Using donation to create a common budget where users could use to store their video easily with Socbay.io|  
-| 5. |Auto-selected gateway|Compare different gateway and choose the best gateway for users| 
+| 1. |Website Security|Strengthen the security to avoid malicious attacks|
+| 2. |CRU payment|Making the payment for uploading file|
+| 3. |Social media promotion/ tutorials|Writing articles/ tutorials to help people understand how to use decentralized platform|
 
 
 ## Future Plans
