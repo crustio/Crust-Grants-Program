@@ -103,7 +103,7 @@ Socbay.io was built by Crust Network supporters therefore it's for Crust Network
 | -----: | ----------- | ------------- |
 | 1. |Website Security|Strengthen the security to avoid malicious attacks|
 | 2. |CRU payment|Making the payment for uploading file|
-| 3. |Social media promotion/ tutorials|Writing articles/ tutorials to help people understand how to use decentralized platform|
+| 3. |Social media promotion/ tutorials|Writing articles/ tutorials to help people understand how socbay.io use Crust Network to decentralize video sharing platform|
 
 
 ## Future Plans
