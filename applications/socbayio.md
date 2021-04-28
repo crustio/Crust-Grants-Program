@@ -88,8 +88,9 @@ Socbay.io was built by Crust Network supporters therefore it's for Crust Network
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. |MVP website|Implement basic functions for the website| 
-| 2. |Upload file to Crust Network|Using socbay.io fund and Crust treasury to upload user videos to Crust Network| 
-| 3. |User video files checking|Checking file status on Crust Network| 
+| 2. |Upload file to Crust Network|Using socbay.io fund and Crust treasury to upload user videos to Crust Network|
+| 3. |Reducing uploading fee|Upload multiple videos for each upload| 
+| 4. |User video files checking|Checking file status on Crust Network| 
 
 
 
