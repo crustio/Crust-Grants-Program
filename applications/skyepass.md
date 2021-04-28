@@ -186,8 +186,8 @@ Besides private work for companies that cannot be shared, a password manager bas
 ## Development Roadmap
 
 ### Overview
-* **Total Estimated Duration:** 8 weeks
-* **Full-time equivalent (FTE):**  2.5 FTE 
+* **Total Estimated Duration:** 6 weeks
+* **Full-time equivalent (FTE):**  2 FTE 
 * **Total Costs:** $16,800
 
 ### Milestone 1 — Core Protocol
