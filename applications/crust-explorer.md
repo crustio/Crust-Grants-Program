@@ -88,37 +88,46 @@ For each milestone,
 
 - June 15.th\~：Continuously optimize, improve the project。
 
-### Overview
+### USD for,durationduration Overview
 
-- **Total Estimated Duration:** 2 months
+- **Total Estimated Duration:** 2 months ( 1.5 months + 7 days + 7days)
 
 - **Full-Time Equivalent (FTE):** 3 FTE （Addis Liao，Enmarn Wu，Guojin Yu）
 
-- **Total Costs:** The total amount of funding *needs to be below \$40k*
+- **Total Costs:** The total amount of funding needs to be below  33 k USD
 
-### Milestone 1 — Implement UI Modules
+### Milestone 1 — User Interface and The Design and Implementation of Database
 
-- **Estimated Duration:** 1 month
+- **Estimated Duration:** 7 days
 
-- **Costs:** 3k USD
+**Costs:** 2000 USD for UI Design 、1000 USD for SQL Server、10 K for Server and 4K for Database)
+| **Number** | **Deliverable** | **Specification** |
+| --- | --- | --- |
+| 0a. | Detail | UI design and implementation will be outsourced to a professional design team. Our team will be responsible for the database, functional design, as well as the technical selection, operation and maintenance and other pre-development preparation work. |
 
-| **Number** | **Deliverable** | **Specification**                                                                                     |
-|------------|-----------------|--------------------------------------------------------------------------------------------------------|
-| 0a.       | License        | GNU GPL                                                                                               |
-| 0b.       | Documentation  | We will provide comprehensive API documentation, source code |
-| 0c.       | Detail         | UI design and implementation will be outsourced to professional UI design teams and front-end development companies. Our team will be responsible for a series of processes such as code review, improvement, optimization, and modularization.|
+### Milestone 2 — Front-end and back-end development specific implementation
 
-### Milestone 2 — Implement Data&Api Modules
-
-- **Estimated Duration:** 2 month
+- **Estimated Duration:** 1.5 month 
 
 - **FTE:** 2
 
-- **Costs:** 1,000 USD
+- **Costs:** 7000 USD for Front-end、8000  USD for Back-end
 
-| **Number** | **Deliverable** | **Specification**                                                |
-|------------|-----------------|-------------------------------------------------------------------|
-| 0a.       | Detail         | The budget is mainly used for the cost of a cloud server, and the cost of code development and implementation will be borne by ourselves. |
+| **Number** | **Deliverable** | **Specification** |
+| --- | --- | --- |
+| 0a. | License | GNU GPL |
+| 0b. | Documentation | We will provide comprehensive API documentation, source code |
+| 0c. | Detail | Building Front-end pages, back-end function，specific the code implementation; front-end and back-end coupling; API Document writing. |
+
+### Milestone 3 — Test optimization is online
+
+- **Estimated Duration:** 7 days
+
+- **Costs:** 1000 USD
+
+| **Number** | **Deliverable** | **Specification** |
+| --- | --- | --- |
+| 0a. | Detail | Perform functional testing, stress testing, code optimization work, and then launch. |
 
 ## Future Plans
 
