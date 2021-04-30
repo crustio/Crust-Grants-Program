@@ -94,16 +94,16 @@ For each milestone,
 
 - **Full-Time Equivalent (FTE):** 3 FTE （Addis Liao，Enmarn Wu，Guojin Yu）
 
-- **Total Costs:** The total amount of funding needs to be below  19,000 USD
+- **Total Costs:** The total amount of funding needs to be below  18,000 USD
 
 ### Milestone 1 — User Interface and The Design and Implementation of Database
 
 - **Estimated Duration:** 7 days
 
-**Costs:** 1000 USD for UI Design 、1000 USD for SQL Server、5000 USD for Server and 3000 USD for Database)
+**Costs:** 1000 USD for SQL Server、5000 USD for Server and 3000 USD for Database)
 | **Number** | **Deliverable** | **Specification** |
 | --- | --- | --- |
-| 0a. | Detail | UI design and implementation will be outsourced to a professional design team. Our team will be responsible for the database, functional design, as well as the technical selection, operation and maintenance and other pre-development preparation work. |
+| 0a. | Detail | UI design and implementation will be done by our professional designer team member. Our team will be responsible for the database, functional design, as well as the technical selection, operation and maintenance and other pre-development preparation work. |
 
 ### Milestone 2 — Front-end and back-end development specific implementation
 
