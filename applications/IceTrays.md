@@ -78,13 +78,13 @@
 
   * **Total Estimated Duration:** 3 months
   * **Full-Time Equivalent (FTE):**  2 FTE
-  * **Total Costs:**  $24k
+  * **Total Costs:**  $20k
 
   ### Milestone 1 — Implement a minimum viable product
 
   * **Estimated Duration:** 6 weeks (Keep two extra weeks to learn about crust ecology)
   * **FTE:**  2
-  * **Costs:** 10, 000 USD
+  * **Costs:** 8, 000 USD
 
   | Number | Deliverable              | Specification                                                |
   | -----: | ------------------------ | ------------------------------------------------------------ |
@@ -97,7 +97,7 @@
 
   * **Estimated Duration:** 4 weeks
   * **FTE:**  2
-  * **Costs:** 8, 000 USD
+  * **Costs:** 7, 000 USD
 
   | Number | Deliverable   | Specification                                                |
   | -----: | ------------- | ------------------------------------------------------------ |
@@ -112,12 +112,13 @@
 
   * **Estimated Duration:** 4 weeks
   * **FTE:**  2
-  * **Costs:** 6, 000 USD
+  * **Costs:** 5, 000 USD
 
   | Number | Deliverable   | Specification                                                |
   | -----: | ------------- | ------------------------------------------------------------ |
   |     1. | code&unitest  | Java, golang, python SDK(We hope that we can implement signing transaction easily...) |
   |     2. | documentation | Java, golang, python SDK  documentation                      |
+  |     3. | documentation | Technical articles about IceTrays                 |
 
 
   ## 
