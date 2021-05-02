@@ -4,8 +4,8 @@
 
 - **Team Name:** GrassPig Technology
 
-- **Payment Address:** crust wallet -
-    5EtKPUiw6BuF8C7EDVVeCY5sAecm3w7vq4vrmgKHFQui7ozB
+- **Payment Address:** ERC-20 Wallet -
+    0x5d37D54390aE20A250f7C7c8276147BfFaa5ab09
 
 - **Receivable Token:** USDT & CRU
 
