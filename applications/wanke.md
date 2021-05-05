@@ -1,12 +1,14 @@
-Project Name:Wanke NFT 
+# Crust Grant Proposal
 
-Team Name: wanke develope team 
+* **Project Name:** Wanke NFT 
 
-Payment Address: 0x85546D1d447cB70dbFb736f567CCF61BBe7Ca336
+* **Team Name:**  wanke develope team 
 
-Receivable Token: USDT
+* **Payment Address:** 0x85546D1d447cB70dbFb736f567CCF61BBe7Ca336
 
-Overview 
+* **Receivable Token:** USDT
+
+* **Overview**
 
 wanke NFT is a decentralization NFT marketplace，it is a NFT dex application。 because wanke NFT has many NFT reated files like txt file，video file，picture file and video files。 
 so it need a very good decentralization storage file system to store this file, and we think crust one of the most fitable solutions at this time.
@@ -29,10 +31,10 @@ An indication of why your team is interested in creating this project.
 We been involved in decentralized storage service for more than three years.and we beleive there will be some great project be born on crust and ipfs and so on.we decide to do some great thing in this time.
 
 
-Project Details
+* **Project Details**
 
 one of the dapps's ui:
-
+![image](https://github.com/bruceli20202020/Crust-Grants-Program/blob/main/1-3.jpg?raw=true)
 
 the dapp's technology stack
 
@@ -61,32 +63,32 @@ Are there any other projects similar to yours in the IPFS/Crust ecosystem?
 it may have other similar project,but will be not the same.we have good experience in user base appliction like this.it is a balance between the blockchain technogy and User-friendly.we can do very good at this.
 
 
-Team
+* **Team**
 
-team leader:bruce li
+team leader:bruce
 
-team member: manong zhang .iris li
+team member: manong.iris
 
 Contact Contact Email:bruceli20202020@gmail.com
 
 
-Legal Structure
+* **Legal Structure**
 
 Registered Address: shanghai puodng zhongshan ROAD east 2nd floor 6 ,china
 
 
-Team's experience
+* **Team's experience**
 
 our team have more than 10 yeas in Internet software coding. and more than 5 years experience in blockchain filed coding. we have good exprience in Public chain, block explorere ,and private key mangment and so on.
 
 
 
-Team Code Repos
+* **Team Code Repos**
 
 https://github.com/bruceli20202020
 
 
-Development Roadmap
+* **Development Roadmap**
 
 Total Estimated Duration: 3 months 
 
@@ -94,7 +96,7 @@ Full-Time Equivalent (FTE): 3 FTE
 
 Total Costs: 20k USD
 
-Milestone 1: dapp beta version
+* **Milestone 1:**  dapp beta version
 
 Estimated Duration: 1.5months
 
@@ -109,7 +111,7 @@ Costs: 10k USD
 | 2.     | crust nework file access      | user can read and access videos,audios,and pictures NFT stored in Crust Network from dapp |
 
 
-Milestone 2: dapp product version
+* **Milestone 2:** dapp product version
 
 Estimated Duration: 1.5months
 
@@ -124,12 +126,12 @@ Costs: 10k USD
 | 2.     | social share system          | in the dapp,user can share the file (NFT)store in crust network |
 
 
-Future Plans
+* **Future Plans**
 
 TBD
 
 
-Additional Information
+* **Additional Information**
 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
