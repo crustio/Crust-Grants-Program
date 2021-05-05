@@ -83,7 +83,7 @@ FTE: 3
 Costs: 10k USD
 
 | Number | Deliverable                  | Specification                                                |
-| ------ | --------------------- -------| ------------------------------------------------------------ |
+| ------ | -----------------------------| ------------------------------------------------------------ |
 | 0a.    | dapp production version      | Implement production functions for the dapp,make it online runing |
 | 1.     | make a upload service code	| make a public server code for any others want to upload file to crust netowrk |
 | 2.     | social share system          | in the dapp,user can share the file (NFT)store in crust network |
