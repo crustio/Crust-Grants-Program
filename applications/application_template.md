@@ -17,7 +17,7 @@ Please provide the following:
   * An indication of how your project relates to / integrates into Crust.
   * An indication of why your team is interested in creating this project.
 
-## Project Details 
+### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
 * Mockups/designs of any UI components
@@ -26,7 +26,7 @@ We expect the teams to already have a solid idea about your project's expected f
 * Documentation of core components, protocols, architecture, etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic
 
-## Ecosystem Fit 
+### Ecosystem Fit 
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
