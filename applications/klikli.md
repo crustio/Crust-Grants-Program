@@ -59,7 +59,7 @@ The team has more than 10 years working experience in some related fields, such 
 
 ### Team Code Repos
 
-* https://github.com/mg00736448/Crust-Grants-Program
+* https://github.com/<your_repo_1>
 
 ### Team LinkedIn Profiles
 
@@ -71,13 +71,13 @@ N/A
 
 * **Total Estimated Duration:**  3 months
 * **Full-Time Equivalent (FTE):**   3 FTE
-* **Total Costs:**  28,500 USD
+* **Total Costs:**  20000 USD
 
 ### Milestone 1 — Implement Crust Order Modules
 
 * **Estimated Duration:** 1 month
 * **FTE:**  3
-* **Costs:** 14,000 USD
+* **Costs:** 10,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -92,7 +92,7 @@ N/A
 
 * **Estimated Duration:** 1 month
 * **FTE:**  3
-* **Costs:** 14,500 USD
+* **Costs:** 10,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
