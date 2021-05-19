@@ -1,128 +1,118 @@
-# Crust Grant Proposal
+- **Crust     Grant Proposal**
 
-* **Project Name:** Name of your project 
-* **Team Name:** Legal name of your team
-* **Payment Address:** Ethereum address 
-* **Receivable Token:** CRU or USDT
+- - **Project Name:** Sinso Getway
+  - **Team Name:** Sinso Tech Team
+  - **Payment Address:** 0xee3d6c7f4dc91b5cebe97b8a7f524128a1d5a0a7
+  - **Receivable Token:** USDT
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
-> ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
+⚠️ *When you submit an application for a Grant**，**You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
 
-### Overview
+**Overview**
 
-Please provide the following:
-  * A project name
-  * A brief description of your project.
-  * An indication of how your project relates to / integrates into Crust.
-  * An indication of why your team is interested in creating this project.
+Sinso Getway is a medical data aggregator based on Crust and IPFS, especially including the front-end display API interface for medical imaging data. Sinso Getway can upgrade traditional medical business data to Web 3.0. Using Sinso getway can quickly develop a medical industry standard electronic film system based on CRUST. 
 
-### Project Details 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
+**Project Details**
 
-* Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
+ **Core features****：**
 
-### Ecosystem Fit 
+| **#** | **Description**                                              |
+| ----- | ------------------------------------------------------------ |
+| 1     | Support mobile browsing of cloud  service of electronic films and reports associated with patient medical image  via QR codes |
+| 2     | Support mobile application browsing  service API based on CRUST distributed storage |
+| 3     | Supports the filing and arrangement of  electronic films and reports, and supports the mobile terminal to browse  patient electronic films and reports by directly turning pages, using the  plug-in-free H5 mode. |
+| 4     | Supports mobile terminal downloading  and browsing services of DICOM images, supports mobile terminal browsing  images, and has functions such as measurement, labeling, window width bed  adjustment, positioning line, etc. |
+| 5     | Support the encrypted storage of  patient data to avoid leakage of patient privacy and improve information  security protection |
+| 6     | Support  mobile terminal to read DICOM images, zoom in and out, measurement, window  width and window level adjustment, dynamic playback and other functions |
+| 7     | Reserve  privacy data pre-processing and pre-data classification functions. |
+
+*The minimum feasible DEMO we provide will use this Sinso Getway component, which is a very concise and practical case.
+
+**Ecosystem Fit** 
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem? 
-* What need(s) does your project meet? 
-* Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+- - Where and how does your      project fit into the ecosystem?
 
-## Team
+**IPFS cluster gateway on Development Tool Layer.**
 
-### Team members
-* Name of team leader
-* Names of team members	
+- - What need(s) does your project      meet?
 
-### Contact
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. dean@crust.network)
-* **Website:**
+**Providing Helping users to pin their files in IPFS and Crust network.**
 
-### Legal Structure 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
-* **Registered Legal Entity:** Name of your registered legal entity, if available. 
+- - Are there any other projects      similar to yours in the IPFS/Crust ecosystem?
 
-### Team's experience
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
+[Powergate](https://github.com/textileio/powergate) is a multitiered file storage API built on Filecoin and IPFS, and an index builder for Filecoin data. IceTrays provides a more reliable and easy-to-used service because it is decentralized and its nodes store file path message.
 
-### Team Code Repos
-* https://github.com/<your_repo_1>
-* https://github.com/<your_repo_2>
+**Team**
 
-### Team LinkedIn Profiles
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+**Team members**
 
-## Development Roadmap
+- - Franklin Jiang 
+  - Sum Xia
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+**Contact**
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to IPFS/Crust. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month. 
+- - **Contact Name:** Franklin jiang
+  - **Contact Email:** franklin@sinso.io
+  - **Website:** www.sinso.io
 
-For each milestone,
+**Legal Structure**
 
-* make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-* include the amount of funding requested _per milestone_.
-* include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-* provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-* commit to providing Dockerfiles for the delivery of your project. 
-* indicate milestone duration as well as number of full-time employees working on each milestone, and include the approximate number of days along with the cost per day.
-* _Deliverables 0a-0d are mandatory_ and shall not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test).
+none
 
-> If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
+**Team's experience**
 
-### Overview
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 12,000 USD)
+·    **Our team is from Chengdu and has long-term experience in the medical industry, especially in the field of medical imaging cloud computing and cloud storage.**
 
-### Milestone 1 Example — Implement Crust Order Modules 
-* **Estimated Duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USD
+·    **Our project sinso got the grant of filecoin acceleration camp, which is the top11 of FFA in the world.Team Code Repos**
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Crust nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
-| 1. | Crust module: X | We will create a Crust module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Crust module: Y | We will create a Crust module that will... |  
-| 3. | Crust module: Z | We will create a Crust module that will... |  
+- - [https://github.com/Sins](https://github.com/IceTrays)ogetway
 
+**Team LinkedIn Profiles**
 
+None
 
-### Milestone 2 Example — Additional features
+**Development Roadmap**
 
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 4,000 USD
+**Overview**
 
-...
+- - **Total Estimated Duration:** 2 months
+  - **Full-Time Equivalent (FTE):** 4 FTE
+  - **Total Costs:** $20k
 
+**Milestone 1 — Implement a minimum viable product**
 
-## Future Plans
+- - **Estimated Duration:** 4 weeks (Keep two extra weeks      to learn about crust ecology)
+  - **FTE:** 2
+  - **Costs:** 10 000 USD
 
-Please include here
+| **Number** | **Deliverable**          | **Specification**                                            |
+| ---------- | ------------------------ | ------------------------------------------------------------ |
+| 0.         | Documentation            | Deploy a curst node, and prepare an API server, integrate the basic image  interface and data interface, and provide a clear API manual |
+| 1.         | Command-line application | Support uploading of exclusive medical files, especially DICOM3.0, we  provide a medical file parser, which provides uploading, downloading and  displaying and reading. |
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+**Milestone 2 — Demo use case**
 
+- - **Estimated Duration:** 4 weeks
+  - **FTE:** 2
+  - **Costs:** 10000 USD
 
-## Additional Information 
+| **Number** | **Deliverable** | **Specification**                                            |
+| ---------- | --------------- | ------------------------------------------------------------ |
+| 1.         | code&unitest    | Complete data upload and download read and display process, especially  the front-end display process. Encapsulate the complete API structure (Java  language) |
+| 2.         | test            | Provide use case data to complete the test                   |
+| 3.         | documentation   | Provide front-end user manual.                               |
 
-Any additional information that you think is relevant to this application that hasn't already been included.
+**Future Plans**
 
-Possible additional information to include:
+o We will consider building an efficient hot data exchange layer in the sinso system, similar to a private swarm, and capable of pre-classification and pre-processing of data.
 
-* Are there are any teams who have already contributed (financially) to your project?
-* Do you have a community of users or open-source developers who are contributing to your project?
+o Need to consider privacy computing, using some privacy computing components, such as ownership.
+
+**Additional Information**
+
+- - None
+
+ 
