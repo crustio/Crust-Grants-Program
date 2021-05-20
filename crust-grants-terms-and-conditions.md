@@ -126,7 +126,7 @@ As soon as one evaluator approves the pull request, the delivery is officially a
 
 **(v)  Payment process:**
 
-The DCF Grant Committee specified in the [Crust-Grants-Program GitHub repository](https://github.com/crustio/Crust-Grants-Program), gets notified once the above-specified delivery was accepted or after 2 weeks without any feedback after the initial delivery. As soon as any feedback is provided by the evaluators, this feedback first needs to be resolved. After this, the DCF Grant Committee makes the payment to the Crust or Ethereum address specified in the initial application.
+As soon as any feedback is provided by the DCF committee, this feedback first needs to be resolved. After this, the DCF Grant Committee makes the payment to the Crust or Ethereum address specified in the initial application. 
 
 ## 5.  Scope of these Terms and Conditions
 
