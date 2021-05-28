@@ -13,23 +13,31 @@
 
 Please provide the following:
   * A project name.
+  
   Crato
   * A brief description of your project.
+  
   Sophisticated Pin Service Built On IPFS
   * An indication of how your project relates to / integrates into Crust.
+ 
   Crato seriously takes its role as eco-partner of Crust to provide decentralized meta data management service with easy IPFS API and toolkit.
   * An indication of why your team is interested in creating this project.
+  
   We have always been interested in field of Storage, by the power of IPFS and Crust blockchain, we have chance to creat a brand new storage service.
 
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
 * Mockups/designs of any UI components
+
 * Data models / API specifications of the core functionality
+
 provided in our repo
 * An overview of the technology stack to be used
+
 Ruby on Rails, vue 3.x, IPFS
 * Documentation of core components, protocols, architecture, etc. to be deployed
+
 Crust whitepaper, IPFS protocol
 * PoC/MVP or other relevant prior work or research on the topic
 
@@ -38,12 +46,16 @@ Crust whitepaper, IPFS protocol
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
 * Where and how does your project fit into the ecosystem? 
+
 We built a centralized Crust account to help users to initiate files orders on Crust, so that we could provide decentralized data storage service on top of our centralized IPFS storage service. In a nutshell, we provided simpler interface for users to use crust.
 * What need(s) does your project meet? 
+
 Balanced Storage Service, both centralized and decentralized.
 * Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
+
 Very likely not. Pinata is pretty much the closest we can get.
   * If so, how is your project different?
+
 We do Crust, and they don't
   * If not, are there similar projects in related ecosystems?
 
@@ -54,32 +66,33 @@ We do Crust, and they don't
 * Names of team members: Jiajun Mai, Guangyi Qiu, Zihao Ding, ChengGuo Piao	
 
 ### Contact
-* **Contact Name:** Full name of the contact person in your team
-Lei Lu
-* **Contact Email:** Contact email (e.g. dean@crust.network)
-Lei.lu@molemart.com
+* **Contact Name:** Lei Lu
+* **Contact Email:** Lei.lu@molemart.com
 * **Website:**
 https://www.crato.io/
 
 ### Legal Structure 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
+* **Registered Address:** 
 Floor 6, Eight on the Bund, No.8 2nd Zhongshan East Road, Shanghai
-* **Registered Legal Entity:** Name of your registered legal entity, if available. 
+* **Registered Legal Entity:** 
 Nash Cloud
 
 ### Team's experience
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
+
 Led by an accomplished Executive with domestic and international experience in Big Data and Analytics. Team members are developers with solid experience in Blockchain and storage field 
 
 
 ### Team Code Repos
-* https://github.com/<your_repo_1>
+
 https://github.com/cgpiao/nash-spa
-* https://github.com/<your_repo_2>
+
 https://github.com/cgpiao/nash-api
 
 ### Team LinkedIn Profiles
+
 https://www.linkedin.com/in/lulei/
+
 https://www.linkedin.com/in/zihao-ding-0106a010a/
 
 ## Development Roadmap
