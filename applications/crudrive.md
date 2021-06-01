@@ -3,7 +3,7 @@
 * **Project Name:** CruDrive  
 * **Team Name:** CruDrive  
 * **Payment Address:** 0xdd2f8a0e413ddd58bf60a1c9218723f312671e33  
-* **Receivable Token:** USDT ERC20  
+* **Receivable Token:** USDT  
 
 ### Overview
 Please provide the following:
