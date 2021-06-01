@@ -72,26 +72,27 @@ As a full-stack software developer with decade long experience. Currently intere
 
 ### Milestone 1 — Implement Basic Features 
 * **Estimated Duration:** 2 month
-* **FTE:**  3
+* **FTE:**  2
 * **Costs:** 14,000 USD
  
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
 | 0b. | Documentation | We will implement the architecture of our product. |
-| 1. | Implement Basic Features | We will implement basic features such as create folder/file(text), upload file/folder, import remote hash | 
+| 1. | Implement Basic Features | We will implement basic features such as create folder/file(text), upload file/folder | 
 | 2. | Integrate Crust | All files will be uploaded to Crust network | 
 
 ### Milestone 2 
 
 * **Estimated Duration:** 2 month
-* **FTE:**  2
+* **FTE:**  3
 * **Costs:** 6,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. | SDK | We will provide handful toolkit, help them integrate drive service to their application.  | 
 | 2. | Payment | Implement payment system.  | 
+| 3. | Import | Import remote IPFS hash  |
 
 
 ## Future Plans
