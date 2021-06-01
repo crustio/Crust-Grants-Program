@@ -72,30 +72,33 @@ As a full-stack software developer with decade long experience. Currently intere
 
 ### Milestone 1 — Implement Basic Features 
 * **Estimated Duration:** 2 month
-* **FTE:**  2
+* **FTE:**  3
 * **Costs:** 14,000 USD
  
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
 | 0b. | Documentation | We will implement the architecture of our product. |
-| 1. | Implement Basic Features | We will implement basic features such as create folder/file(text), upload file/folder | 
-| 2. | Integrate Crust | All files will be uploaded to Crust network | 
+| 1. | Account Module | Register, Login, Reset Password, Change Password, Logout, Send Verification Email | 
+| 2. | Drive Module | User can create a folder or a text file, upload a file/folder. Can delete an existing file/folder. | 
+| 3. | Import Module | Import remote IPFS hash. The imported hash will be stored in the server and uploaded to Crust. | 
+| 4. | Integrate Crust | All files will be uploaded to Crust network | 
 
 ### Milestone 2 
 
 * **Estimated Duration:** 2 month
-* **FTE:**  3
+* **FTE:**  2
 * **Costs:** 6,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. | SDK | We will provide handful toolkit, help them integrate drive service to their application.  | 
-| 2. | Payment | Implement payment system.  | 
-| 3. | Import | Import remote IPFS hash  |
+| 2. | Payment | Will support credit card based payment system.  | 
 
 
 ## Future Plans
-
-- As Crust mature, we will provide more features to service.
-- Will consider add import from hyper feature.
+- Support file versioning system.
+- Support import from hyper feature.
+- Support CRU payment.
+- Set up IPFS private gateway.
+- Support share file through a link and IPFS gateway.
