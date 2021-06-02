@@ -68,12 +68,12 @@ As a full-stack software developer with decade long experience. Currently intere
 ### Overview
 * **Total Estimated Duration:** 4-6 months
 * **Full-Time Equivalent (FTE):**  5-7 FTE
-* **Total Costs:** 20,000 USD
+* **Total Costs:** 16,600 USD
 
 ### Milestone 1 — Implement Basic Features 
 * **Estimated Duration:** 2 month
 * **FTE:**  3
-* **Costs:** 14,000 USD
+* **Costs:** 12,000 USD
  
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -88,7 +88,7 @@ As a full-stack software developer with decade long experience. Currently intere
 
 * **Estimated Duration:** 2 month
 * **FTE:**  2
-* **Costs:** 6,000 USD
+* **Costs:** 4,600 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
