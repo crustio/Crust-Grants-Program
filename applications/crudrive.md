@@ -83,6 +83,7 @@ As a full-stack software developer with decade long experience. Currently intere
 | 2. | Drive Module | User can create a folder or a text file, upload/download a file/folder. Can delete an existing file/folder with an UI.|
 | 3. | Import Module | Import remote IPFS hash. The imported hash will be stored in the server and uploaded to Crust. | 
 | 4. | Integrate Crust | All files will be uploaded to Crust network | 
+| 5. | Promotion | Write an introduction to [Medium](https://medium.com/) | 
 
 ### Milestone 2 
 
