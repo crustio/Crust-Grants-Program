@@ -26,7 +26,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
 |NFT|    |Marketplaces, Games, Collectibles, which stores NFT related multimedia files in Crust Network|
 |Website hosting tools| [IPFS-Crust-Pinner](https://github.com/crustio/ipfs-crust-pinner)   | CI/CD tools that can automatically host websites on Crust|
-|Content storage and delivery|    | Accelerated P2P-CDNs|
+|Content storage and delivery| [SkyeKiwi Protocol](http://skye.kiwi/)   | Accelerated and secured P2P-CDNs;|
 |Decentralized Pinning Service|    |Helping users to pin their files in Crust network|
 ### Showcases and Scenarios
 #### Website Hosting
