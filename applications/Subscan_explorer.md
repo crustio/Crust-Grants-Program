@@ -1,6 +1,6 @@
 # Crust Grant Proposal
 
-- **Project Name: *Subscan blockchain explorer service for crust network*
+- **Project Name:** Subscan blockchain explorer service for crust network
 
 - **Team Name:** Subscan
 
@@ -12,7 +12,7 @@
 
 Subscan has supported the Crust network for nearly one year, and provided basic explorer services for the Crust testnet.
 
-For Crust's special storage-related functions, subscan does not provide customization support before. Users need to switch between subscan and splorer to get the complete information of blockchain.
+For Crust's special storage-related functions, Subscan does not provide customization support before. Users need to switch between Subscan and splorer to get the complete information of blockchain.
 
 In order to improve the user experience, we will provide customized services for Crust storage related functions, then users can obtain a one-stop explorer query experience more conveniently.
 
@@ -21,13 +21,13 @@ In order to improve the user experience, we will provide customized services for
 The main task is to integrate the storage-related functions of splorer into the Subscan blockchain explorer, which includes the following tasks:
 * Product and interaction design
 * Server-side development
-* customized UI and front-end development
+* Customized UI and front-end development
 * Storage-related open API and API Docs
 These functions will be applied to Crust testnet-Maxwell, Crust Canary Network-Shadow and Crust mainnet.
 
 ### Ecosystem Fit 
 
-Subscan is a high-precision Web3 explorer that aggregate Substrate ecological network. Subscan is the first explorer to support Crust network. As a blockchain infrastructure, it provides users with blockchain data query services.
+Subscan is a high-precision Web3 explorer that aggregates Substrate ecological network. Subscan is the first explorer to support Crust network. As a blockchain infrastructure, it provides users with blockchain data query services.
 
 ## Team
 
@@ -49,7 +49,7 @@ Subscan is a high-precision Web3 explorer that aggregate Substrate ecological ne
 
 ### Overview
 * **Total Estimated Duration:** 2.5 months
-* **Full-Time Equivalent (FTE):** 4 full-time employee for the whole project
+* **Full-Time Equivalent (FTE):** 4 full-time employees for the whole project
 * **Total Costs:** 20,000 USD (of which $10,000 is paid in USDT and $10,000 is paid in CRU)
 
 ### Milestone 1 Product design and UI design
@@ -67,7 +67,7 @@ Upgrade the overall web theme of Subscan Crust to make it more in line with the 
 
 ### Milestone 2 Front-end and back-end development
 
-* **Estimated Duration:** 1.5 month
+* **Estimated Duration:** 1.5 months
 * **FTE:**  5
 * **Costs:** 14,000 USD
 
