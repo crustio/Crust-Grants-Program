@@ -62,6 +62,7 @@ Subscan is a high-precision Web3 explorer that aggregates Substrate ecological n
 | 0a. | Product design | Output PRD and prototype drawings|
 | 0b. | UI design | Design the user interface according to product requirements.Upgrade the overall web theme of Subscan Crust to make it more in line with the style of Crust Network |
 | 0c. | Testing Guide | Confirm the Product design & UI design through the requirements review meeting, and modify the plan based on feedback. | 
+| 0d. | Docs | New features introduction and user's guide | 
 
 
 ### Milestone 2 Front-end and back-end development
