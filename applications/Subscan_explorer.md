@@ -6,7 +6,7 @@
 
 - **Payment Address:** ERC-20:0x349E9dd023bc416c189E82030A3FC38Fc81f2845
 
-- **Receivable Token:** CRU+USDT
+- **Receivable Token:** USDT
 
 ## Overview
 
