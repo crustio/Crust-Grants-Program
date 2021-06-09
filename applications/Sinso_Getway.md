@@ -83,7 +83,7 @@ Please describe the team's relevant experience. If your project involves develop
 | -----: | ------------------------ | ------------------------------------------------------------ |
 |      0 | Documentation            | Deploy a curst node, and prepare an API server, integrate the basic image  interface and data interface, and provide a clear API manual |
 |      1 | Command-line application | Support uploading of exclusive medical files, especially DICOM3.0, we  provide a medical file parser, which provides uploading, downloading and  displaying and reading. |
-|      2 | Documentation            | Storage of sinso and use of curst |
+|      2 | Documentation            | Publish an article on medium to introduce how the Sina project combines crust to store and apply medical big data |
 
 
 
