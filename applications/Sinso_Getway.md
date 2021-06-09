@@ -77,7 +77,7 @@ Please describe the team's relevant experience. If your project involves develop
 ### Milestone 1 Example — Implement Crust Order Modules 
 * **Estimated Duration:** 4 weeks (Keep two extra weeks      to learn about crust ecology)
 * **FTE:**  2
-* **Costs:** 10 000 USD
+* **Costs:** 6800 USD
 
 | Number | Deliverable              | Specification                                                |
 | -----: | ------------------------ | ------------------------------------------------------------ |
@@ -91,7 +91,7 @@ Please describe the team's relevant experience. If your project involves develop
 
 * **Estimated Duration:** 4 weeks
 * **FTE:**  2
-* **Costs:** 10000 USD
+* **Costs:** 6800 USD
 
 | **Number** | **Deliverable** | **Specification**                                            |
 | ---------- | --------------- | ------------------------------------------------------------ |
