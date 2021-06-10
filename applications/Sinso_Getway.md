@@ -72,7 +72,7 @@ Please describe the team's relevant experience. If your project involves develop
 ### Overview
 * **Total Estimated Duration:** 2 months
 * **Full-Time Equivalent (FTE):**  4 FTE
-* **Total Costs:** $20k
+* **Total Costs:** $13600.00usd
 
 ### Milestone 1 Example — Implement Crust Order Modules 
 * **Estimated Duration:** 4 weeks (Keep two extra weeks      to learn about crust ecology)
