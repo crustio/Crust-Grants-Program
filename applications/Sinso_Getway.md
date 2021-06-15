@@ -102,6 +102,7 @@ Please describe the team's relevant experience. If your project involves develop
 | 5.         | code&unitest   | Support mobile terminal to read DICOM images, zoom in and out, measurement, window width and window level adjustment, dynamic playback and other functions. |
 
 
+
 ## Future Plans
 
 - We will consider building an efficient hot data exchange layer in the sinso system, similar to a private swarm, and capable of pre-classification and pre-processing of data.
