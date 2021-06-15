@@ -98,8 +98,8 @@ Please describe the team's relevant experience. If your project involves develop
 | 1.         | code&unitest    | Complete data upload and download read and display process, especially  the front-end display process. Encapsulate the complete API structure (Java  language) |
 | 2.         | test            | Provide use case data to complete the test                   |
 | 3.         | documentation   | Provide front-end user manual.                               |
-| 4.         | code&unitest   | Support the encrypted storage of patient data to avoid leakage of patient privacy and improve information security protection. 
-| 5.         | code&unitest   | Support mobile terminal to read DICOM images, zoom in and out, measurement, window width and window level adjustment, dynamic playback and other functions. 
+| 4.         | code&unitest   | Support the encrypted storage of patient data to avoid leakage of patient privacy and improve information security protection. |
+| 5.         | code&unitest   | Support mobile terminal to read DICOM images, zoom in and out, measurement, window width and window level adjustment, dynamic playback and other functions. |
 
 
 ## Future Plans
