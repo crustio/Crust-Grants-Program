@@ -1,6 +1,6 @@
 # Crust Grant Proposal
 
-* **Project Name:** Wanke NFT 
+* **Project Name:** wanke  common Distributed storage file module for NFT build on crust
 
 * **Team Name:**  wanke develope team 
 
@@ -9,22 +9,21 @@
 * **Receivable Token:** USDT
 
 * **Overview**
-
-wanke NFT is a decentralization NFT marketplace，it is a NFT dex application。 because wanke NFT has many NFT reated files like txt file，video file，picture file and video files。 
-so it need a very good decentralization storage file system to store this file, and we think crust one of the most fitable solutions at this time.
+NFT market has many NFT reated files like meta data,txt file，picture file and video files。 
+so it need a very good decentralization storage file system to store this file, and we think crust one of the most fitable solutions at this time.and we build a common   Distributed storage file module for NFT.so that each NFT project can use this module to implement Crust in their NFT project.
 
 
 A project name
 
-wanke NFT marketplace
+wanke  common Distributed storage file module for NFT build on crust
 
 A brief description of your project. 
 
-wk(wanke Online NFT e-commerce platform) is a platform which can distributing and releasing NFT,trading NFT.
+build a common  Distributed storage file module for NFT.so that each NFT project can use this module to implement Crust in their NFT project.
 
 An indication of how your project relates to / integrates into Crust.            
 
-the goods on our platform both have some metadata for indciate their uniqueness,and also have some video,audio,and picture need to storage on distributed storage system just like crust.
+the goods on NFT market  both have some metadata for indciate their uniqueness,and also have some video,audio,and picture need to storage on distributed storage system just like crust.
 
 An indication of why your team is interested in creating this project.           
 
@@ -36,13 +35,11 @@ We been involved in decentralized storage service for more than three years.and 
 one of the dapps's ui:
 ![image](https://github.com/bruceli20202020/Crust-Grants-Program/blob/main/1-3.jpg?raw=true)
 
-the dapp's technology stack
+the module's technology stack
 
-the frondend:vue.js, android and ios native language.,the backend:nodejs,php and golang,the smart contracts written by Solidity,Truffle,Web3
+the frondend:vue.js,the backend:nodejs,the smart contracts written by Solidity,Truffle,Web3
 
-there will be some smart contracts document be deployed
-
-before we start this project.we research and reference uniswap,opensea, flow,Ethereum and some other project.
+there will be a sdk and demo of how to upload and download file from crust for use of NFT,and deploye it to smart contracts.
 
 Ecosystem Fit
 
@@ -60,7 +57,7 @@ our porject has meet the needs:my work is just belong to myself. not  other Cent
 
 Are there any other projects similar to yours in the IPFS/Crust ecosystem?
 
-it may have other similar project,but will be not the same.we have good experience in user base appliction like this.it is a balance between the blockchain technogy and User-friendly.we can do very good at this.
+until now ,it's none.
 
 
 * **Team**
@@ -110,7 +107,6 @@ Costs: 10k USD
 | 1.     | Upload file to Crust Network	 | user can upload NFT videos,audios,and pictures to Crust Network |
 | 2.     | crust nework file access      | user can read and access videos,audios,and pictures NFT stored in Crust Network from dapp |
 
-
 * **Milestone 2:** dapp product version
 
 Estimated Duration: 1.5months
@@ -123,8 +119,7 @@ Costs: 10k USD
 | ------ | -----------------------------| ------------------------------------------------------------ |
 | 0a.    | dapp production version      | Implement production functions for the dapp,make it online runing |
 | 1.     | make a upload service code	| make a public server code for any others want to upload file to crust netowrk |
-| 2.     | social share system          | in the dapp,user can share the file (NFT)store in crust network |
-
+| 2.     | smart contracts access      | make a public code for  user can read and access videos,audios,and pictures NFT stored in Crust Network  deployed on smart contracts |
 
 * **Future Plans**
 
