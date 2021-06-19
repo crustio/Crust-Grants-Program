@@ -32,9 +32,6 @@ We been involved in decentralized storage service for more than three years.and 
 
 * **Project Details**
 
-one of the dapps's ui:
-![image](https://github.com/bruceli20202020/Crust-Grants-Program/blob/main/1-3.jpg?raw=true)
-
 the module's technology stack
 
 the frondend:vue.js,the backend:nodejs,the smart contracts written by Solidity,Truffle,Web3
