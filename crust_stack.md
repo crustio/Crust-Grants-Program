@@ -26,7 +26,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
 |NFT|  [SinsoGetway](https://github.com/Sinsogetway)  | The general NFT minting tool for NFT exchanges, which helps to stores NFT offchain data in Crust Network|
 |Website hosting tools| [IPFS-Crust-Pinner](https://github.com/crustio/ipfs-crust-pinner)   | CI/CD tools that can automatically host websites on Crust|
-|Content storage and delivery| [SkyeKiwi Protocol](http://skye.kiwi/), [CruDrive](https://github.com/crudrive), [Socbay](http://socbay.io)   | Accelerated and secured P2P-CDNs; Cloud storage platform|
+|Content storage and delivery| [SkyeKiwi Protocol](http://skye.kiwi/), [CruDrive](https://github.com/crudrive), [Socbay](http://socbay.io)   | Accelerated and secured P2P-CDNs; Cloud storage platform based on Crust|
 |Decentralized Pinning Service|    |Helping users to pin their files in Crust network; Help people store and host important public data |
 
 ### Showcases and Scenarios
