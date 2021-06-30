@@ -114,9 +114,8 @@ Costs: 10k USD
 
 | Number | Deliverable                  | Specification                                                |
 | ------ | -----------------------------| ------------------------------------------------------------ |
-| 0a.    | dapp production version      | Implement production functions for the dapp,make it online runing |
-| 1.     | make a upload service code	| make a public server code for any others want to upload file to crust netowrk |
-| 2.     | smart contracts access      | make a public code for  user can read and access videos,audios,and pictures NFT stored in Crust Network  deployed on smart contracts |
+| 1.     | make a node module 	        | make a node moudule for user can upload,download and renewal file easily |
+| 2.     | smart contracts access      | make a node moudule for user can mint nft base on file stored on crust easily |
 
 * **Future Plans**
 
