@@ -17,7 +17,6 @@ The platform is built on ipsf/crust using Angular/NodeJS. The files of user will
     * With CruTransfer, the sender uploads the files by providing through a simple form for the sender's email, recipients's email, a optional message or a optional custom password. The platform provides two options: Send email transfer OR Get transfer link.
     * The senders do not have to create a account but they can create one to have access to a dashboard page to see the transfer history log. 
     * Thanks to the file's direct access link (and password if required) that is sent by email or by sender, the recipients can access to the file. Once they have downloaded them, the sender will receive an email that confirm that they have done that.
-    * Once all recipients have downloaded, the files will be immediately removed. But for the signed-in user, the files can be reserved for 7 days. 
 
 ### Project Details 
 The project includes the following tasks:
@@ -33,6 +32,23 @@ The project includes the following tasks:
 - Server-side development: NodeJS/MongoDb
     - Store the transfer infos into database MongoDB.
     - Send email to recipients with the direct access link.
+
+#### DEMO WEBSITE
+##### Homepage
+![homepage](https://user-images.githubusercontent.com/22587379/124401478-1542db00-dd2a-11eb-8b6f-857fe2c2fdb5.PNG)
+
+##### Modal upload files
+![upload_file](https://user-images.githubusercontent.com/22587379/124401529-46bba680-dd2a-11eb-8f94-37a6ca1c6b1f.gif)
+
+##### Download page
+![downloadpage](https://user-images.githubusercontent.com/22587379/124401618-a023d580-dd2a-11eb-972d-d052c2c4b628.PNG)
+
+##### Login page
+![loginpage](https://user-images.githubusercontent.com/22587379/124401654-dbbe9f80-dd2a-11eb-86c1-4cac2ec7eee4.PNG)
+
+##### Register page
+![registerpage](https://user-images.githubusercontent.com/22587379/124401668-f133c980-dd2a-11eb-98fc-68174c035e71.PNG)
+
 
 ### Ecosystem Fit 
 
@@ -107,6 +123,8 @@ I am also the author of project @angular-material-components (~1M downloads) tha
 
 ## Future Plans
 
+- Login with social accounts
+- Create teams/groups to share files
 - Support CRU payment
 - Social media promotion
 - Strengthen the security to avoid malicious attacks
