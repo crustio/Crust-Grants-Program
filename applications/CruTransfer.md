@@ -34,6 +34,8 @@ The project includes the following tasks:
     - Send email to recipients with the direct access link.
 
 #### DEMO WEBSITE
+![demo](https://user-images.githubusercontent.com/22587379/124401893-9dc27b00-dd2c-11eb-9332-4e98d631687e.gif)
+
 ##### Homepage
 ![homepage](https://user-images.githubusercontent.com/22587379/124401478-1542db00-dd2a-11eb-8b6f-857fe2c2fdb5.PNG)
 
