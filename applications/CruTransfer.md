@@ -92,12 +92,12 @@ I am also the author of project @angular-material-components (~1M downloads) tha
 ### Overview
 * **Total Estimated Duration:** 2 months
 * **Full-Time Equivalent (FTE):**  1 FTE
-* **Total Costs:** 20,000 USD
+* **Total Costs:** 13,600 USD
 
 ### Milestone 1: MVP website
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 15,000 USD
+* **Costs:** 11,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -114,7 +114,7 @@ I am also the author of project @angular-material-components (~1M downloads) tha
 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 5,000 USD
+* **Costs:** 2,600 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
