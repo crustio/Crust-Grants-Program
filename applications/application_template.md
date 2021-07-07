@@ -1,26 +1,27 @@
 # Crust Grant Proposal
 
-Project Name: CCS - Cross Chain Storage Platform
-Team Name: Zhu, Wenfeng (朱文峰); Gao, Le (高乐); Wang, Ruijun (王瑞俊); Sang, Junjun (桑俊俊); Dong, Yuansheng (董远胜); Liu, Qi (刘琦)
-Payment Address: 0x17389d755cb720e5e7e12d0fb926c0d53a2846d6 (USDT)
-Receivable Token: USDT – ERC20
-
-![alt 属性文本]()
-
-![437777234_1578534002772_EF1D6F2BDABA8CCB0F7958F8B1914100](https://user-images.githubusercontent.com/9587376/124769881-6e9a4c80-df6c-11eb-9492-161d9eece08a.png)
+* Project Name: CCS - Cross Chain Storage Platform
+* Team Name: Zhu, Wenfeng (朱文峰); Gao, Le (高乐); Wang, Ruijun (王瑞俊); Sang, Junjun (桑俊俊); Dong, Yuansheng (董远胜); Liu, Qi (刘琦)
+* Payment Address: 0x17389d755cb720e5e7e12d0fb926c0d53a2846d6 (USDT)
+* Receivable Token: USDT – ERC20
 
 
 ### Overview
 
-•	A project name: CCS - Cross Chain Storage Platform
-•	A brief description of your project: In the ear of data explosion and related storage request, we want to create a decentralized, highly motivated storage platform. We will provide customer (individual and business) with a more secure, privacy-protected and cost-effective data storage service. 
-•	CCS will build multiple connection adapter incentive layers; Crust will be the pilot and main storage channel layer for CCS.
-•	Our team sees an opportunity to consolidate multiple decentralized storage providers to build a platform like “去哪儿” in air-tickets booking network, which provide business clients with most optimized data / files storage solutions.
+* A project name: CCS - Cross Chain Storage Platform
+* A brief description of your project: In the ear of data explosion and related storage request, we want to create a decentralized, highly motivated storage platform. We will provide customer (individual and business) with a more secure, privacy-protected and cost-effective data storage service. 
+* CCS will build multiple connection adapter incentive layers; Crust will be the pilot and main storage channel layer for CCS.
+* Our team sees an opportunity to consolidate multiple decentralized storage providers to build a platform like “去哪儿” in air-tickets booking network, which provide business clients with most optimized data / files storage solutions.
 
 
 ### Project Details 
 
-•	Mockups/designs of any UI components
+* Mockups/designs of any UI components
+![image](https://user-images.githubusercontent.com/47582549/124770266-c89b1200-df6c-11eb-8737-0cafd60aba4a.png)
+![image](https://user-images.githubusercontent.com/47582549/124770364-da7cb500-df6c-11eb-96e7-b0f025cd60ee.png)
+![image](https://user-images.githubusercontent.com/47582549/124770380-dd77a580-df6c-11eb-886a-659e0d41cb58.png)
+
+
  
 
 
