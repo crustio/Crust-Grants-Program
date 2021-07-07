@@ -16,7 +16,7 @@
 
 ### Project Details 
 
-•	Mockups/designs of any UI components
+* Mockups/designs of any UI components
  
 
 
