@@ -1,6 +1,6 @@
 # Crust Grant Proposal
 
-* **Project Name:** Name of your project 
+* **Project Name:** CrossChainStorage
 * **Team Name:** Legal name of your team
 * **Payment Address:** Ethereum address 
 * **Receivable Token:** CRU or USDT
