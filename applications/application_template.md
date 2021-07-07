@@ -8,10 +8,10 @@
 
 ### Overview
 
-•	A project name: CCS - Cross Chain Storage Platform
-•	A brief description of your project: In the ear of data explosion and related storage request, we want to create a decentralized, highly motivated storage platform. We will provide customer (individual and business) with a more secure, privacy-protected and cost-effective data storage service. 
-•	CCS will build multiple connection adapter incentive layers; Crust will be the pilot and main storage channel layer for CCS.
-•	Our team sees an opportunity to consolidate multiple decentralized storage providers to build a platform like “去哪儿” in air-tickets booking network, which provide business clients with most optimized data / files storage solutions.
+* Project name: CCS - Cross Chain Storage Platform
+* A brief description of your project: In the ear of data explosion and related storage request, we want to create a decentralized, highly motivated storage platform. We will provide customer (individual and business) with a more secure, privacy-protected and cost-effective data storage service. 
+* CCS will build multiple connection adapter incentive layers; Crust will be the pilot and main storage channel layer for CCS.
+* Our team sees an opportunity to consolidate multiple decentralized storage providers to build a platform like “去哪儿” in air-tickets booking network, which provide business clients with most optimized data / files storage solutions.
 
 
 ### Project Details 
