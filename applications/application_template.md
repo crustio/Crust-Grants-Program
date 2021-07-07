@@ -1,9 +1,9 @@
 # Crust Grant Proposal
 
-Project Name: CCS - Cross Chain Storage Platform
-Team Name: Zhu, Wenfeng (朱文峰); Gao, Le (高乐); Wang, Ruijun (王瑞俊); Sang, Junjun (桑俊俊); Dong, Yuansheng (董远胜); Liu, Qi (刘琦)
-Payment Address: 0x17389d755cb720e5e7e12d0fb926c0d53a2846d6 (USDT)
-Receivable Token: USDT – ERC20
+* Project Name: CCS - Cross Chain Storage Platform
+* Team Name: Zhu, Wenfeng (朱文峰); Gao, Le (高乐); Wang, Ruijun (王瑞俊); Sang, Junjun (桑俊俊); Dong, Yuansheng (董远胜); Liu, Qi (刘琦)
+* Payment Address: 0x17389d755cb720e5e7e12d0fb926c0d53a2846d6 (USDT)
+* Receivable Token: USDT – ERC20
 
 
 ### Overview
