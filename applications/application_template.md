@@ -1,30 +1,25 @@
 # Crust Grant Proposal
 
-* **Project Name:** CrossChainStorage
-* **Team Name:** Legal name of your team
-* **Payment Address:** Ethereum address 
-* **Receivable Token:USDT
+Project Name: CCS - Cross Chain Storage Platform
+Team Name: Zhu, Wenfeng (朱文峰); Gao, Le (高乐); Wang, Ruijun (王瑞俊); Sang, Junjun (桑俊俊); Dong, Yuansheng (董远胜); Liu, Qi (刘琦)
+Payment Address: 0x17389d755cb720e5e7e12d0fb926c0d53a2846d6 (USDT)
+Receivable Token: USDT – ERC20
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
-
-> ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
 
 ### Overview
 
-Please provide the following:
-  * A project name
-  * A brief description of your project.
-  * An indication of how your project relates to / integrates into Crust.
-  * An indication of why your team is interested in creating this project.
+•	A project name: CCS - Cross Chain Storage Platform
+•	A brief description of your project: In the ear of data explosion and related storage request, we want to create a decentralized, highly motivated storage platform. We will provide customer (individual and business) with a more secure, privacy-protected and cost-effective data storage service. 
+•	CCS will build multiple connection adapter incentive layers; Crust will be the pilot and main storage channel layer for CCS.
+•	Our team sees an opportunity to consolidate multiple decentralized storage providers to build a platform like “去哪儿” in air-tickets booking network, which provide business clients with most optimized data / files storage solutions.
+
 
 ### Project Details 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
 
-* Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
+•	Mockups/designs of any UI components
+ 
+
+
 
 ### Ecosystem Fit 
 
