@@ -88,7 +88,7 @@ Total Estimated Duration: 3 months
 
 Full-Time Equivalent (FTE): 3 FTE 
 
-Total Costs: 20k USD
+Total Costs: 10k USD
 
 * **Milestone 1:**  dapp beta version
 
@@ -96,7 +96,7 @@ Estimated Duration: 1.5months
 
 FTE: 3
 
-Costs: 10k USD
+Costs: 5k USD
 
 | Number | Deliverable                   | Specification                                                |
 | ------ | ------------------------------| ------------------------------------------------------------ |
@@ -110,7 +110,7 @@ Estimated Duration: 1.5months
 
 FTE: 3
 
-Costs: 10k USD
+Costs: 5k USD
 
 | Number | Deliverable                  | Specification                                                |
 | ------ | -----------------------------| ------------------------------------------------------------ |
