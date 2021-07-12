@@ -57,6 +57,12 @@ Below is a GIF demo from "Photos" application, which is a react native app, as t
 ![https://dev.to/fx/google-photos-open-source-alternative-with-react-native-80c](https://raw.githubusercontent.com/functionland/functionland.github.io/main/static/images/box-diagram.jpg)
 
 * An overview of the technology stack to be used
+
+"box" is a collection of integrations for creating a server software that runs js-ipfs in a Node.js environment to serve application data. We use libp2p to create the required protocols for front-end developers to interface with the back-end "box" node, which is running on ipfs. Developers can send commands such as fetch files, upload, or access database. This is achieved by importing a single library that exposes the "box" functionalities to them, @functionland/graph (inspired by [Microsoft Graph workflow](https://docs.microsoft.com/en-us/graph/use-the-api)). These commands are then transferred to "box" node using libp2p. On the back-end the commands are interpreted by the "box" and are sent to js-ipfs or database library to get executed. Database library is using IPLD, specifically DAG-JSON/DAG-JOSE. Multiple "box"es are synchronized and accessible using ipfs-cluster.
+
+Finally, as an availability guarantee for sensitive data, "box" provides the capability to pin data with Crust network, to give them a peace of mind over data safety. They have the option to backup their data to Filecoin network to preserve their important information from data loss.
+
+
 * Documentation of core components, protocols, architecture, etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic:
 
@@ -66,10 +72,11 @@ You can find the initial code for box here: [https://github.com/functionland/box
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem? 
+* Where and how does your project fit into the ecosystem? We want to make it easier for front-end developers to build appications for decentralized web as well as close the gap between non-tech-savvy individuals and decentralized web. For this purpose we combine IPFS, Libp2p, IPLD and Crust to build the platform.
 * What need(s) does your project meet? 
-* Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
-  * If so, how is your project different?
+* Are there any other projects similar to yours in the IPFS/Crust ecosystem? No, closest ones are FleekHQ and Ceramic.
+  * If so, how is your project different? They provide a wrapper that connects developer to a certain backend (like IPFS for file storage and gunDb for database) at an extra cost to both end-users and developer. We are developing a protocol and not just a wrapper and give the option to user to set up this backend himself at no cost as a package.
+
   * If not, are there similar projects in related ecosystems?
 
 ## Team
@@ -77,7 +84,7 @@ Help us locate your project in the Crust landscape and what problems it tries to
 ### Team members
 * Name of team leader: Keyvan Mirmohammadsadeghi
 
-* Names of team members: Kate Withers Hess, Ehsan Emami, Ehsan Shariati
+* Names of team members: Ehsan Shariati, Kate Withers Hess, Ehsan Emami
 
 ### Contact
 * **Contact Name:** Ehsan Shariati Varnosfaderani
@@ -145,48 +152,62 @@ For each milestone,
 > If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 12,000 USD)
+* **Total Estimated Duration:** 2.5 months
+* **Full-Time Equivalent (FTE):**  2.5 months as we are working on it full-time
+* **Total Costs:** $28K
 
-### Milestone 1 Example — Implement Crust Order Modules 
+### Milestone 1 — Implement Crust Order Modules 
 * **Estimated Duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USD
+* **FTE:**  1
+* **Costs:** 10,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Crust nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
-| 1. | Crust module: X | We will create a Crust module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Crust module: Y | We will create a Crust module that will... |  
-| 3. | Crust module: Z | We will create a Crust module that will... |  
+| 1. | File transfer module from applications to box | We will create an IPFS+Libp2p module that transfers the file from application to the box backend |  
+| 2. | File transfer functionality from box to applications | We will create an IPFS+Libp2p module that transfers the file from box to the front-end application on request | 
+| 3. | Reading photos in photos app from box | We will connect photos app to store and read photos from box backend |  
 
 
-
-### Milestone 2 Example — Additional features
+### Milestone 2 — Additional features
 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 4,000 USD
+* **Costs:** 10,000 USD
 
-...
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Database module specifications | We will create the specifications of a IPLD+Libp2p module to store json data to act as the database |  
+| 2. | Database storage functionality for application | We will create an IPLD+Libp2p module that store sent data from front-end in the backend database |  
+| 3. | Database read functionality for application | We will create an IPLD+Libp2p module that sends stored data from back-end database to the front-end on request |  
+
+### Milestone 3 — Additional features
+
+* **Estimated Duration:** 0.5 month
+* **FTE:**  0.5
+* **Costs:** 8,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | File pinning on crust | We will create a Crust module that will allow user to pin box files to crust on demand |  
+| 2. | Secure File sharing with other users | We will create a secure file sharing functionality to share files securely to users out of box and Crust |  
+| 3. | Synchronize functionality of multiple box backends together | We will create a functionality to allow users synchronize data between multiple box backends | 
+| 4. | Beta version of photos app on Google Play | We publish a beta version of photos app on Google Play | 
 
 
 ## Future Plans
 
 Please include here
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- In short-term we are planning to make "box" application development incentivised for developers without imposing costs on users. To do this, we want to build a mining module, which by user's permission, mine coins for the user, and then user can pay the developers with the mined coins.
+- In long-term we are planning to build a loyal-agent for the box. Meaning if Netflix wants to suggest movies to you, they do not get your information. You store your information on your own box and install the movie suggestion application provided by the community (it can even be Netflix itself). Netflix connects to your box and sends a list of movies it has. “box” processes Netflix data, cross checking it with your data and suggests the movies to you. No data goes out of your box to Netflix, but it still allows you to get personalized movie suggestions or to share whatever you want with whoever you want in an encrypted and safe way.
 
 
 ## Additional Information 
 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
-Possible additional information to include:
-
-* Are there are any teams who have already contributed (financially) to your project?
-* Do you have a community of users or open-source developers who are contributing to your project?
+* Are there are any teams who have already contributed (financially) to your project? DFinity provided us with a grant and we are implemnting Internet Identity in our photos application.
+* Do you have a community of users or open-source developers who are contributing to your project? In out github page we have 420+ stars from thte community and 5 contributors and 1 more contributor who requested to join us and is working on a pull request, which totals the current contributors to 6.
