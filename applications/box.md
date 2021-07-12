@@ -152,8 +152,8 @@ For each milestone,
 > If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
-* **Total Estimated Duration:** 2.5 months
-* **Full-Time Equivalent (FTE):**  2.5 months as we are working on it full-time
+* **Total Estimated Duration:** 3 months
+* **Full-Time Equivalent (FTE):**  3 months as we are working on it full-time
 * **Total Costs:** $28K
 
 ### Milestone 1 — Implement Crust Order Modules 
