@@ -158,7 +158,7 @@ For each milestone,
 
 ### Milestone 1 — Implement Crust Order Modules 
 * **Estimated Duration:** 1 month
-* **FTE:**  1
+* **FTE:**  2
 * **Costs:** 10,000 USD
 
 | Number | Deliverable | Specification |
@@ -174,7 +174,7 @@ For each milestone,
 ### Milestone 2 — Additional features
 
 * **Estimated Duration:** 1 month
-* **FTE:**  1
+* **FTE:**  2
 * **Costs:** 10,000 USD
 
 | Number | Deliverable | Specification |
@@ -185,8 +185,8 @@ For each milestone,
 
 ### Milestone 3 — Additional features
 
-* **Estimated Duration:** 0.5 month
-* **FTE:**  0.5
+* **Estimated Duration:** 1 month
+* **FTE:**  2
 * **Costs:** 8,000 USD
 
 | Number | Deliverable | Specification |
