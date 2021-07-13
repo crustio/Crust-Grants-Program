@@ -2,7 +2,7 @@
 
 * **Project Name:** CruTransfer
 * **Team Name:** CruTransfer
-* **Payment Address:** 0x19515227da37BABcFAAfB781F0F16B47959C2fb1 
+* **Payment Address:** 0xaC4a6038Ac4Dd158becB32eF249e1B7F29f81426 
 * **Receivable Token:** USDT
 
 ### Overview
