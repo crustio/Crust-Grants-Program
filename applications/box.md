@@ -28,16 +28,18 @@ Front-end developers work with a "box" like a server without the need to run a f
 box serves the following purposes to complement the current ecosystem with a familiar decentralized alternative for the widely popular client-server model:
 
 1- to provide APIs that front-end can communicate with it regardless of platform without running a full ipfs node. This makes app development do-able by front-end developers without needing to understand back-end and/or worrying about running ipfs on the target device.
-2- user has a copy of the files locally as well as keeping them on pinning services (we leave this choice to user as we want to enable them run it at zero cost if they choose to)
+
+2- user has a copy of the files locally as well as keeping them on pinning services (we leave this choice to user as we want to enable them to run it at zero cost if they choose to)
+
 3- It provides a pre-setup ipfs node for user so that non-tech-savvy users can still benefit from the ipfs
   
-  * An indication of how your project relates to / integrates into Crust: We will use crust as a pinning service to allow extra level of resiliance for those who want to have their files pinned out of their box. Crust guarantees high availability of pinned data across IPFS network and this is exactly the advantage that we hope to utilize in this proposal. When sharing between users there is no way other than having them pinned on a service like crust, however while the photo or data is not shared with anyone and user is within the local network(e.g. at home) we leave this choice to user if they want it pinned or not as we want to enable them run it at zero cost if they choose to, and we leave it to user if they want to disconnect a box from network for any privacy reasons.
+  * An indication of how your project relates to / integrates into Crust: We will use crust as a pinning service to allow extra level of resilience for those who want to have their files pinned out of their box. Crust guarantees high availability of pinned data across IPFS network, and this is exactly the advantage that we hope to utilize in this proposal. When sharing between users there is no way other than having them pinned on a service like crust, however while the photo or data is not shared with anyone and user is within the local network(e.g. at home) we leave this choice to user if they want it pinned or not as we want to enable them run it at zero cost if they choose to, and we leave it to user if they want to disconnect a box from network for any privacy reasons.
   
   * An indication of why your team is interested in creating this project:
   
-  It was two years ago when cryptocurrencies and blockchain were the news page highlight, yet again. Everyone was excited about the potential of blockchain for decentralizing traditional central banks, however, the news didn’t have many headlines about the work that was being done to decentralize the whole web.
+  It was two years ago when cryptocurrencies and blockchain were the news page highlight, yet again. Everyone was excited about the potential of blockchain for decentralizing traditional central banks, however, the news did not have many headlines about the work that was being done to decentralize the whole web.
 
-At that time my friend, an AI geek, and I, a full-stack developer,  discussed this and started to search on the internet. We came across several promising projects aimed to decentralize the web and finally, after analysing many of them, IPFS and IPLD, both open-source, caught our eyes.
+At that time my friend, an AI geek, and I, a full-stack developer, discussed this and started to search on the internet. We came across several promising projects aimed to decentralize the web and finally, after analyzing many of them, IPFS and IPLD, both open source, caught our eyes.
 
 They seemed promising to us, since they had a mature structure and a big community of open-source developers contributing to them.
 
@@ -50,7 +52,7 @@ Besides, there were not many applications that could connect to them or their UX
 We thought a framework that combines easy-to-use backend APIs, easy enough for an average front-end developer, and a pre-setup hardware, plug and play for a non-technical person, can fill this gap and bring decentralized web to everyone’s home.
 
 ### Project Details 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following :
+We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (with urls or IPFS file CIDs included) at following:
 
 * Mockups/designs of any UI components: We are working on our first DApp that works with IPFS network and box. It is a replacement for "Google Photos" that let the users to store their photos on a "box" and on IPFS. Github project is here: [https://github.com/functionland/photos](https://github.com/functionland/photos)
 
@@ -66,9 +68,9 @@ Below is a GIF demo from "Photos" application, which is a react native app, as t
 
 "box" is a collection of integrations for creating a server software that runs js-ipfs in a Node.js environment to serve application data. We use libp2p to create the required protocols for front-end developers to interface with the back-end "box" node, which is running on ipfs. Developers can send commands such as fetch files, upload, or access database. This is achieved by importing a single library that exposes the "box" functionalities to them, @functionland/graph (inspired by [Microsoft Graph workflow](https://docs.microsoft.com/en-us/graph/use-the-api)). These commands are then transferred to "box" node using libp2p. On the back-end the commands are interpreted by the "box" and are sent to js-ipfs or database library to get executed. Database library is using IPLD, specifically DAG-JSON/DAG-JOSE. Multiple "box"es are synchronized and accessible using ipfs-cluster.
 
-Finally, as an availability guarantee for sensitive data, "box" provides the capability to pin data with Crust network, to give them a peace of mind over data safety. They also have the option to backup their data to Filecoin network to preserve their important information from data loss. 
+Finally, as an availability guarantee for sensitive data, "box" provides the capability to pin data with Crust network, to give them a peace of mind over data safety. They also have the option to back up their data to Filecoin network to preserve their important information from data loss. 
 
-The use cases for Crust and Filecoin are different and box connects the user to both networks. Per our research Filecoin primary use case is a blockchain-style guarantee for high longevity that file is stored forever on the blockchain, on the other hand, Crust is about high availability to ensure user that they can have the files at anytime for any duration they want as quick as possible. The box as a package can be used on any hardware(e.g. laptop) and connects the user and their box applications to crust network for file pinning, which gives the user a way to try the package. In addition, Crust plans for "adding file sharing links" and "privacy storage", might enable us to partner with crust to provide box-as-a-service to users to enable them try the features without owning any hardware. We give both options as the use cases are different.
+The use cases for Crust and Filecoin are different, and box connects the user to both networks. Per our research Filecoin primary use case is a blockchain-style guarantee for high longevity that file is stored forever on the blockchain, on the other hand, Crust is about high availability to ensure user that they can have the files at any time for any duration they want as quick as possible. The box as a package can be used on any hardware (e.g. laptop) and connects the user and their box applications to crust network for file pinning, which gives the user a way to try the package. In addition, Crust plans for "adding file sharing links" and "privacy storage", might enable us to partner with crust to provide box-as-a-service to users to enable them to try the features without owning any hardware. We give both options as the use cases are different.
 
 
 * Documentation of core components, protocols, architecture, etc. to be deployed
@@ -80,7 +82,7 @@ You can find the initial code for box here: [https://github.com/functionland/box
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem? We want to make it easier for front-end developers to build appications for decentralized web as well as close the gap between non-tech-savvy individuals and decentralized web. For this purpose we combine IPFS, Libp2p, IPLD and Crust to build the platform.
+* Where and how does your project fit into the ecosystem? We want to make it easier for front-end developers to build applications for decentralized web as well as close the gap between non-tech-savvy individuals and decentralized web. For this purpose, we combine IPFS, Libp2p, IPLD and Crust to build the platform.
 * What need(s) does your project meet? 
 * Are there any other projects similar to yours in the IPFS/Crust ecosystem? No, closest ones are FleekHQ and Ceramic.
   * If so, how is your project different? Below is a comparison between "box" and simillar projects:
@@ -132,7 +134,7 @@ Relevant code code commits:
 
 **Kate** is a business development and commercialization specialist and has worked with multiple startups and SMEs to realize their non-dilutive funding, investment, and revenue generation goals. Strategic project advisor to Centennial College's projects involving machine learning. Bootstrapping a B2B marketplace technology startup in the construction sector. PhD in Plant Agriculture, Ontario Agricultural College, Msc. from Michigan State University in Crop and Soil Science with focus on statistical analysis. 
 
-**Ehsan Emami** is a senior hardware development lead, currently working at Amazon and previously at Apple and Gopro. With 12 years of hardware/software architecture experience, he has been a key contributer in defining, developing and fine-tuning many mass market products. Ehsan obtained his master's degree from University of Waterloo in Electrical Engineering.
+**Ehsan Emami** is a senior hardware development lead, currently working at Amazon and previously at Apple and Gopro. With 12 years of hardware/software architecture experience, he has been a key contributor in defining, developing and fine-tuning many mass market products. Ehsan obtained his master's degree from University of Waterloo in Electrical Engineering.
 
 ### Team Code Repos
 * https://github.com/keyvan-m-sadeghi
@@ -179,7 +181,7 @@ For each milestone,
 | 0a. | License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Crust nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
-| 1. | File transfer module from applications to box | We will create an IPFS+Libp2p module that transfers the file from application to the box backend. User does not need to run IPFS on the end device(e.g. mobile). box runs the ipfs node and provides APIs that talks to front-end app on the device through libp2p. This is transparent from end-user's perspective. |  
+| 1. | File transfer module from applications to box | We will create an IPFS+Libp2p module that transfers the file from application to the box backend. User does not need to run IPFS on the end device (e.g. mobile). box runs the ipfs node and provides APIs that talks to front-end app on the device through libp2p. This is transparent from end-user's perspective. |  
 | 2. | File transfer functionality from box to applications | We will create an IPFS+Libp2p module that transfers the file from box to the front-end application on request | 
 | 3. | Reading photos in photos app from box | We will connect photos app to store and read photos from box backend. We do not provide IPFS gateway service as it is not required. A box app knows the peerIds of it's host box nodes (through scanning a QR code while initiating the app) and dials files protocol directly on a libp2p swarm that is connecting all destination boxes. |  
 
@@ -214,7 +216,7 @@ For each milestone,
 
 Please include here
 
-- In short-term we are planning to make "box" application development incentivised for developers without imposing costs on users. To do this, we want to build a mining module, which by user's permission, mine coins for the user, and then user can pay the developers with the mined coins.
+- In short-term we are planning to make "box" application development incentivized for developers without imposing costs on users. To do this, we want to build a mining module, which by user's permission, mine coins for the user, and then user can pay the developers with the mined coins.
 - In long-term we are planning to build a loyal-agent for the box. Meaning if Netflix wants to suggest movies to you, they do not get your information. You store your information on your own box and install the movie suggestion application provided by the community (it can even be Netflix itself). Netflix connects to your box and sends a list of movies it has. “box” processes Netflix data, cross checking it with your data and suggests the movies to you. No data goes out of your box to Netflix, but it still allows you to get personalized movie suggestions or to share whatever you want with whoever you want in an encrypted and safe way.
 
 
@@ -222,5 +224,5 @@ Please include here
 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
-* Are there are any teams who have already contributed (financially) to your project? DFinity provided us with a grant and we are implemnting Internet Identity in our photos application.
-* Do you have a community of users or open-source developers who are contributing to your project? In out github page we have 420+ stars from thte community and 5 contributors and 1 more contributor who requested to join us and is working on a pull request, which totals the current contributors to 6.
+* Are there are any teams who have already contributed (financially) to your project? Dfinity provided us with a grant and we are implementing Internet Identity in our photos application.
+* Do you have a community of users or open-source developers who are contributing to your project? In out GitHub page we have 420+ stars from the community and 6 contributors and 1 more contributor who requested to join us and is working on a pull request, which totals the current contributors to 7.
