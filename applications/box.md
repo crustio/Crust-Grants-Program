@@ -54,7 +54,7 @@ Below is a GIF demo from "Photos" application, which is a react native app, as t
 
 * Data models / API specifications of the core functionality
 
-![https://dev.to/fx/google-photos-open-source-alternative-with-react-native-80c](https://raw.githubusercontent.com/functionland/functionland.github.io/main/static/images/box-diagram.jpg)
+![https://dev.to/fx/google-photos-open-source-alternative-with-react-native-80c](https://raw.githubusercontent.com/functionland/functionland.github.io/main/static/images/box-diagram-crust.jpg)
 
 * An overview of the technology stack to be used
 
