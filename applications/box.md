@@ -25,7 +25,7 @@ Data Protocol
 
 Front-end developers work with a "box" like a server without the need to run a full IPFS node on the platform they develop for, and interface with the "box" node to store or fetch data using libp2p. End users, their clients, can treat "box" like a server to keeps their data safe and gives them all functionalities of IPFS like cluster synchronization. If they lose their phone with the application installed, their files are safe in the "box" node.
   
-  * An indication of how your project relates to / integrates into Crust: We will use crust as a pinning service to allow extra level of resiliance for those who want to have their files pinned out of their box
+  * An indication of how your project relates to / integrates into Crust: We will use crust as a pinning service to allow extra level of resiliance for those who want to have their files pinned out of their box. Crust guarantees high availability of pinned data across IPFS network and this is exactly the advantage that we hope to utilize in this proposal. When sharing between users there is no way other than having them pinned on a service like crust, however while the photo or data is not shared with anyone and user is within the local network(e.g. at home) we leave this choice to user if they want it pinned or not as we want to enable them run it at zero cost if they choose to, and we leave it to user if they want to disconnect a box from network for any privacy reasons.
   
   * An indication of why your team is interested in creating this project:
   
