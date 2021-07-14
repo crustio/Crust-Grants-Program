@@ -75,7 +75,12 @@ Help us locate your project in the Crust landscape and what problems it tries to
 * Where and how does your project fit into the ecosystem? We want to make it easier for front-end developers to build appications for decentralized web as well as close the gap between non-tech-savvy individuals and decentralized web. For this purpose we combine IPFS, Libp2p, IPLD and Crust to build the platform.
 * What need(s) does your project meet? 
 * Are there any other projects similar to yours in the IPFS/Crust ecosystem? No, closest ones are FleekHQ and Ceramic.
-  * If so, how is your project different? They provide a wrapper that connects developer to a certain backend (like IPFS for file storage and gunDb for database) at an extra cost to both end-users and developer. We are developing a protocol and not just a wrapper and give the option to user to set up this backend himself at no cost as a package.
+  * If so, how is your project different? Below is a comparison between "box" and simillar projects:
+  
+- **Fleek:** Managed IPFS hosting + gateway
+- **Ceramic:** protocols and chain for data persistence + decentralized identity
+- **Textile:** backend stack for building on IPFS and Filecoin + backend-as-a-service
+- **Box:** on-premise Web 3 with protocols for a Client-Server model + integrations for hybrid on-premise and on-chain options
 
   * If not, are there similar projects in related ecosystems?
 
