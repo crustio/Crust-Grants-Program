@@ -24,6 +24,12 @@ File Protocol
 Data Protocol
 
 Front-end developers work with a "box" like a server without the need to run a full IPFS node on the platform they develop for, and interface with the "box" node to store or fetch data using libp2p. End users, their clients, can treat "box" like a server to keeps their data safe and gives them all functionalities of IPFS like cluster synchronization. If they lose their phone with the application installed, their files are safe in the "box" node.
+
+box serves the following purposes to complement the current ecosystem with a familiar decentralized alternative for the widely popular client-server model:
+
+1- to provide APIs that front-end can communicate with it regardless of platform without running a full ipfs node. This makes app development do-able by front-end developers without needing to understand back-end and/or worrying about running ipfs on the target device.
+2- user has a copy of the files locally as well as keeping them on pinning services (we leave this choice to user as we want to enable them run it at zero cost if they choose to)
+3- It provides a pre-setup ipfs node for user so that non-tech-savvy users can still benefit from the ipfs
   
   * An indication of how your project relates to / integrates into Crust: We will use crust as a pinning service to allow extra level of resiliance for those who want to have their files pinned out of their box. Crust guarantees high availability of pinned data across IPFS network and this is exactly the advantage that we hope to utilize in this proposal. When sharing between users there is no way other than having them pinned on a service like crust, however while the photo or data is not shared with anyone and user is within the local network(e.g. at home) we leave this choice to user if they want it pinned or not as we want to enable them run it at zero cost if they choose to, and we leave it to user if they want to disconnect a box from network for any privacy reasons.
   
