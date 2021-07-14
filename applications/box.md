@@ -168,7 +168,7 @@ For each milestone,
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
 | 1. | File transfer module from applications to box | We will create an IPFS+Libp2p module that transfers the file from application to the box backend |  
 | 2. | File transfer functionality from box to applications | We will create an IPFS+Libp2p module that transfers the file from box to the front-end application on request | 
-| 3. | Reading photos in photos app from box | We will connect photos app to store and read photos from box backend |  
+| 3. | Reading photos in photos app from box | We will connect photos app to store and read photos from box backend. We do not provide IPFS gateway service as it is not required. A box app knows the peerIds of it's host box nodes (through scanning a QR code while initiating the app) and dials files protocol directly on a libp2p swarm that is connecting all destination boxes. |  
 
 
 ### Milestone 2 — Additional features
