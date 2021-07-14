@@ -105,9 +105,9 @@ I am also the author of project @angular-material-components (~1M downloads) tha
 | 2. | Develop Server-side NodeJS/MongoDB | Develop the backend (email service, database) |
 | 2. | Landing/Home Module | Home page with form so that user can share the files |
 | 3. | Account Module | Sign in, Sign out, Reset Password... |
-| 4. | Download Module | Recipients can download the files thanks to direct access link | 
+| 4. | Download Module | Recipients can download the files thanks to direct access link |
 | 5. | Dashboard Module | Transfer history logs for signed-in user |  
-
+| 6. | Social media promotion/ tutorials|Writing articles to help people understand how CruTransfer use Crust Network and what is the benefit |
 
 
 ### Milestone 2: 
