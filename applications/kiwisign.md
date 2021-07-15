@@ -1,4 +1,14 @@
-# KiwiSign
+# Crust Grant Proposal
+
+- **Project Name: KiwiSign**
+- **Team Name:** **SkyeKiwi Team**
+- **Payment Address**: 0xa5E4E1BB29eE2D16B07545CCf565868aE34F92a2
+- **Receivable Token:** USDT
+
+> ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
+
+> ⚠️ When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.
+
 
 ### Overview
 
