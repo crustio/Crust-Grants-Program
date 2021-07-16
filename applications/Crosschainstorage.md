@@ -21,118 +21,108 @@
 ![image](https://user-images.githubusercontent.com/47582549/124770364-da7cb500-df6c-11eb-96e7-b0f025cd60ee.png)
 ![image](https://user-images.githubusercontent.com/47582549/124770380-dd77a580-df6c-11eb-886a-659e0d41cb58.png)
 
-* Data models / API specifications of the core functionality
-CCS AI engine layer provide the core app layer，collect each chain value base on different Chain Feature （like cost，speed, etc) value and user Preference to use AI select best chain when upload files。Also Provide single&simple interface  that reduce complex for end user。Following are RestAPI for main entries for CCS AI engine.
-![image](https://user-images.githubusercontent.com/47582549/124771299-9938d500-df6d-11eb-954d-f393c4caf8fa.png)
 
-* Example data for strategies. Base on each chain & strategy feature to train AI mode for selecting chain against different requirement.
-![image](https://user-images.githubusercontent.com/47582549/124771382-aa81e180-df6d-11eb-9936-5763e0d22d18.png)
-
-* An overview of the technology stack to be used
-CCSUI Mainly use react,ipfs framework/technology stack.  For each 3rd chains, use each chain’s(like Crust,FileCoin,Swarm) API to interact(login, get CID, upload etc)
-CCS AI engine use nodejs,js technology to develop AI selector.
-![image](https://user-images.githubusercontent.com/47582549/124771461-b7063a00-df6d-11eb-8267-fa20fd41202e.png)
-
-* PoC/MVP or other relevant prior work or research on the topic.
-* 1, why need cross chain storage compatibility
-In the storage industries, there are several different use cases. Like for example, government surveillance data which is normally with large incremental size but with low frequent download/upload (only in case of needed); while for the emerging AI industry the data size grows very fast and with high frequent usage (for training/testing). In general, the specific customer demand requires different characteristic for storage platforms, so cross chain compatibility is essential for approaching different customers.
-* 2, Current IPFS based layer like Crust, Filecoin and other storage platform like Sia, Storj and Swarm, they will have different strengths and development phase, with that in different time phase we will always have optimal choice among these different layers. Another technical preference is that for example Crust has TEE environment which is quite helpful for clients with high security requirement.
-* 3, As an MVP, it should have API/adapter connected to Crust network and with capability to a second non-IPFS layer like Swarm to utilize our advantage to choose layers with internal selection criterions for our clients. Also, with an easy-to-use UI for clients’ same functions that centralized storage platform have.
-
+ 
 
 
 
 ### Ecosystem Fit 
 
-* Where and how does your project fit into the ecosystem?
-Provide real and up-to-date business data from modern industry like AI companies which generate huge amounts of data day by day. The ecosystem shall feed with these real-world data and enable more parties to actually step in from traditional storage vendors.
+Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
-* What need(s) does your project meet?
-As described in project background, our solutions meet the needs of clients who rapidly consuming data storage and eager to seeking for another price-worthy and safe place to store their data.
-
-* Are there any other projects similar to yours in the IPFS/Crust ecosystem?
-* If so, how is your project different?
-There do have a lot of storage applications based on IPFS/Crust ecosystem, the differentiator of ours is we enable multiple storage chains.
-
-
+* Where and how does your project fit into the ecosystem? 
+* What need(s) does your project meet? 
+* Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
+  * If so, how is your project different?
+  * If not, are there similar projects in related ecosystems?
 
 ## Team
 
 ### Team members
-* Zhu, Wenfeng (朱文峰);
-* Gao, Le (高乐); Wang, Ruijun (王瑞俊); Sang, Junjun (桑俊俊); Dong, Yuansheng (董远胜); Liu, Qi (刘琦)
+* Name of team leader
+* Names of team members	
 
 ### Contact
-* **Contact Name:** Wang, Ruijun (王瑞俊)
-* **Contact Email:** wruijun@umich.edu
+* **Contact Name:** Full name of the contact person in your team
+* **Contact Email:** Contact email (e.g. dean@crust.network)
 * **Website:**
 
 ### Legal Structure 
-* **Registered Address:** 上海市长宁区仙霞路1225弄106号301室
-* **Registered Legal Entity:** 峰乐瑞（上海）信息科技有限公司
+* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
+* **Registered Legal Entity:** Name of your registered legal entity, if available. 
 
 ### Team's experience
-
-* Wenfeng Zhu：Used work for Oracle for 16+ years, had led several R&D projects for supply chain management product across different industry customers like High-tech, Medical, Aviation areas.  Founder of an IT company to provide supply chain management solution to the business customer. He is also familiar with underlying frameworks such as Bitcoin, Ethereum etc.  Founder of eosTrust supper node for EOSC blockchain network for 3 years and participate in several blockchain project like an Oracle project for EOSC chain.
-
-* Wang, Ruijun: Applied Data Scientist from UMSI, over 10 years of working experience in top 100 listing company as Project manager, Corporate Consulting and Lean expert. Full time MBA of Shanghai Jiao Tong university of China Leadership Global Operation program. Proficient in using science of management tools to build up models to simulate business situation and machine learning model to build up automated prediction functions. Had leaded digital transformation projects for several huge organization like Huawei, MTR HK and so on. Blockchain early researcher and investor, dedicate in utilize blockchain technology to enable modern company digitization.
-
-* Neo Gao: has more than 10 years of relevant work experience in computer technology, including more than 5 years of experience in  product manager and marketing job. He is proficient in Linux/Objective-C/Python/Swift/Rails/Js and Docker container technologies. He is also familiar with underlying frameworks such as Bitcoin, Ethereum, etc., and proficient in the application of blockchain.
-
+Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
 
 ### Team Code Repos
-* https://github.com/CrossChainStorage
+* https://github.com/<your_repo_1>
+* https://github.com/<your_repo_2>
 
+### Team LinkedIn Profiles
+* https://www.linkedin.com/<person_1>
+* https://www.linkedin.com/<person_2>
 
 ## Development Roadmap
 
+This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+
+Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to IPFS/Crust. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month. 
+
+For each milestone,
+
+* make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
+* include the amount of funding requested _per milestone_.
+* include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
+* provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
+* commit to providing Dockerfiles for the delivery of your project. 
+* indicate milestone duration as well as number of full-time employees working on each milestone, and include the approximate number of days along with the cost per day.
+* _Deliverables 0a-0d are mandatory_ and shall not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test).
+
+> If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
+
 ### Overview
-* Overview
-•	Total Estimated Duration: Duration of the whole project (6 months)
-•	Full-Time Equivalent (FTE): Required workload of a full-time employee for the whole project: 2 FTE in average
-•	Total Costs: $30,000
+* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
+* **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
+* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 12,000 USD)
 
-* Milestone 1 – Architecture Design & UI-MVP
-•	Estimated Duration: 1 month
-•	FTE: 1.5
-•	Costs: 3,000 USD
-•	Deliverables: 1, Design work of architecture overview; 2, Demo UI – Version 0.0.1 with basic functions (upload / download)
+### Milestone 1 Example — Implement Crust Order Modules 
+* **Estimated Duration:** 1 month
+* **FTE:**  2
+* **Costs:** 8,000 USD
 
-* Milestone 2 — Connect to Crust and other storage layer 
-•	Estimated Duration: 1 month
-•	FTE: 2.5
-•	Costs: 8,000 USD
-•	Deliverables: 1, Adapter components for Crust and other layer (Demo 1, upload file; 2, display file list; 3, Download file) for both chains.
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 / MIT / Unlicense |
+| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Crust nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
+| 1. | Crust module: X | We will create a Crust module that will... (Please list the functionality that will be coded for the first milestone) |  
+| 2. | Crust module: Y | We will create a Crust module that will... |  
+| 3. | Crust module: Z | We will create a Crust module that will... |  
 
-* Milestone 3— Implement Cross Chain Capability with CCS engine (Automated Selection)
-•	Estimated Duration: 1 month
-•	FTE: 2
-•	Costs: 6,000 USD
-•	Deliverables: CCS engine components including rest API – 1, Demo with automated selection; 2, Provide rest API specification
 
-* Milestone 4— Full set of function / deployment including testing
-•	Estimated Duration: 1 month
-•	FTE: 2
-•	Costs: 4,000 USD
-•	Deliverables: 1, UI for client account; 2, Upgrade version of CCS engine; 3, CCS Online (URL); 4, Testing report
 
-* Milestone 5— Documentation / Pilot client engaging
-•	Estimated Duration: 1 month
-•	FTE: 2
-•	Costs: 5,000 USD
-•	Deliverables: 1, User guide dock and API dock; 2, Pilot use case specification
+### Milestone 2 Example — Additional features
 
-* Milestone 6— Pilot project go live
-•	Estimated Duration: 1 month
-•	FTE: 2
-•	Costs: 4,000 USD
-•	Deliverables: Field running result / report
+* **Estimated Duration:** 1 month
+* **FTE:**  1
+* **Costs:** 4,000 USD
+
+...
+
 
 ## Future Plans
 
 Please include here
 
-* Including more storage chains to enable multiple chains compatibility, and with more sophisticated CCS model, we are able to provide smart / proper solution for different kinds of clients.
-* Engaging more industry with expending system capacity and getting fund through marketing campaign.
-* In long-term, we will also extend the capability of serving individual customer with proper solution for them.
+- how you intend to use, enhance, promote and support your project in the short term, and
+- the team's long-term plans and intentions in relation to it.
 
+
+## Additional Information 
+
+Any additional information that you think is relevant to this application that hasn't already been included.
+
+Possible additional information to include:
+
+* Are there are any teams who have already contributed (financially) to your project?
+* Do you have a community of users or open-source developers who are contributing to your project?
