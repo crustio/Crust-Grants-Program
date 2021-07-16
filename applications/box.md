@@ -23,7 +23,7 @@ File Protocol
 
 Data Protocol
 
-Front-end developers work with a "box" like a server without the need to run a full IPFS node on the platform they develop for, and interface with the "box" node to store or fetch data using libp2p. End users, their clients, can treat "box" like a server to keeps their data safe and gives them all functionalities of IPFS like cluster synchronization. If they lose their phone with the application installed, their files are safe in the "box" node.
+Front-end developers work with a "box" like a server without the need to run a full IPFS node on the platform they develop for, and interface with the "box" node to store or fetch data using libp2p thorugh 'graph' library provided as the box package. We use IPFS default directory support and content addressing for supporting folders and files. For storing meta data and other user data we use DAG-JSON and IPFS together. We have almost finalized file protocol and are still developing the data protocol, which uses a DAG-JSON file stored on IPFS with query, caching and indexing support directly inside graph library. End users, their clients, can treat "box" like a server to keeps their data safe and gives them all functionalities of IPFS like cluster synchronization. If they lose their phone with the application installed, their files are safe in the "box" node. 
 
 box serves the following purposes to complement the current ecosystem with a familiar decentralized alternative for the widely popular client-server model:
 
