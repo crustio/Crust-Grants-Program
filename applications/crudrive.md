@@ -66,14 +66,14 @@ As a full-stack software developer with decade long experience. Currently intere
 * https://github.com/crudrive  
 
 ### Overview
-* **Total Estimated Duration:** 4-6 months
-* **Full-Time Equivalent (FTE):**  5-7 FTE
-* **Total Costs:** 16,600 USD
+* **Total Estimated Duration:** 2-3 months
+* **Full-Time Equivalent (FTE):**  3-5 FTE
+* **Total Costs:** 8,000 USD
 
-### Milestone 1 — Implement Basic Features 
+### Milestone 1 — Implement Basic Features(MVP) 
 * **Estimated Duration:** 2 month
 * **FTE:**  3
-* **Costs:** 12,000 USD
+* **Costs:** 8,000 USD
  
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -85,19 +85,11 @@ As a full-stack software developer with decade long experience. Currently intere
 | 4. | Integrate Crust | All files will be uploaded to Crust network | 
 | 5. | Promotion | Write an article introduce usage and how it interact with [Crust](https://crust.network/) to [Medium](https://medium.com/) | 
 
-### Milestone 2 
-
-* **Estimated Duration:** 2 month
-* **FTE:**  2
-* **Costs:** 4,600 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | SDK | We will provide handful toolkit, help them integrate drive service to their application.  | 
-| 2. | Payment | Will support credit card based payment system.  | 
 
 
 ## Future Plans
+- SDK, provide handful toolkit, help developers integrate drive to their service.
+- Payment System.
 - Support file versioning system.
 - Support import from hyper feature.
 - Support CRU payment.
