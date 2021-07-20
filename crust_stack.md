@@ -24,10 +24,11 @@ Crust Grants Program is application-oriented, currently it only supports softwar
 To develop more applications & scenarios for Crust.
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
-|NFT|    |Marketplaces, Games, Collectibles, which stores NFT related multimedia files in Crust Network|
+|NFT|  [SinsoGetway](https://github.com/Sinsogetway)  | The general NFT minting tool for NFT exchanges, which helps to stores NFT offchain data in Crust Network|
 |Website hosting tools| [IPFS-Crust-Pinner](https://github.com/crustio/ipfs-crust-pinner)   | CI/CD tools that can automatically host websites on Crust|
-|Content storage and delivery| [SkyeKiwi Protocol](http://skye.kiwi/)   | Accelerated and secured P2P-CDNs;|
-|Decentralized Pinning Service|    |Helping users to pin their files in Crust network|
+|Content storage and delivery| [SkyeKiwi Protocol](http://skye.kiwi/), [CruDrive](https://github.com/crudrive), [Socbay](http://socbay.io)   | Accelerated and secured P2P-CDNs; Cloud storage platform based on Crust|
+|Decentralized Pinning Service|    |Helping users to pin their files in Crust network; Help people store and host important public data |
+
 ### Showcases and Scenarios
 #### Website Hosting
 * Decentralized website hosting, for example, [Decentralized Uniswap Interface hosting on Crust/IPFS](https://medium.com/crustnetwork/decentralized-uniswap-interface-hosting-on-ipfs-18a78d1209ac)
@@ -43,14 +44,14 @@ Components |Existing Projects|Potentially Interesting Projects|
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
 |Wallet|    |    |
-|Storage and Node Explorer|    |    |
+|Storage and Node Explorer|  [Subscan](https://subscan.io/), [Crust Explorer](https://github.com/HuaZhuangNan/crust-explorer)  |    |
 
 ## Development Tools
 To develop useful API and SDK available for muti-languages.
 
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
-| Muti-language |    |Rust SDK|
+| Muti-language |  [IceTrays](https://github.com/IceTrays)  |Rust SDK|
 | Documents |    | Development/integration guidance; All-round document for Crust interface  |
 
 
