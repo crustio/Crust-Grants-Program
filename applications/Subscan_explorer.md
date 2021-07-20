@@ -1,6 +1,6 @@
 # Crust Grant Proposal
 
-- **Project Name:** Subscan blockchain explorer service for crust network
+- **Project Name:** Subscan blockchain explorer service for crust network and maxwell network
 
 - **Team Name:** Subscan
 
@@ -16,14 +16,16 @@ For Crust's special storage-related functions, Subscan does not provide customiz
 
 In order to improve the user experience, we will provide customized services for Crust storage related functions, then users can obtain a one-stop explorer query experience more conveniently.
 
+In addition, the maxwell network has a dual-token design, we will support CSM balance display, transfer and other related functions.
+
 ### Project Details 
 
 The main task is to integrate the storage-related functions of splorer into the Subscan blockchain explorer, which includes the following tasks:
-* Product and interaction design
-* Server-side development
-* Customized UI and front-end development
-* Storage-related open API and API Docs
-These functions will be applied to Crust testnet-Maxwell, Crust Canary Network-Shadow and Crust mainnet.
+* Product and interaction design for Crust network and Maxwell network..
+* Server-side development for Crust network and Maxwell network.
+* Customized UI and front-end development for Crust network and Maxwell network.
+* Storage-related open API and API Docs for Crust network and Maxwell network.
+* Support CSM balance display, transfer and other related functions for Maxwell network.
 
 ### Ecosystem Fit 
 
@@ -48,9 +50,9 @@ Subscan is a high-precision Web3 explorer that aggregates Substrate ecological n
 ## Development Roadmap
 
 ### Overview
-* **Total Estimated Duration:** 2.5 months
+* **Total Estimated Duration:** 3.5 months
 * **Full-Time Equivalent (FTE):** 4 full-time employees for the whole project
-* **Total Costs:** 20,000 USD (of which $10,000 is paid in USDT and $10,000 is paid in CRU)
+* **Total Costs:** 27,000 USD 
 
 ### Milestone 1 Product design and UI design
 * **Estimated Duration:** 0.5 month
@@ -65,7 +67,7 @@ Subscan is a high-precision Web3 explorer that aggregates Substrate ecological n
 | 0d. | Docs | New features introduction and user's guide | 
 
 
-### Milestone 2 Front-end and back-end development
+### Milestone 2 Front-end and back-end development for crust network
 
 * **Estimated Duration:** 1.5 months
 * **FTE:**  5
@@ -78,7 +80,20 @@ Subscan is a high-precision Web3 explorer that aggregates Substrate ecological n
 | 0c. | Storage-related open API | Provide free open API service with the highest request of 5 calls/sec | 
 
 
-### Milestone 3 Test and optimize
+### Milestone 3 Front-end and back-end development for maxwell network
+
+* **Estimated Duration:** 1 months
+* **FTE:**  5
+* **Costs:** 7,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | Server-side development | Develop according to requirements document |
+| 0b. | customized UI and front-end development | Develop according to requirements document |
+| 0c. | Storage-related open API | Provide free open API service with the highest request of 5 calls/sec | 
+
+
+### Milestone 4 Test and optimize
 
 * **Estimated Duration:** 0.5 month
 * **FTE:**  3
@@ -91,7 +106,4 @@ Subscan is a high-precision Web3 explorer that aggregates Substrate ecological n
 | 0c. | Merged to production environment | The functions included in this grant will be released at https://crust.subscan.io/ at the end of this milestone | 
 
 
-## Future Plans
-
-The functions developed in this grant will be applied to Crust testnet-Maxwell, Crust Canary Network-Shadow and Crust mainnet.
 
