@@ -174,23 +174,24 @@ For each milestone,
 ### Milestone 1 — Implement Crust Order Modules 
 * **Estimated Duration:** 1 month
 * **FTE:**  2
-* **Costs:** 10,000 USD
+* **Costs:** 6,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Crust nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
-| 1. | File transfer module from applications to box | We will create an IPFS+Libp2p module that transfers the file from application to the box backend. User does not need to run IPFS on the end device (e.g. mobile). box runs the ipfs node and provides APIs that talks to front-end app on the device through libp2p. This is transparent from end-user's perspective. |  
-| 2. | File transfer functionality from box to applications | We will create an IPFS+Libp2p module that transfers the file from box to the front-end application on request | 
-| 3. | Reading photos in photos app from box | We will connect photos app to store and read photos from box backend. We do not provide IPFS gateway service as it is not required. A box app knows the peerIds of it's host box nodes (through scanning a QR code while initiating the app) and dials files protocol directly on a libp2p swarm that is connecting all destination boxes. |  
+| 1. | Pulishing a Medium article on Functionland page, explaining how box uses Crust and its advantages from a technical perspective |  
+| 2. | File transfer module from applications to box | We will create an IPFS+Libp2p module that transfers the file from application to the box backend. User does not need to run IPFS on the end device (e.g. mobile). box runs the ipfs node and provides APIs that talks to front-end app on the device through libp2p. This is transparent from end-user's perspective. |  
+| 3. | File transfer functionality from box to applications | We will create an IPFS+Libp2p module that transfers the file from box to the front-end application on request | 
+| 4. | Reading photos in photos app from box | We will connect photos app to store and read photos from box backend. We do not provide IPFS gateway service as it is not required. A box app knows the peerIds of it's host box nodes (through scanning a QR code while initiating the app) and dials files protocol directly on a libp2p swarm that is connecting all destination boxes. |  
 
 
 ### Milestone 2 — Additional features
 
 * **Estimated Duration:** 1 month
 * **FTE:**  2
-* **Costs:** 10,000 USD
+* **Costs:** 6,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -202,7 +203,7 @@ For each milestone,
 
 * **Estimated Duration:** 1 month
 * **FTE:**  2
-* **Costs:** 8,000 USD
+* **Costs:** 3,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
