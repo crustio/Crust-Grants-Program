@@ -169,7 +169,7 @@ For each milestone,
 ### Overview
 * **Total Estimated Duration:** 3 months
 * **Full-Time Equivalent (FTE):**  3 months as we are working on it full-time
-* **Total Costs:** $28K
+* **Total Costs:** $15K
 
 ### Milestone 1 — Implement Crust Order Modules 
 * **Estimated Duration:** 1 month
