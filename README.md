@@ -1,12 +1,8 @@
 # Crust Grants Program
 
-
-## Grants Program Benefits
-By joining the Crust Grants Program, you and your team will have following benefits that will strengthen your project growth and development.
-
 ## Guidelines
 
-Anyone is welcome to apply for a grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects that add value to the ecosystem.
+Anyone is welcome to apply for a grant. **Currently, Crust Grants program mainly targets projects of protocol layer, and applications that serve a wide range of users.**
 
 Generally, your project will have better chances to get accepted if:
 
