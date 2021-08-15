@@ -1,8 +1,8 @@
 # Crust Stack
-Crust Grants Program is application-oriented, currently it only supports software development projects. The goal of this page is to provide an overview of the open-source Crust technology stack. Please feel free to make edits and additions via Pull Requests. We apologize if we missed your project!
+Crust Grants Program is technology-oriented, currently it **mainly targets projects of protocol layer, and applications that serve wide range of users**. Please feel free to make edits and additions via Pull Requests. We apologize if we missed your project!
 
 
-<!-- markdownlint-disable MD040 -->
+<!-- 
 ```
 |-------------------------------------------------------------------------------------|
 |  Content Storage&Delivery, NFT, Website Hosting Tools  /   User Based Applications  |
@@ -18,7 +18,7 @@ Crust Grants Program is application-oriented, currently it only supports softwar
 |               MPoW, GPoS, DSM                /              Chain Protocols         |
 |-------------------------------------------------------------------------------------|
 ```
-
+-->
 
 ## User Based Applications
 To develop more applications & scenarios for Crust.
@@ -41,13 +41,17 @@ Components |Existing Projects|Potentially Interesting Projects|
 * Integrate Crust with decentralized video websites and social media platforms
 
 ## Blockchain Based Applications
+
+>**The current wave of Crust Grants have closed grants for this type of project**. The projects that have been accepted before are as follows:
+
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
 |Wallet|    |    |
 |Storage and Node Explorer|  [Subscan](https://subscan.io/), [Crust Explorer](https://github.com/HuaZhuangNan/crust-explorer)  |    |
 
 ## Development Tools
-To develop useful API and SDK available for muti-languages.
+To develop useful API and SDK available for muti-languages. 
+>**The current wave of Crust Grants have closed grants for this type of project**. The projects that have been accepted before are as follows:
 
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
