@@ -42,7 +42,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 
 ## Blockchain Based Applications
 
->**The current wave of Crust Grants have closed grants for this type of project**. The projects that have been accepted before are as follows:
+>**The current wave of Crust Grants have closed grants for this type of projects**. The projects that have been accepted before are as follows:
 
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
@@ -51,7 +51,7 @@ Components |Existing Projects|Potentially Interesting Projects|
 
 ## Development Tools
 To develop useful API and SDK available for muti-languages. 
->**The current wave of Crust Grants have closed grants for this type of project**. The projects that have been accepted before are as follows:
+>**The current wave of Crust Grants have closed grants for this type of projects**. The projects that have been accepted before are as follows:
 
 Components |Existing Projects|Potentially Interesting Projects|
 |:----|:----|:----|
