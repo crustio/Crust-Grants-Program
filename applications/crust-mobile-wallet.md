@@ -19,8 +19,7 @@ Crust mobile wallet is aiming to provide a more convenient entrance of the Bring
 - Private & Secure: Only you can access your wallet. We don’t collect any personal data
 - Browser for DApps: Use your favourite decentralized apps & find new ones, without leaving your wallet.
 
-
-
+Below is a Video demo from "Wallet" application I have work on Hackathon gitcoin https://www.youtube.com/watch?v=VyiW7ajoRsw&ab_channel=ThienTran
 
 ### Ecosystem Fit 
 As a user I want to integration to Crust network on mobile phone easy, but at the moment I have not see our system doesn't have support yet,
@@ -39,10 +38,10 @@ so I think we should develop the mobile app wallet.
 * **Registered Legal Entity:** Name of your registered legal entity, if available. 
 
 ### Team's experience
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
+I have development experience, including front-end development, back-end development, Devops, etc. We have participated in the Vietnam blockchain. I has in-depth research and accumulation of blockchain technology.
 
 ### Team Code Repos
-* https://github.com/duythien
+* https://github.com/gsviec
 
 ### Team LinkedIn Profiles
 * https://www.linkedin.com/in/fcduythien
@@ -66,48 +65,65 @@ For each milestone,
 > If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 12,000 USD)
-
-### Milestone 1 Example — Implement Crust Order Modules 
+* **Total Estimated Duration:** 5 month
+* **Full-Time Equivalent (FTE):**  1
+* **Total Costs:** 22, 0000 USD
+* 
+### Milestone 1: MVP app
 * **Estimated Duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USD
+* **FTE:**  1
+* **Costs:** 4,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Crust nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
-| 1. | Crust module: X | We will create a Crust module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Crust module: Y | We will create a Crust module that will... |  
-| 3. | Crust module: Z | We will create a Crust module that will... |  
+| 1. | Research api and sdk Velas| Research api and sdk Velas |  
+| 2. | Setup base | Setup base mobile wallet|  
+| 3. | Build basic | Build create account and backup|  
+
+### Milestone 2: Feature app
+* **Estimated Duration:** 2 month
+* **FTE:**  1
+* **Costs:** 7,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Send and received | Send and received|
+| 2. | Multiple account| Add more account |  
+| 1. | DApps | Build Browser for DApps|  
+| 3. | Build basic | Build create account, send, received |
+| 3. | Cross platform | Optimze convert for a user is IOS and a user Android |
 
 
-
-### Milestone 2 Example — Additional features
-
+### Milestone 3: Deploy app IOS and Android
 * **Estimated Duration:** 1 month
 * **FTE:**  1
 * **Costs:** 4,000 USD
 
-...
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Test IOS| TestFlight beta testing|
+| 2. | Test Android| TestFlight beta testing|
+| 3. | Go live | Submit app to App Store And Google Play|
+
+### Milestone 4: Staking 
+* **Estimated Duration:** 2 month
+* **FTE:**  1
+* **Costs:** 7,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Staking| Adding staking app|
 
 
 ## Future Plans
-
-Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+- In short-term: I want to make app easy to use and loading faster
+- In long-term: Add more feature on Crust network.
 
 ## Additional Information 
 
-Any additional information that you think is relevant to this application that hasn't already been included.
-
 Possible additional information to include:
 
-* Are there are any teams who have already contributed (financially) to your project?
-* Do you have a community of users or open-source developers who are contributing to your project?
+* Are there are any teams who have already contributed (financially) to your project? No
+* Do you have a community of users or open-source developers who are contributing to your project? No
