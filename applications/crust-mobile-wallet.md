@@ -48,31 +48,15 @@ I have development experience, including front-end development, back-end develop
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to IPFS/Crust. We *recommend* that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month. 
-
-For each milestone,
-
-* make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-* include the amount of funding requested _per milestone_.
-* include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-* provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-* commit to providing Dockerfiles for the delivery of your project. 
-* indicate milestone duration as well as number of full-time employees working on each milestone, and include the approximate number of days along with the cost per day.
-* _Deliverables 0a-0d are mandatory_ and shall not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 * **Total Estimated Duration:** 5 month
 * **Full-Time Equivalent (FTE):**  1
-* **Total Costs:** 22,000 USD
+* **Total Costs:** 21,000 USD
 * 
 ### Milestone 1: MVP app
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 4,000 USD
+* **Costs:** 3,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -103,9 +87,12 @@ For each milestone,
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 1. | Test IOS| TestFlight beta testing|
-| 2. | Test Android| TestFlight beta testing|
-| 3. | Go live | Submit app to App Store And Google Play|
+| 1. | Settings| Adding some option such as general, tools|
+| 2. | Language| Adding multiple languages|
+| 3. | Qrcode|Adding QR scan|
+| 2. | Test IOS| TestFlight beta testing|
+| 3. | Test Android| TestFlight beta testing|
+| 4. | Go live | Submit app to App Store And Google Play|
 
 ### Milestone 4: Staking 
 * **Estimated Duration:** 2 month
@@ -115,6 +102,9 @@ For each milestone,
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. | Staking| Adding staking app|
+| 2. | Governance| Adding governance ??|
+
+
 
 
 ## Future Plans
@@ -127,3 +117,5 @@ Possible additional information to include:
 
 * Are there are any teams who have already contributed (financially) to your project? No
 * Do you have a community of users or open-source developers who are contributing to your project? No
+
+I am excited to be part of the Crust community and I will continue to contribute as much as we can. Thank you for your time and thank you for considering us for the Crust Grant.
