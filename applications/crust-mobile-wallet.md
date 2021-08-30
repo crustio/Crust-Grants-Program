@@ -49,10 +49,10 @@ I have development experience, including front-end development, back-end develop
 ## Development Roadmap
 
 ### Overview
-* **Total Estimated Duration:** 5 month
+* **Total Estimated Duration:** 6 month
 * **Full-Time Equivalent (FTE):**  1
 * **Total Costs:** 21,000 USD
-* 
+
 ### Milestone 1: MVP app
 * **Estimated Duration:** 1 month
 * **FTE:**  1
@@ -75,9 +75,9 @@ I have development experience, including front-end development, back-end develop
 | -----: | ----------- | ------------- |
 | 1. | Send and received | Send and received|
 | 2. | Multiple account| Add more account |  
-| 1. | DApps | Build Browser for DApps|  
-| 3. | Build basic | Build create account, send, received |
-| 3. | Cross platform | Optimze convert for a user is IOS and a user Android |
+| 3. | DApps | Build Browser for DApps|  
+| 4. | Build basic | Build create account, send, received |
+| 5. | Cross platform | Optimze convert for a user is IOS and a user Android |
 
 
 ### Milestone 3: Deploy app IOS and Android
@@ -90,9 +90,9 @@ I have development experience, including front-end development, back-end develop
 | 1. | Settings| Adding some option such as general, tools|
 | 2. | Language| Adding multiple languages|
 | 3. | Qrcode|Adding QR scan|
-| 2. | Test IOS| TestFlight beta testing|
-| 3. | Test Android| TestFlight beta testing|
-| 4. | Go live | Submit app to App Store And Google Play|
+| 4. | Test IOS| TestFlight beta testing|
+| 5. | Test Android| TestFlight beta testing|
+| 6. | Go live | Submit app to App Store And Google Play|
 
 ### Milestone 4: Staking 
 * **Estimated Duration:** 2 month
@@ -112,8 +112,6 @@ I have development experience, including front-end development, back-end develop
 - In long-term: Add more feature on Crust network.
 
 ## Additional Information 
-
-Possible additional information to include:
 
 * Are there are any teams who have already contributed (financially) to your project? No
 * Do you have a community of users or open-source developers who are contributing to your project? No
