@@ -67,7 +67,7 @@ For each milestone,
 ### Overview
 * **Total Estimated Duration:** 5 month
 * **Full-Time Equivalent (FTE):**  1
-* **Total Costs:** 22, 0000 USD
+* **Total Costs:** 22,000 USD
 * 
 ### Milestone 1: MVP app
 * **Estimated Duration:** 1 month
