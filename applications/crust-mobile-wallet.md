@@ -94,7 +94,7 @@ I have development experience, including front-end development, back-end develop
 | 5. | Test Android| TestFlight beta testing|
 | 6. | Go live | Submit app to App Store And Google Play|
 
-### Milestone 4: Staking 
+### Milestone 4: Staking && Storage app
 * **Estimated Duration:** 2 month
 * **FTE:**  1
 * **Costs:** 7,000 USD
@@ -102,8 +102,8 @@ I have development experience, including front-end development, back-end develop
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. | Staking| Adding staking app|
-| 2. | Governance| Adding governance ??|
-
+| 2. | Storage apps| integrate the storage function of Crust|
+| 3. | Governance| Adding governance ??|
 
 
 
