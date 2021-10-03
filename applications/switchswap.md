@@ -84,7 +84,7 @@ We could create a collection of NFT based on that idea; all categories will be s
 <img src="https://ipfs.io/ipfs/QmUWzLqn3zkWgBqxWg4Dd71JzgCb7Ft46grqXkBwyqGqtH" width="400" />
 
 ## **UI components**
-switchswap is aimed to be long-term and will be used for different applications in web3 world, so we care about the user experience on the interface and the product quality.
+Switchswap is aimed to be long-term and will be used for different applications in web3 world, so we care about the user experience on the interface and the product quality.
 
 We give the user as much information as possible to guide them on using the platform/ wallets. All these features are being hardly developed; some features are at the MVP level.
 
@@ -126,8 +126,8 @@ At the gallery, users can view NFT and buy them if interested.
 We are planning to build many other things on switchswap; some page are in our development plan:
 
 1. Dedicated NFT viewer: to view the content of user's NFT, user can check the storage status of their file on Crust Network from this pages
-2. NFT manager: to view all NFT the user have in their wallet
-3. Proposal page: this page lets user propose their opinion, suggestion for switchswap, the data will be stored Polygon Network.
+2. NFT manager: to view all NFT the user has in their wallet
+3. Proposal page: this page lets user propose their opinions, suggestions for switchswap, the data will be stored in Polygon Network.
 4. Funbox: this page has multiple small tools that are useful for users, e.g.:
     
     $CRU faucet box that allows users to receive $CRU if they tweet a status on Twitter including required keywords
@@ -166,7 +166,7 @@ We built multiple projects on IPFS.
 
 But these projects are not the main advantages of our team. We are strong at the fast adaptability in new tech environments and have a great passion for building products. 
 
-Furthermore, we care about small details and always put ourselves in the customer's shoes, it could be a plus point to deliver user-oriented products.
+Furthermore, we care about small details and always put ourselves in the customer's shoes, it is a plus point that ensures we will deliver a user-oriented/easy-to-use product.
 
 ### Team Code Repos
 * https://github.com/nghianguyen119
