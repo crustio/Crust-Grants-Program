@@ -1,6 +1,6 @@
 # Crust Grant Proposal
 
-* **Project Name:** Switchswap
+* **Project Name:** switchswap
 * **Website:** switchswap.io
 * **Blockchain domain:** switchswap.nft (claimed but didn't point to the current CID)
 * **Team Name:** Web3 CheerLeaders
@@ -12,8 +12,8 @@
 > ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
 
 ### Overview
-  * **Brief description:** after more than six months of researching/learning/developing applications on IPFS, namely on Crust Network, recently we started an ambitious/long-term/realistic project - Switchswap to develop the ecosystem of blockchains mainly using web3 technology.
-  * **What we do:** at the first period, we build a platform to create/trade D-NFT on Polygon/ Crust. We use the letter "D" before NFT because most NFT in the market isn't decentralized and can be easily manipulated by its creator. On Switchswap, these NFT do not depend on any factor and can't be deleted by anyone. They are also compatible with big marketplaces such as Opensea.
+  * **Brief description:** after more than six months of researching/learning/developing applications on IPFS, namely on Crust Network, recently we started an ambitious/long-term/realistic project - switchswap to develop the ecosystem of blockchains mainly using web3 technology.
+  * **What we do:** at the first period, we build a platform to create/trade D-NFT on Polygon/ Crust. We use the letter "D" before NFT because most NFT in the market isn't decentralized and can be easily manipulated by its creator. On switchswap, these NFT do not depend on any factor and can't be deleted by anyone. They are also compatible with big marketplaces such as Opensea.
   * **Why we do:** blockchains are created to be independent, but most applications on blockchains are not. We see a lot of unstable points in the blockchain world: NFT using centralized metadata, DeFi using the centralized server for its UI (that would create harmful consequences if UI is down). The valuable technologies in blockchains are not widely used; some remarkable technologies can be named: blockchain domain, decentralized IPFS pinning service. We create a common place - switchswap to apply multiple interesting blockchain applications here.
 
 ## Project Details 
@@ -27,26 +27,26 @@ In the first phase, our primary products are:
 
 **Technical specifications:**
 
-* **Interface stack:** ReactJS, Typescript
+* **Interface Stack:** ReactJS, Typescript
 * **Interface Hosting:** IPFS/Crust
 * **Blockchain Domain:** [unstoppabledomains.com](https://unstoppabledomains.com/), [ens.domains](https://ens.domains/)
 * **IPFS Gateway:** Light Node inside web browser (create by package JS ipfs-core), Crust IPFS W3Auth Gateway (could pin to multiple gateways to increase retrieving speed)
 * **IPFS Pinning Service:** Crust Network
 * **Database:** smart contract on Polygon
-* **Smart contract Stack:** Solidity, Hardhat, ethers.js, web3.js
+* **Smart Contract Stack:** Solidity, Hardhat, ethers.js, web3.js
 * **Micro Service:** NodeJS, Heroku (the server sometimes is required to process centralized tasks such as faucet $CRU, retrieving CID periodically to spread important files into the IPFS network, etc...)
 * **Designing Style:** Material, Flat
 
 ## **NFT collections**
 ### **Type 1: Without switchswap NFT card**
 
-This is simply a type of NFT that all other platforms offer. Tt's suitable for low quality image NFT.
+This is simply a type of NFT that other platforms offer. It's suitable for image/video/gif.
 
-### **Type 2: With Switchswap NFT Card, with author registration**
+### **Type 2: With switchswap NFT Card, with author registration**
 
 This type of NFT could be used to register assets that need to identify the author, e.g., intellectual properties, art,...
 
-In the examples below, when the left QR code is scanned, it will redirect to the actual asset of the NFT. The asset could be a very high-quality image, video, whatever file, markdown articles, etc...
+In the examples below, when the left QR code is scanned, it will redirect to the actual asset of the NFT. The asset could be a very high-quality image, video, markdown articles, whatever file, etc...
 
 The right QR code will redirect to the author's registration. The author registration is the transaction's hash where the author uses their Crust Wallet to upload the asset to Crust Network. From this hash, people can check which Crust Address was used to upload the file, when the file is uploaded, what the file's CID is. If this Crust address registered the identity on Crust Chain, people could also check the identity of the file's author.
 
@@ -59,17 +59,17 @@ The right QR code will redirect to the author's registration. The author registr
 <img src="https://ipfs.io/ipfs/QmancaZnBm6utimvHasa6jdcibRnFDa4LKwQN1JtdZ3aZ7" width="400" />
 <img src="https://ipfs.io/ipfs/QmYism4P37qHUnvYzs3DPBSZqinXovvW2Az9QWXehfKRWp" width="400" />
 
-### **Type 3: With Switchswap NFT Card, without author registration**
+### **Type 3: With switchswap NFT Card, without author registration**
 This type of NFT is used to register anonymous files which don't require author registration. The file could be image/video/article/software/etc...
 
-This NFT can be used to replace NFT type 1 to offer higher quality NFT. In this case, the NFT Card can be considered as the representation of NFT type 1. If others want to access the actual content of NFT, they can scan the QR code or access it by its CID.
+This NFT can be used to replace NFT type 1 to offer high quality NFT. In this case, the NFT Card can be considered as the representation of NFT type 1. If others want to access the actual content of NFT, they can scan the QR code or access by its CID.
 
 <img src="https://ipfs.io/ipfs/QmbchXePzUNJS6GyV8nkRZ2LJrqLca8dbYBzXJg6erp56C" width="400" />
 <img src="https://ipfs.io/ipfs/QmSb81yb47uu3ZqqDCh3JKHxp8a4BUUSbKJBKFhXDqKga1" width="400" />
 <img src="https://ipfs.io/ipfs/QmWm5vhrYyDL2jvRwhDfVX4sRyneFsYMbtozcUopnQ8pav" width="400" />
 <img src="https://ipfs.io/ipfs/QmUx3c8zAJPUhFni4kS556tyWXUC5CyTD7NgqAnBknbKR4" width="400" />
 
-### **Some QR Code style user can used in their NFT Card**
+### **Some QR Code styles that user can use in their NFT Card**
 
 ![QR1](https://ipfs.io/ipfs/QmUG7qxZXwcFWwDBJo34FNR4nWVLqxiEF4E1R1d88VCj3R)
 
@@ -77,14 +77,14 @@ This NFT can be used to replace NFT type 1 to offer higher quality NFT. In this 
 ### **Type 4 and more: Cryptopunks style NFT**
 Cryptopunks has shown its success over the last period, but it has limitations because all data must be stored on-chain.
 
-At Switchswap, we use an open-source avatar library that offers up to 140 million different avatars. The avatar is divided into different zones. Each zone has a category of design; by combining all these different zones randomly, we can obtain a random asset.
+At switchswap, we use an open-source avatar library that offers up to 140 million different avatars. The avatar is divided into different zones. Each zone has a category of design; by combining all these different zones randomly, we can obtain a random asset.
 
 We could create a collection of NFT based on that idea; all categories will be stored on Crust Network with a high renew pool to ensure the persistency of this NFT collection. More details on this type of NFT will be discussed later.
 
 <img src="https://ipfs.io/ipfs/QmUWzLqn3zkWgBqxWg4Dd71JzgCb7Ft46grqXkBwyqGqtH" width="400" />
 
 ## **UI components**
-Switchswap is aimed to be long-term and will be used for different applications in web3 world, so we care about the user experience on the interface and the product quality.
+switchswap is aimed to be long-term and will be used for different applications in web3 world, so we care about the user experience on the interface and the product quality.
 
 We give the user as much information as possible to guide them on using the platform/ wallets. All these features are being hardly developed; some features are at the MVP level.
 
@@ -110,17 +110,33 @@ Design of development progress
 ![Progress](https://ipfs.io/ipfs/QmVQRi7nHL5c1CUCMVodGtMSFgzy3PMjWU4L44azQsmECZ)
 
 **Wallet Management**
+
 ![Wallet](https://ipfs.io/ipfs/Qmbj1vxx1bVBtKwFY5x8z9Y5SebYRHNpoMg3fyHnNQifcm)
 
 **Design of Gallery Page (In dev.)**
 
-It could be considered an NFT exhibition; there will be many exhibitions in Switchswap, each show will have different parameters and a separate page.
+It could be considered an NFT exhibition; there will be many exhibitions in switchswap, each show will have different parameters and is located at a separate page.
 
 At the gallery, users can view NFT and buy them if interested.
 
 ![Gallery](https://ipfs.io/ipfs/QmP5bgkhk3H3gCKTc48xeU9RsRiwa3sh5TKLcpwD1T4Mmy)
 
+**And more**
 
+We are planning to build many other things on switchswap; some page are in our development plan:
+
+1. Dedicated NFT viewer: to view the content of user's NFT, user can check the storage status of their file on Crust Network from this pages
+2. NFT manager: to view all NFT the user have in their wallet
+3. Proposal page: this page lets user propose their opinion, suggestion for switchswap, the data will be stored Polygon Network.
+4. Funbox: this page has multiple small tools that are useful for users, e.g.:
+    
+    $CRU faucet box that allows users to receive $CRU if they tweet a status on Twitter including required keywords
+
+    File checking box to check their file status on Crust Network, the list of files to be monitored will be stored in localStorage or maybe in Polygon if we see the needs of users
+
+    And more...
+    
+    
 ### Ecosystem Fit 
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
@@ -143,7 +159,7 @@ There are no NFT projects that allow users to customize their NFT card and regis
 * **Huy Dung Nguyen:** huydungasd@switchswap.io
 
 ### Team's experience
-We build multiple projects on IPFS.
+We built multiple projects on IPFS.
 * [socbay.io](https://socbay.io) - decentralized videos platform on IPFS
 * [unstoppabledefi.org](https://unstoppabledefi.org) - decentralizing DeFi
 * [cruscan.com](https://cruscan.com) - file status order on Crust Network - Mainnet
