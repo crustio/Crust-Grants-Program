@@ -19,9 +19,11 @@
 ## Project Details 
 
 ### **First phase**
-We create a platform that allows users to mint NFT freely, all data is stored on Crust Network and NFT is mint via Polygon smartcontract.
+At the first phase, our main products are:
+1. D-NFT minting page that allows users to customize the NFT Card and mint their NFT freely via Polygon smart contract. The different types of NFT will be presented in next part.
+2. NFT gallery: for exhibiting, trading NFT in a decentralized way via a swap smart contract on Polygon.
+3. NFT manager: for managing user-own NFT
 
-We also create a smart contract which allow users to swap their NFT to valuable assets (e.g. $MATIC)
 
 **Technical specifications:**
 
@@ -52,9 +54,9 @@ The right QR code will redirect to the author registration, actually it's the ha
 1. Why do we need to register the author? To answer this question, take an example of NFT for digital pictures, the author is one factor that makes art valuable. Furthermore, author can be used to prove the intellectual property of an asset in case there is the dispute.
 2. Can this type of NFT be transferable? The answer is yes, author is unchangeble but ownwer is. Owner identity is registered on Polygon blockchain.
 
-![WithAuthor](https://ipfs.io/ipfs/QmckT69HTa9jA1d4K6Wc4Q8AsRfq2t4ND8yeVKQ5sq1eu3)
-![WithAuthor](https://ipfs.io/ipfs/QmShXm8UAbSoBoCxGKfLZ1gNMeDggkrHZpRKFCERVb4fip)
-![WithAuthor](https://ipfs.io/ipfs/QmancaZnBm6utimvHasa6jdcibRnFDa4LKwQN1JtdZ3aZ7)
+![<img src="https://ipfs.io/ipfs/QmckT69HTa9jA1d4K6Wc4Q8AsRfq2t4ND8yeVKQ5sq1eu3" width="50"/>](https://ipfs.io/ipfs/QmckT69HTa9jA1d4K6Wc4Q8AsRfq2t4ND8yeVKQ5sq1eu3)
+![WithAuthor](https://ipfs.io/ipfs/QmShXm8UAbSoBoCxGKfLZ1gNMeDggkrHZpRKFCERVb4fip){ width=50% }
+![WithAuthor](https://ipfs.io/ipfs/QmancaZnBm6utimvHasa6jdcibRnFDa4LKwQN1JtdZ3aZ7){ width="36px" }
 ![WithAuthor](https://ipfs.io/ipfs/QmYism4P37qHUnvYzs3DPBSZqinXovvW2Az9QWXehfKRWp)
 
 ### **Type 3: With Switchswap NFT Card, without author registration**
@@ -67,7 +69,7 @@ This NFT can be used to replace NFT type 1 to offer higher quality NFT, it can b
 ![WithoutAuthor](https://ipfs.io/ipfs/QmUx3c8zAJPUhFni4kS556tyWXUC5CyTD7NgqAnBknbKR4)
 
 
-### **Type 4 and more: Cryptopunks alike NFT**
+### **Type 4 and more: Cryptopunks style NFT**
 Cryptopunks has shown its success over the last period, but it has the limitation because all data must be stored on chain.
 Currently at Switchswap, we use an opensource avatar library that offers up to 140 millions different avatars. The avatar is devided into different zones, each zone has a category of design, by combining randomly all these diffent zones we can obtain a random asset.
 
@@ -138,7 +140,7 @@ We build multiple projects on IPFS
 
 
 ### Team Code Repos
-* https://github.com/<your_repo_1>
+* https://github.com/nghianguyen119
 * https://github.com/<your_repo_2>
 
 ### Team LinkedIn Profiles
