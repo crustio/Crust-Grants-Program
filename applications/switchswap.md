@@ -12,15 +12,15 @@
 > ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
 
 ### Overview
-  * **Brief description:** after more than 6 months of researching/learning/developping application on IPFS, namely on Crust Network, we started an ambitious/scalable/ longterm/realistic project - Switchswap to develop ecosystem of blockchains mainly using web3 technology.
-  * **What we do:** at the first period, we build a platform to create/trade D-NFT on Polygon/ Crust, the reason we use the letter "D" before NFT because most NFT in the market aren't decentralized and can be manipulated by its creator easily. On Switchswap, these NFT do not depend on any factor and can't be deleted by anyone. They are also compatible with big marketplaces such as Opensea.
-  * **Why we do:** blockchains are created to be independent but most applications on blockchains are not. We see a lot of unstable points in the blockchain world: NFT using centralized metadata, DeFi using centralized server for its UI (that would create harmful consequences if UI is down). The valuable technologies in blockchains are not widely used, some remarkable technologies can be named: blockchain domain, decentralized IPFS pinning service. We create a common place - switchswap to apply multiple interresting blockchain applications here.
+  * **Brief description:** after more than six months of researching/learning/developing applications on IPFS, namely on Crust Network, recently we started an ambitious/long-term/realistic project - Switchswap to develop the ecosystem of blockchains mainly using web3 technology.
+  * **What we do:** at the first period, we build a platform to create/trade D-NFT on Polygon/ Crust. We use the letter "D" before NFT because most NFT in the market isn't decentralized and can be easily manipulated by its creator. On Switchswap, these NFT do not depend on any factor and can't be deleted by anyone. They are also compatible with big marketplaces such as Opensea.
+  * **Why we do:** blockchains are created to be independent, but most applications on blockchains are not. We see a lot of unstable points in the blockchain world: NFT using centralized metadata, DeFi using the centralized server for its UI (that would create harmful consequences if UI is down). The valuable technologies in blockchains are not widely used; some remarkable technologies can be named: blockchain domain, decentralized IPFS pinning service. We create a common place - switchswap to apply multiple interesting blockchain applications here.
 
 ## Project Details 
 
 ### **First phase**
-At the first phase, our main products are:
-1. D-NFT minting page that allows users to customize the NFT Card and mint their NFT freely via Polygon smart contract. The different types of NFT will be presented in next part.
+In the first phase, our primary products are:
+1. D-NFT minting page allows users to customize the NFT Card and mint their NFT freely via Polygon smart contract. The different types of NFT will be presented in the next part.
 2. NFT gallery: for exhibiting, trading NFT in a decentralized way via a swap smart contract on Polygon.
 3. NFT manager: for managing user-own NFT
 
@@ -34,51 +34,59 @@ At the first phase, our main products are:
 * **IPFS Pinning Service:** Crust Network
 * **Database:** smart contract on Polygon
 * **Smart contract Stack:** Solidity, Hardhat, ethers.js, web3.js
-* **Micro Service:** NodeJS, Heroku (the server sometime is required to process centralized tasks such as faucet $CRU, retrieving CID periodically to spread important files into IPFS network,...)
+* **Micro Service:** NodeJS, Heroku (the server sometimes is required to process centralized tasks such as faucet $CRU, retrieving CID periodically to spread important files into the IPFS network, etc...)
 * **Designing Style:** Material, Flat
 
 ## **NFT collections**
 ### **Type 1: Without switchswap NFT card**
 
-This is simply a type of NFT that all other platforms offer, it's suitable for low quality image NFT
+This is simply a type of NFT that all other platforms offer. Tt's suitable for low quality image NFT.
 
 ### **Type 2: With Switchswap NFT Card, with author registration**
 
-This type of NFT could be used to register properties that need to identify the author. E.g. intellectual properties, art,...
+This type of NFT could be used to register assets that need to identify the author, e.g., intellectual properties, art,...
 
-In the example bellow, when the left QR code is scanned, it will redirect to the actual asset of the NFT, the asset could be a very high quality image, video, whatever file, markdown articles,...
+In the examples below, when the left QR code is scanned, it will redirect to the actual asset of the NFT. The asset could be a very high-quality image, video, whatever file, markdown articles, etc...
 
-The right QR code will redirect to the author registration, actually it's the hash of the transaction where the author use their own Crust Wallet to upload the asset to Crust Network. From this hash, people can check which Crust Address was used to upload the file, when the file is uploaded, what is the CID of file. If this Crust address registered the identity on Crust Chain, people can also check the identity of the file's author.
+The right QR code will redirect to the author's registration. The author registration is the transaction's hash where the author uses their Crust Wallet to upload the asset to Crust Network. From this hash, people can check which Crust Address was used to upload the file, when the file is uploaded, what the file's CID is. If this Crust address registered the identity on Crust Chain, people could also check the identity of the file's author.
 
 **Questions that can be usually asked:**
-1. Why do we need to register the author? To answer this question, take an example of NFT for digital pictures, the author is one factor that makes art valuable. Furthermore, author can be used to prove the intellectual property of an asset in case there is the dispute.
-2. Can this type of NFT be transferable? The answer is yes, author is unchangeble but ownwer is. Owner identity is registered on Polygon blockchain.
+1. Why do we need to register the author? To answer this question, take an example of NFT for digital pictures. The author is one factor that makes art valuable. Furthermore, the author can be used to prove the intellectual property of an asset if there is a dispute.
+2. Can this type of NFT be transferable? Yes, the author is unchangeable but the owner is. Owner identity is registered on Polygon blockchain.
 
-![<img src="https://ipfs.io/ipfs/QmckT69HTa9jA1d4K6Wc4Q8AsRfq2t4ND8yeVKQ5sq1eu3" width="50"/>](https://ipfs.io/ipfs/QmckT69HTa9jA1d4K6Wc4Q8AsRfq2t4ND8yeVKQ5sq1eu3)
-![WithAuthor](https://ipfs.io/ipfs/QmShXm8UAbSoBoCxGKfLZ1gNMeDggkrHZpRKFCERVb4fip){ width=50% }
-![WithAuthor](https://ipfs.io/ipfs/QmancaZnBm6utimvHasa6jdcibRnFDa4LKwQN1JtdZ3aZ7){ width="36px" }
-![WithAuthor](https://ipfs.io/ipfs/QmYism4P37qHUnvYzs3DPBSZqinXovvW2Az9QWXehfKRWp)
+<img src="https://ipfs.io/ipfs/QmckT69HTa9jA1d4K6Wc4Q8AsRfq2t4ND8yeVKQ5sq1eu3" width="400" />
+<img src="https://ipfs.io/ipfs/QmShXm8UAbSoBoCxGKfLZ1gNMeDggkrHZpRKFCERVb4fip" width="400" />
+<img src="https://ipfs.io/ipfs/QmancaZnBm6utimvHasa6jdcibRnFDa4LKwQN1JtdZ3aZ7" width="400" />
+<img src="https://ipfs.io/ipfs/QmYism4P37qHUnvYzs3DPBSZqinXovvW2Az9QWXehfKRWp" width="400" />
 
 ### **Type 3: With Switchswap NFT Card, without author registration**
-This type of NFT is used to register anonymous files which don't require author registration.
-This NFT can be used to replace NFT type 1 to offer higher quality NFT, it can be understand as the representation of NFT type 1. If other want to access the real content of NFT, they can scan the QR code or access by its CID.
+This type of NFT is used to register anonymous files which don't require author registration. The file could be image/video/article/software/etc...
 
-![WithoutAuthor](https://ipfs.io/ipfs/QmbchXePzUNJS6GyV8nkRZ2LJrqLca8dbYBzXJg6erp56C)
-![WithoutAuthor](https://ipfs.io/ipfs/QmSb81yb47uu3ZqqDCh3JKHxp8a4BUUSbKJBKFhXDqKga1)
-![WithoutAuthor](https://ipfs.io/ipfs/QmWm5vhrYyDL2jvRwhDfVX4sRyneFsYMbtozcUopnQ8pav)
-![WithoutAuthor](https://ipfs.io/ipfs/QmUx3c8zAJPUhFni4kS556tyWXUC5CyTD7NgqAnBknbKR4)
+This NFT can be used to replace NFT type 1 to offer higher quality NFT. In this case, the NFT Card can be considered as the representation of NFT type 1. If others want to access the actual content of NFT, they can scan the QR code or access it by its CID.
 
+<img src="https://ipfs.io/ipfs/QmbchXePzUNJS6GyV8nkRZ2LJrqLca8dbYBzXJg6erp56C" width="400" />
+<img src="https://ipfs.io/ipfs/QmSb81yb47uu3ZqqDCh3JKHxp8a4BUUSbKJBKFhXDqKga1" width="400" />
+<img src="https://ipfs.io/ipfs/QmWm5vhrYyDL2jvRwhDfVX4sRyneFsYMbtozcUopnQ8pav" width="400" />
+<img src="https://ipfs.io/ipfs/QmUx3c8zAJPUhFni4kS556tyWXUC5CyTD7NgqAnBknbKR4" width="400" />
 
+### **Some QR Code style user can used in their NFT Card**
+
+![QR1](https://ipfs.io/ipfs/QmUG7qxZXwcFWwDBJo34FNR4nWVLqxiEF4E1R1d88VCj3R)
+
+![QR2](https://ipfs.io/ipfs/QmWL4U8Uq3M3LdkKjCTf9yQaKFRK9zbZcyDLdKUkaGX2tx)
 ### **Type 4 and more: Cryptopunks style NFT**
-Cryptopunks has shown its success over the last period, but it has the limitation because all data must be stored on chain.
-Currently at Switchswap, we use an opensource avatar library that offers up to 140 millions different avatars. The avatar is devided into different zones, each zone has a category of design, by combining randomly all these diffent zones we can obtain a random asset.
+Cryptopunks has shown its success over the last period, but it has limitations because all data must be stored on-chain.
 
-We could create a collection of NFT based on that idea, all categories will be stored on Crust Network with high renew pool to ensure the persistency of this NFT collections. More details on this type of NFT will be discussed later.
-![CryptoPunksAlike](https://ipfs.io/ipfs/QmUWzLqn3zkWgBqxWg4Dd71JzgCb7Ft46grqXkBwyqGqtH)
+At Switchswap, we use an open-source avatar library that offers up to 140 million different avatars. The avatar is divided into different zones. Each zone has a category of design; by combining all these different zones randomly, we can obtain a random asset.
+
+We could create a collection of NFT based on that idea; all categories will be stored on Crust Network with a high renew pool to ensure the persistency of this NFT collection. More details on this type of NFT will be discussed later.
+
+<img src="https://ipfs.io/ipfs/QmUWzLqn3zkWgBqxWg4Dd71JzgCb7Ft46grqXkBwyqGqtH" width="400" />
 
 ## **UI components**
-Switchswap is aimed to be longterm and is used for different applications so we care about the user experience on the interface.
-We give user as much information as possible to guide them how to use the platform/ wallets. All these features are being hardly developped, some features are at the MVP level.
+Switchswap is aimed to be long-term and will be used for different applications in web3 world, so we care about the user experience on the interface and the product quality.
+
+We give the user as much information as possible to guide them on using the platform/ wallets. All these features are being hardly developed; some features are at the MVP level.
 
 **Minting Page**
 ![MitingPageWithAuthor](https://ipfs.io/ipfs/QmWFYZrnAgZLsGnA7TvEqietCVZYBHcecJYzTxpi7PoT8K)
@@ -94,7 +102,7 @@ We give user as much information as possible to guide them how to use the platfo
 ![Homepage](https://ipfs.io/ipfs/QmRKjBQNJM8CxwSPrnJbXKXQdBSWNTMCfjdYhgnNNcfDu6)
 
 
-Their will be many things added on home page, such as total NFT minted, development progress, user proposals,... we are currently focusing on NFT Minting page, all small features will be added on Home Page later
+Many things will be added on the home page, such as total NFT minted, development progress, user proposals, etc... We are currently focusing on the NFT Minting page. All small features will be added to Home Page later.
 
 ![Statistic](https://ipfs.io/ipfs/QmW6EZpdDd5jSE2QT6ndodyvdXVe5HCkDQrGtcfxa7be7G)
 
@@ -106,7 +114,10 @@ Design of development progress
 
 **Design of Gallery Page (In dev.)**
 
-In this page, users can place the sell order of their NFT through a swap smart contract, it's could be considered as a NFT market place, their will be many categories, each cattegory will have different parameters and has a seperate page.
+It could be considered an NFT exhibition; there will be many exhibitions in Switchswap, each show will have different parameters and a separate page.
+
+At the gallery, users can view NFT and buy them if interested.
+
 ![Gallery](https://ipfs.io/ipfs/QmP5bgkhk3H3gCKTc48xeU9RsRiwa3sh5TKLcpwD1T4Mmy)
 
 
@@ -114,14 +125,13 @@ In this page, users can place the sell order of their NFT through a swap smart c
 
 Help us locate your project in the Crust landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem? 
-* What need(s) does your project meet? 
-* Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+#### Where and how does your project fit into the ecosystem?
+Switchswap team will develop the ecosystem for different blockchains. In the first phase, it will be NFTs. NFT content is stored on Crust Network. The more products we create, the higher influence Crust Network will be in the blockchains world.
 
+#### What need(s) does your project meet? 
+#### Are there any other projects similar to yours in the IPFS/Crust ecosystem? 
+There are no NFT projects that allow users to customize their NFT card and register the asset's author. 
 ## Team
-
 ### Team members
 * Team Leader: Nghia Nguyen
 * Tech Researcher & Dev: Huy Dung Nguyen
@@ -133,19 +143,22 @@ Help us locate your project in the Crust landscape and what problems it tries to
 * **Huy Dung Nguyen:** huydungasd@switchswap.io
 
 ### Team's experience
-We build multiple projects on IPFS
+We build multiple projects on IPFS.
 * [socbay.io](https://socbay.io) - decentralized videos platform on IPFS
 * [unstoppabledefi.org](https://unstoppabledefi.org) - decentralizing DeFi
 * [cruscan.com](https://cruscan.com) - file status order on Crust Network - Mainnet
 
+But these projects are not the main advantages of our team. We are strong at the fast adaptability in new tech environments and have a great passion for building products. 
+
+Furthermore, we care about small details and always put ourselves in the customer's shoes, it could be a plus point to deliver user-oriented products.
 
 ### Team Code Repos
 * https://github.com/nghianguyen119
-* https://github.com/<your_repo_2>
+* https://github.com/huydung179
 
 ### Team LinkedIn Profiles
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+* https://www.linkedin.com/in/trongnghia/
+* https://www.linkedin.com/in/huydungnguyen/
 
 ## Development Roadmap
 
@@ -168,19 +181,20 @@ For each milestone,
 ### Overview
 * **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
 * **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 12,000 USD)
+* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding *needs to be below $30k*  (e.g. 0,000 USD)
 
-### Milestone 1 Example — Implement Crust Order Modules 
+### Milestone 1 Minting NFT features 
 * **Estimated Duration:** 1 month
 * **FTE:**  2
-* **Costs:** 8,000 USD
+* **Costs:** 0,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Crust nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
-| 1. | Crust module: X | We will create a Crust module that will... (Please list the functionality that will be coded for the first milestone) |  
+| 1. | NFT Minting Page | We create a page for minting different types of NFT on Polygon | 
+| 1a. | Minting NFT without card (Type 1) |The NFT use IPFS W3Auth Gateway and IPFS W3Auth pinning service|
+| 1b. | Minting NFT with card, without author's registration (Type 3) |The NFT use IPFS W3Auth Gateway and IPFS W3Auth pinning service|  
+| 1c. | Minting NFT with card, without author's registration (Type 2) |User has to user their Crust Wallet to be able to pin their file|
+| 1* | Customizing NFT card |This part is the heaviest work for D-NFT Minting Page, we already designed some proof of concept NFT Cards presented above, the customization section will let user choose their prefered|  
 | 2. | Crust module: Y | We will create a Crust module that will... |  
 | 3. | Crust module: Z | We will create a Crust module that will... |  
 
@@ -190,7 +204,7 @@ For each milestone,
 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 4,000 USD
+* **Costs:** 0,000 USD
 
 ...
 
