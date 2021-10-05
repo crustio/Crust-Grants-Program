@@ -14,7 +14,7 @@
 ### Overview
 
 - **Brief description:** after more than six months of researching/learning/developing applications on IPFS, namely on Crust Network, recently we started an ambitious/long-term/realistic project - switchswap to develop the ecosystem of blockchains mainly using web3 technology.
-- **What we do:** at the first period, we build a platform to create/trade D-NFT on Polygon/ Crust. We use the letter "D" before NFT because most NFT in the market isn't decentralized and can be easily manipulated by its creator. On switchswap, these NFT do not depend on any factor and can't be deleted by anyone. They are also compatible with big marketplaces such as Opensea.
+- **What we do:** at the first period, we build a platform to create/trade D-NFT on Polygon/Crust. We use the letter "D" before NFT because most NFT in the market isn't decentralized and can be easily manipulated by its creator. On switchswap, these NFT do not depend on any factor and can't be deleted by anyone. They are also compatible with big marketplaces such as Opensea.
 - **Why we do:** blockchains are created to be independent, but most applications on blockchains are not. We see a lot of unstable points in the blockchain world: NFT using centralized metadata/storage, DeFi using the centralized server for its UI (that would create harmful consequences if UI is down). The valuable technologies in blockchains are not widely used; some remarkable technologies can be named: blockchain domain, decentralized IPFS pinning service. We create a common place - switchswap to apply multiple interesting blockchain applications here.
 
   Some last months, we have built socbay.io on IPFS, intending to show users how does decentralized storage works. But the reality is not pink, videos platform is not in the interest of the blockchain community, we only got two users posted video on Socbay over the last 5 months, one from Crust Network team member and another from a curious user. Centralized applications such as youtube, Vimeo, etc... are doing so well in that field so the interest of users for socbay.io is diluted.
@@ -42,7 +42,7 @@ In the first phase, our primary products are:
 - **Smart Contract Stack:** Solidity, Hardhat, ethers.js
 - **Micro Service:** NodeJS, Heroku, MongoDB as a service (the server sometimes is required to process centralized tasks such as faucet $CRU, retrieving CID periodically to spread important files into the IPFS network, etc...)
 - **Designing Style:** Material, Flat
-- **Coding Style:** Git-flow for git management; using as much as possible automation tools for fast developing such as: Github Action/ Bash; don't reinvent the wheel, use as much as possible **well maintained** libraries/ frameworks,...
+- **Coding Style:** Git-flow for git management; using as much as possible automation tools for fast developing such as: Github Action/ Bash
 
 ## **NFT collections**
 
@@ -173,7 +173,7 @@ Switchswap team will develop the ecosystem for different blockchains. In the fir
 
 The project allows users to create NFT like other projects offer, a decentralized storage network - Crust Network guarantees the metadata and data of NFT.
 
-We present to the market new types of NFT: NFT to register authorization, NFT card,...
+We present to the market new types of NFT: NFT to register author, NFT card,...
 
 We offer a decentralized trading platform of NFTs.
 
@@ -252,7 +252,7 @@ Furthermore, we care about small details and always put ourselves in the custome
 |     7. | Dedicated NFT view page                                         | View each NFT in detail, users can check file status on this page                                                                                                                                                       |
 |     8. | NFT management                                                  | View all NFTs user created from switchswap smart-contract                                                                                                                                                               |
 |     9. | Writing articles on Medium, Twitter                             | NFT/web3 related articles                                                                                                                                                                                               |
-|    10. | Discord/ telegram channel                                       | Helping users how to user switchswap to create NFT on discord/telegram                                                                                                                                                  |
+|    10. | Discord/telegram channel                                        | Helping users how to user switchswap to create NFT on discord/telegram                                                                                                                                                  |
 |    11. | And more                                                        | During the development, if we see some functions need to be developed, we will not need to stay with the planning.                                                                                                      |
 
 ### Milestone 2 NFT exchange
@@ -264,18 +264,18 @@ Furthermore, we care about small details and always put ourselves in the custome
 | Number | Deliverable                                                                            | Specification                                                                                                                |
 | -----: | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 |     1. | Swap smart contract                                                                    | Writing a smart contract that allows user to swap their NFT against $MATIC                                                   |
-|     2. | NFT gallery                                                                            | The gallery allows users to watch the NFT in sell/ buy NFT                                                                   |
+|     2. | NFT gallery                                                                            | The gallery allows users to watch the NFT in sell/buy NFT                                                                    |
 |     3. | Proposal smart contract                                                                | Writing a Polygon smart contract that allows users to propose a feature for switchswap, others can vote for posted proposals |
 |     4. | Proposal UI                                                                            | UI that allows user to interact with the proposal smart contract/ see the proposals/ vote the proposals                      |
 |     5. | Writing articles on Medium, Twitter                                                    | NFT/web3 related articles                                                                                                    |
 |     6. | Optional: create a campaign to create NFTs (need the collaboration with Crust Network) | Create NFTs and get rewards                                                                                                  |
-|     7. | And more                                                                               | During the development, if we see some functions/ pages need to be developed, we will not need to stay with the planning.    |
+|     7. | And more                                                                               | During the development, if we see some functions/pages need to be developed, we will not need to stay with the planning.     |
 
 ...
 
 ## Future Plans
 
-- Promote: get the collaboration with Crust Network/ blockchain network to create a campaign in which users can get rewards if they create the NFT
+- Promote: get the collaboration with Crust Network/blockchain network to create a campaign in which users can get rewards if they create the NFT
 - Develop new types of NFT that attract new users (such as Cryptopunks style NFT on IPFS)
 
 ## Additional Information
