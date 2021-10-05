@@ -4,7 +4,7 @@
 - **Website:** [switchswap.io](https://switchswap.io)
 - **Blockchain domain:** switchswap.nft (claimed but didn't point to the current CID)
 - **Team Name:** Web3 CheerLeaders
-- **Payment Address:** Ethereum address
+- **Payment Address:** 0x04a02f853711D04Eb0E009D3d1554C7eCeD580E6
 - **Receivable Token:** USDT
 
 > ⚠️ _The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe._
@@ -270,8 +270,6 @@ Furthermore, we care about small details and always put ourselves in the custome
 |     5. | Writing articles on Medium, Twitter                                                    | NFT/web3 related articles                                                                                                    |
 |     6. | Optional: create a campaign to create NFTs (need the collaboration with Crust Network) | Create NFTs and get rewards                                                                                                  |
 |     7. | And more                                                                               | During the development, if we see some functions/pages need to be developed, we will not need to stay with the planning.     |
-
-...
 
 ## Future Plans
 
