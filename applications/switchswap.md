@@ -140,22 +140,24 @@ At the gallery, users can view NFT and buy them if interested.
 
 We are planning to build many other things on switchswap; some page are in our development plan:
 
-1. Dedicated NFT viewer: to view the content of user's NFT, user can check the storage status of their file on Crust Network from this pages
+1. Dedicated NFT viewer: to view the content of the user's NFT, users can check the storage status of their file on Crust Network from these pages
 2. NFT manager: to view all NFT the user has in their wallet
 3. Proposal page: this page lets user propose their opinions, suggestions for switchswap, the data will be stored in Polygon Network.
 4. Funbox: this page has multiple small tools that are useful for users, e.g.:
 
    $CRU faucet box that allows users to receive $CRU if they tweet a status on Twitter including required keywords
 
-   File checking box to check their file status on Crust Network, the list of files to be monitored will be stored in localStorage or maybe in Polygon if we see the needs of users
+   File checking box to check their file status on Crust Network, the list of files to be monitored will be stored in localStorage or maybe in Polygon if we see users' needs.
 
    And more...
 
+5. Small things but helpful for users are also in our development plan: click to copy the address, multi-languages, warning/error notifications with valuable links, etc...
+
 **Some works around we have done**
 
-Customize github action ipfs-crust-action to be able to retrieve the transaction hash, the transaction hash is used to prove our copyright of the release.
+Customize github action ipfs-crust-action to retrieve the transaction hash. The transaction hash is used to prove our copyright of the release.
 
-![Funbox](https://ipfs.io/ipfs/QmRxjXkpmpZYnnULAuKbznAaVdPbrKeaps2CcNyQiTpqHp)
+![copyright](https://ipfs.io/ipfs/QmRxjXkpmpZYnnULAuKbznAaVdPbrKeaps2CcNyQiTpqHp)
 
 Repo customized-ipfs-crust-action: https://github.com/switchswapbox/ipfs-crust-action
 
@@ -169,9 +171,17 @@ Switchswap team will develop the ecosystem for different blockchains. In the fir
 
 #### What need(s) does your project meet?
 
+The project allows users to create NFT like other projects offer, a decentralized storage network - Crust Network guarantees the metadata and data of NFT.
+
+We present to the market new types of NFT: NFT to register authorization, NFT card,...
+
+We offer a decentralized trading platform of NFTs.
+
 #### Are there any other projects similar to yours in the IPFS/Crust ecosystem?
 
-There are no NFT projects that allow users to customize their NFT card and register the asset's author.
+No NFT projects allow users to customize their NFT card and register the asset's author.
+
+There is no decentralized trading platform of NFT.
 
 ## Team
 
@@ -211,58 +221,62 @@ Furthermore, we care about small details and always put ourselves in the custome
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to IPFS/Crust. We _recommend_ that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone, and include the approximate number of days along with the cost per day.
-- _Deliverables 0a-0d are mandatory_ and shall not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):** Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-- **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k_ (e.g. 0,000 USD)
+- **Total Estimated Duration:** 3 months
+- **Full-Time Equivalent (FTE):** 3 FTE
+- **Total Costs:** 30,000USDT
 
-### Milestone 1 Minting NFT features
+### Milestone 1 Basic NFT minting platform
 
 - **Estimated Duration:** 1 month
+- **FTE:** 3
+- **Costs:** 20,000 USD
+
+| Number | Deliverable                                                     | Specification                                                                                                                                                                                                           |
+| -----: | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1. | NFT Minting Page                                                | We create a page for minting different types of NFT on Polygon                                                                                                                                                          |
+|    1a. | Minting NFT without card (Type 1)                               | The NFT use IPFS W3Auth Gateway and IPFS W3Auth pinning service                                                                                                                                                         |
+|    1b. | Minting NFT with a card, without author's registration (Type 3) | The NFT use IPFS W3Auth Gateway and IPFS W3Auth pinning service                                                                                                                                                         |
+|    1c. | Minting NFT with a card, with author's registration (Type 2)    | User has to use their Crust Wallet to be able to pin their file                                                                                                                                                         |
+|   1d\* | Page to customize NFT card                                      | This part is the heaviest work for D-NFT Minting Page. We already designed some proof of concept NFT Cards presented above. The customization section will let the user choose their preferred NFT card style/QR styles |
+|    1e. | Support W3auth gateway and W3auth pinning service               | Supported networks: Substrate, Polygon, Ethereum, Avalanche, Solana, Near                                                                                                                                               |
+|     2. | NFT smart contract on Polygon                                   | A smart contract to mint NFT, the smart contract uses the newest golden standards.                                                                                                                                      |
+|     3. | Deploy the website on IPFS                                      | Customize ipfs-crust-action and use Github action to pin the website on Crust Network                                                                                                                                   |
+|     4. | Basic functions of the website                                  | Using the design style presented above to complete all essential functions of the website                                                                                                                               |
+|    4a. | Homepage                                                        | Home page represents remarkable information about the website                                                                                                                                                           |
+|    4b. | Multilanguage                                                   | Multi-languages function                                                                                                                                                                                                |
+|    4c. | Wallet management                                               | Allow users to connect wallets to the website, get information in case of error, learn how to install/connect the wallets to the website                                                                                |
+|     5. | $CRU faucet                                                     | $CRU faucet if users posted the tweet with required keywords (e.g. #switchswap #crustnetwork #web3)                                                                                                                     |
+|     6. | $MATIC faucet                                                   | $MATIC faucet if users posted the tweet with required keywords (e.g. #switchswap #crustnetwork #web3)                                                                                                                   |
+|     7. | Dedicated NFT view page                                         | View each NFT in detail, users can check file status on this page                                                                                                                                                       |
+|     8. | NFT management                                                  | View all NFTs user created from switchswap smart-contract                                                                                                                                                               |
+|     9. | Writing articles on Medium, Twitter                             | NFT/web3 related articles                                                                                                                                                                                               |
+|    10. | Discord/ telegram channel                                       | Helping users how to user switchswap to create NFT on discord/telegram                                                                                                                                                  |
+|    11. | And more                                                        | During the development, if we see some functions need to be developed, we will not need to stay with the planning.                                                                                                      |
+
+### Milestone 2 NFT exchange
+
+- **Estimated Duration:** 2 months
 - **FTE:** 2
-- **Costs:** 0,000 USD
+- **Costs:** 10,000 USD
 
-| Number | Deliverable                                                   | Specification                                                                                                                                                                             |
-| -----: | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1. | NFT Minting Page                                              | We create a page for minting different types of NFT on Polygon                                                                                                                            |
-|    1a. | Minting NFT without card (Type 1)                             | The NFT use IPFS W3Auth Gateway and IPFS W3Auth pinning service                                                                                                                           |
-|    1b. | Minting NFT with card, without author's registration (Type 3) | The NFT use IPFS W3Auth Gateway and IPFS W3Auth pinning service                                                                                                                           |
-|    1c. | Minting NFT with card, without author's registration (Type 2) | User has to user their Crust Wallet to be able to pin their file                                                                                                                          |
-|    1\* | Customizing NFT card                                          | This part is the heaviest work for D-NFT Minting Page, we already designed some proof of concept NFT Cards presented above, the customization section will let user choose their prefered |
-|     2. | Crust module: Y                                               | We will create a Crust module that will...                                                                                                                                                |
-|     3. | Crust module: Z                                               | We will create a Crust module that will...                                                                                                                                                |
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 0,000 USD
+| Number | Deliverable                                                                            | Specification                                                                                                                |
+| -----: | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+|     1. | Swap smart contract                                                                    | Writing a smart contract that allows user to swap their NFT against $MATIC                                                   |
+|     2. | NFT gallery                                                                            | The gallery allows users to watch the NFT in sell/ buy NFT                                                                   |
+|     3. | Proposal smart contract                                                                | Writing a Polygon smart contract that allows users to propose a feature for switchswap, others can vote for posted proposals |
+|     4. | Proposal UI                                                                            | UI that allows user to interact with the proposal smart contract/ see the proposals/ vote the proposals                      |
+|     5. | Writing articles on Medium, Twitter                                                    | NFT/web3 related articles                                                                                                    |
+|     6. | Optional: create a campaign to create NFTs (need the collaboration with Crust Network) | Create NFTs and get rewards                                                                                                  |
+|     7. | And more                                                                               | During the development, if we see some functions/ pages need to be developed, we will not need to stay with the planning.    |
 
 ...
 
 ## Future Plans
 
-Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- Promote: get the collaboration with Crust Network/ blockchain network to create a campaign in which users can get rewards if they create the NFT
+- Develop new types of NFT that attract new users (such as Cryptopunks style NFT on IPFS)
 
 ## Additional Information
 
@@ -270,5 +284,5 @@ Any additional information that you think is relevant to this application that h
 
 Possible additional information to include:
 
-- Are there are any teams who have already contributed (financially) to your project?
-- Do you have a community of users or open-source developers who are contributing to your project?
+- Are there are any teams who have already contributed (financially) to your project? NO
+- Do you have a community of users or open-source developers who are contributing to your project? NO
