@@ -63,7 +63,6 @@ The right QR code will redirect to the author's registration. The author registr
 1. Why do we need to register the author? To answer this question, take an example of NFT for digital pictures. The author is one factor that makes art valuable. Furthermore, the author can be used to prove the intellectual property of an asset if there is a dispute.
 2. Can this type of NFT be transferable? Yes, the author is unchangeable but the owner is. Owner identity is registered on Polygon blockchain.
 
- 
 <img src="https://user-images.githubusercontent.com/16051365/136270083-1e56ddbc-3878-44ec-b3b4-452ca413bc76.png" width="400" />
 <img src="https://user-images.githubusercontent.com/16051365/136270243-ef052cd1-487c-4c10-8f1b-5844fcc4e610.png" width="400" />
 <img src="https://user-images.githubusercontent.com/16051365/136270306-f0a45ae0-c3f0-4ec7-aa43-33dc3231eee2.png" width="400" />
@@ -75,7 +74,6 @@ This type of NFT is used to register anonymous files which don't require author 
 
 This NFT can be used to replace NFT type 1 to offer high quality NFT. In this case, the NFT Card can be considered as the representation of NFT type 1. If others want to access the actual content of NFT, they can scan the QR code or access by its CID.
 
- 
 <img src="https://user-images.githubusercontent.com/16051365/136270788-10e62465-1484-45d3-a94e-660546fe52d7.png" width="400" />
 <img src="https://user-images.githubusercontent.com/16051365/136270883-bc24a12f-394c-4c47-a376-a317d3c67ef8.png" width="400" />
 <img src="https://user-images.githubusercontent.com/16051365/136270902-03f01c59-ffeb-4573-87ab-61d2a705d2ae.png" width="400" />
@@ -103,15 +101,19 @@ Switchswap is aimed to be long-term and will be used for different applications 
 We give the user as much information as possible to guide them on using the platform/ wallets. All these features are being hardly developed; some features are at the MVP level.
 
 **Minting Page**
+
 ![image](https://user-images.githubusercontent.com/16051365/136271136-4f4f1ed6-fc68-4c1d-9d92-4b9379f575f2.png)
 
 **Upload status**
+
 ![image](https://user-images.githubusercontent.com/16051365/136271160-3a701a61-e2ce-4e29-9466-148800afd731.png)
 
 **Adding metadata (not beautiful, to be modified)**
+
 ![image](https://user-images.githubusercontent.com/16051365/136271183-de956c7f-37a0-4b87-9155-a89b35eebcec.png)
 
 **Home page**
+
 ![image](https://user-images.githubusercontent.com/16051365/136271203-3383bada-f735-46a7-9cea-1d3b0d3c4ba5.png)
 
 Many things will be added on the home page, such as total NFT minted, development progress, user proposals, etc... We are currently focusing on the NFT Minting page. All small features will be added to Home Page later.
@@ -119,9 +121,11 @@ Many things will be added on the home page, such as total NFT minted, developmen
 <img src="https://user-images.githubusercontent.com/16051365/136271222-a35ba131-701b-4ccb-9e1c-02419ae6554a.png" width="300" />
 
 Design of development progress
+
 ![image](https://user-images.githubusercontent.com/16051365/136271317-fb34bc80-292f-436a-8441-a7a346c50f64.png)
 
 **Wallet Management**
+
 <img src="https://user-images.githubusercontent.com/16051365/136271339-d39ee25e-8c20-4c22-8969-d1b142c48318.png" width="400" />
 
 **Design of Gallery Page (In dev.)**
@@ -133,6 +137,7 @@ At the gallery, users can view NFT and buy them if interested.
 ![image](https://user-images.githubusercontent.com/16051365/136271452-6b7de5f3-3f23-42a0-9eb4-f5b286f328de.png)
 
 **Fun box**
+
 ![image](https://user-images.githubusercontent.com/16051365/136271491-8ddb89e6-644f-4c9b-a557-209f9f42e447.png)
 
 **And more**
