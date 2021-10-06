@@ -199,7 +199,7 @@ There is no decentralized trading platform of NFT.
 
 ### Contact
 
-- **Nghia Nguyen:** ng@switchswap.io
+- **Nghia Nguyen:** ng.nguyen@switchswap.io
 - **Huy Dung Nguyen:** huydungasd@switchswap.io
 
 ### Team's experience
