@@ -257,8 +257,8 @@ Furthermore, we care about small details and always put ourselves in the custome
 |     7. | Dedicated NFT view page                                         | View each NFT in detail, users can check file status on this page                                                                                                                                                       |
 |     8. | NFT management                                                  | View all NFTs user created from switchswap smart-contract                                                                                                                                                               |
 |     9. | Writing articles on Medium, Twitter                             | NFT/web3 related articles                                                                                                                                                                                               |
-|    10. | Discord/telegram channel                                        | Helping users how to user switchswap to create NFT on discord/telegram                                                                                                                                                  |
-|    11. | And more                                                        | During the development, if we see some functions need to be developed, we will not need to stay with the planning.                                                                                                      |
+|    10. | Discord/telegram channel                                        | Helping users how to use switchswap to create NFT on discord/telegram                                                                                                                                                  |
+|    11. | And more                                                        | During the development, we'll develop other functions/features if needed                                                                                                    |
 
 ### Milestone 2 NFT exchange
 
@@ -274,7 +274,7 @@ Furthermore, we care about small details and always put ourselves in the custome
 |     4. | Proposal UI                                                                            | UI that allows user to interact with the proposal smart contract/ see the proposals/ vote the proposals                      |
 |     5. | Writing articles on Medium, Twitter                                                    | NFT/web3 related articles                                                                                                    |
 |     6. | Optional: create a campaign to create NFTs (need the collaboration with Crust Network) | Create NFTs and get rewards                                                                                                  |
-|     7. | And more                                                                               | During the development, if we see some functions/pages need to be developed, we will not need to stay with the planning.     |
+|     7. | And more                                                                               | During the development, we'll develop other functions/features if needed      |
 
 ## Future Plans
 
