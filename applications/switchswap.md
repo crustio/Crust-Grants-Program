@@ -19,7 +19,7 @@
 
   Over the last months, we have built socbay.io on IPFS, intending to show users how does decentralized storage works. But the reality is not pink, videos platform is not in the interest of the blockchain community, we only got two users posted video on Socbay over the last 5 months, one from Crust Network team member and another from a curious user. Centralized applications such as youtube, Vimeo, etc... are doing so well in that field so the interest of users for socbay.io is diluted.
 
-  Our philosophy is: If we want to reach public users, decentralized storage networks must reach users in our community first (blockchains community). So we decided to build something that the blockchain community cares about. NFT is the product of collaboration with blockchain projects, therefore it will bring the attention of decentralized storage to members in the target blockchain community. We recognized that the community started having concerns about the persistency of NFT, some NFT projects started using IPFS instead of an API for storing metadata and NFT content, but IPFS is not fully decentralized because it relies on centralized pinning serive. It's a good time to bring Crust decentralized pinning service to NFT world.
+  Our philosophy is: If we want to reach public users, decentralized storage networks must reach users in our community first (blockchains community). So we decided to build something that the blockchain community cares about. NFT is the product of collaboration with blockchain projects, therefore it will bring the attention of decentralized storage to members in the target blockchain community. We recognized that the community started having concerns about the persistency of NFT, some NFT projects started using IPFS instead of an API for storing metadata and NFT content, but IPFS is not fully decentralized because it relies on centralized pinning servive. It's a good time to bring Crust decentralized pinning service to NFT world.
 
 ## Project Details
 
@@ -275,6 +275,8 @@ Furthermore, we care about small details and always put ourselves in the custome
 
 - Promote: get the collaboration with Crust Network/blockchain network to create a campaign in which users can get rewards if they create the NFT
 - Develop new types of NFT that attract new users (such as Cryptopunks style NFT on IPFS)
+- Develop minigame we feel motivated to develop: lottery, funny betting events,...
+- Develop small tools in Funbox: check approvals of tokens and revoke (this tool is very useful for ERC20 holders to check whether their account has risk to be hacked), check APY of some projects. These tools and minigames are not related to Crust Network but in reality it'll attract users to the platform.
 
 ## Additional Information
 
