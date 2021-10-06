@@ -63,7 +63,7 @@ The right QR code will redirect to the author's registration. The author registr
 1. Why do we need to register the author? To answer this question, take an example of NFT for digital pictures. The author is one factor that makes art valuable. Furthermore, the author can be used to prove the intellectual property of an asset if there is a dispute.
 2. Can this type of NFT be transferable? Yes, the author is unchangeable but the owner is. Owner identity is registered on Polygon blockchain.
 
-<img src=https://user-images.githubusercontent.com/16051365/136270083-1e56ddbc-3878-44ec-b3b4-452ca413bc76.png"" width="400" />
+<img src="https://user-images.githubusercontent.com/16051365/136270083-1e56ddbc-3878-44ec-b3b4-452ca413bc76.png" width="400" />
 <img src="https://user-images.githubusercontent.com/16051365/136270243-ef052cd1-487c-4c10-8f1b-5844fcc4e610.png" width="400" />
 <img src="https://user-images.githubusercontent.com/16051365/136270306-f0a45ae0-c3f0-4ec7-aa43-33dc3231eee2.png" width="400" />
 <img src="https://user-images.githubusercontent.com/16051365/136270375-ae075990-87d1-4abd-bac6-366767a03719.png" width="400" />
@@ -74,10 +74,10 @@ This type of NFT is used to register anonymous files which don't require author 
 
 This NFT can be used to replace NFT type 1 to offer high quality NFT. In this case, the NFT Card can be considered as the representation of NFT type 1. If others want to access the actual content of NFT, they can scan the QR code or access by its CID.
 
-<img src="https://user-images.githubusercontent.com/16051365/136270788-10e62465-1484-45d3-a94e-660546fe52d7.png" width="400 />
-<img src="https://user-images.githubusercontent.com/16051365/136270883-bc24a12f-394c-4c47-a376-a317d3c67ef8.png" width="400 />
-<img src="https://user-images.githubusercontent.com/16051365/136270902-03f01c59-ffeb-4573-87ab-61d2a705d2ae.png" width="400 />
-<img src="https://user-images.githubusercontent.com/16051365/136270923-290afc2b-0824-4559-a724-2786f6649044.png" width="400 />
+<img src="https://user-images.githubusercontent.com/16051365/136270788-10e62465-1484-45d3-a94e-660546fe52d7.png" width="400" />
+<img src="https://user-images.githubusercontent.com/16051365/136270883-bc24a12f-394c-4c47-a376-a317d3c67ef8.png" width="400" />
+<img src="https://user-images.githubusercontent.com/16051365/136270902-03f01c59-ffeb-4573-87ab-61d2a705d2ae.png" width="400" />
+<img src="https://user-images.githubusercontent.com/16051365/136270923-290afc2b-0824-4559-a724-2786f6649044.png" width="400" />
 
 ### **Some QR Code styles that user can use in their NFT Card**
 
