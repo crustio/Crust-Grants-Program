@@ -43,7 +43,6 @@ In the first phase, our primary products are:
 - **Smart Contract Stack:** Solidity, Hardhat, ethers.js
 - **Micro Service:** NodeJS, Heroku, MongoDB as a service (the server sometimes is required to process centralized tasks such as faucet $CRU, retrieving CID periodically to spread important files into the IPFS network, etc...)
 - **Designing Style:** Material, Flat
-- **Coding Style:** Git-flow for git management; using as much as possible automation tools for fast developing such as: Github Action/ Bash
 
 ## **NFT collections**
 
