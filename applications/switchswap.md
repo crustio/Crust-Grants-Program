@@ -28,8 +28,9 @@
 In the first phase, our primary products are:
 
 1. D-NFT minting page allows users to customize the NFT Card and mint their NFT freely via Polygon smart contract. The different types of NFT will be presented in the next part.
-2. NFT gallery: for exhibiting, trading NFT in a decentralized way via a swap smart contract on Polygon.
-3. NFT manager: for managing user-own NFT
+2. Graphical tool to create NFT Cards presented bellow
+3. NFT gallery: for exhibiting, trading NFT in a decentralized way via a swap smart contract on Polygon.
+4. NFT manager: for managing user-own NFT
 
 **Technical specifications:**
 
