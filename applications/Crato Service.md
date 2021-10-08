@@ -128,8 +128,8 @@ For each milestone,
 | 0. | License | Apache 2.0 |
 | 1. | Architect Design | We discussed and designed the architect of our project.|  
 | 2. | Basic Functionality Implementation | We implemented several basic functionality including IPFS integration, we can also pin file, folder to the server.  |  
-| 3. | Integrate crust.| All the files will be uploaded to the crust network. |  
-
+| 3. | Integrate crust| All the files will be uploaded to the crust network. |  
+| 4. | Introduce Crato| Introduce Crato and its IPFS/Crust applications to the public through social media, e.g. Medium and etc.: one or more articles  |  
 
 ### Milestone 2 — Additional features
 
