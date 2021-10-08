@@ -1,7 +1,7 @@
 # Crust Grant Proposal
 
 * **Project Name:** Crato
-* **Team Name:** Nash Cloud
+* **Team Name:** Crato Cloud
 * **Payment Address:** 0xfE219465caA035D568BB4d9F2263cde3cf279AD8
 * **Receivable Token:** CRU
 
@@ -75,7 +75,7 @@ https://www.crato.io/
 * **Registered Address:** 
 Floor 6, Eight on the Bund, No.8 2nd Zhongshan East Road, Shanghai
 * **Registered Legal Entity:** 
-Nash Cloud
+Crato Cloud
 
 ### Team's experience
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
@@ -116,12 +116,12 @@ For each milestone,
 ### Overview
 * **Total Estimated Duration:** 3-6 months
 * **Full-Time Equivalent (FTE):** 3 FTE
-* **Total Costs:** 30,000 USD
+* **Total Costs:** 17,200 USD
 
 ### Milestone 1 — Implement Basic Functionality of Crato 
 * **Estimated Duration:** 2 month
 * **FTE:**  3
-* **Costs:** 20,000 USD
+* **Costs:** 12,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -135,7 +135,7 @@ For each milestone,
 
 * **Estimated Duration:** 1.5 month
 * **FTE:**  3
-* **Costs:** 10,000 USD
+* **Costs:** 5,200 USD
 
 Added some user-friendly features like indicator, searching, payment (Stripe integration) etc..
 
