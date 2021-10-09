@@ -236,7 +236,7 @@ Furthermore, we care about small details and always put ourselves in the custome
 
 - **Estimated Duration:** 1 month
 - **FTE:** 3
-- **Costs:** 20,000 USD
+- **Costs:** 10,000 USD
 
 | Number | Deliverable                                                     | Specification                                                                                                                                                                                                           |
 | -----: | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -264,7 +264,7 @@ Furthermore, we care about small details and always put ourselves in the custome
 
 - **Estimated Duration:** 2 months
 - **FTE:** 2
-- **Costs:** 10,000 USD
+- **Costs:** 5,000 USD
 
 | Number | Deliverable                                                                            | Specification                                                                                                                |
 | -----: | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
