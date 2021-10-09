@@ -230,13 +230,13 @@ Furthermore, we care about small details and always put ourselves in the custome
 
 - **Total Estimated Duration:** 3 months
 - **Full-Time Equivalent (FTE):** 3 FTE
-- **Total Costs:** 30,000USDT
+- **Total Costs:** 20,000USDT
 
 ### Milestone 1 Basic NFT minting platform
 
 - **Estimated Duration:** 1 month
 - **FTE:** 3
-- **Costs:** 10,000 USD
+- **Costs:** 13,000 USD
 
 | Number | Deliverable                                                     | Specification                                                                                                                                                                                                           |
 | -----: | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -264,7 +264,7 @@ Furthermore, we care about small details and always put ourselves in the custome
 
 - **Estimated Duration:** 2 months
 - **FTE:** 2
-- **Costs:** 5,000 USD
+- **Costs:** 7,000 USD
 
 | Number | Deliverable                                                                            | Specification                                                                                                                |
 | -----: | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
