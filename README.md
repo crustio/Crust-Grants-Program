@@ -1,12 +1,8 @@
 # Crust Grants Program
 
-
-## Grants Program Benefits
-By joining the Crust Grants Program, you and your team will have following benefits that will strengthen your project growth and development.
-
 ## Guidelines
 
-Anyone is welcome to apply for a grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects that add value to the ecosystem.
+Anyone is welcome to apply for a grant. **Currently, Crust Grants program mainly targets projects of protocol layer, and applications that serve a wide range of users.**
 
 Generally, your project will have better chances to get accepted if:
 
@@ -24,7 +20,7 @@ Additionally, it must fulfill the following requirements:
 
 In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/crustio/Crust-Grant-Milestone-Delivery/blob/main/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, *written* documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
 
-### Project ideas
+### Project Ideas
 An overview of existing projects in the Crust Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](crust_stack.md). 
 
 If you have a **good concept of the technical challenges** that your idea entails and would like feedback before applying, you can send us an email(`hi@crust.network`) and tell us about it.
