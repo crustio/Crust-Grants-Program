@@ -2,9 +2,8 @@
 
 - **Project Name:** Crust NFT
 - **Website:** https://crustnft.io
-- **Blockchain domain:**
 - **Team Name:** Crust NFT
-- **Payment Address:**
+- **Payment Address:** 0x04a02f853711D04Eb0E009D3d1554C7eCeD580E6
 - **Receivable Token:** USDT
 
 > ⚠️ _The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe._
