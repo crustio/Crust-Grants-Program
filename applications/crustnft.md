@@ -94,3 +94,23 @@ Furthermore, we care about small details and always put ourselves in the custome
 - **Estimated Duration:** 3 month
 - **FTE:** 3
 - **Costs:** 20,000 USD
+
+| Number | Deliverable                                                     | Specification                                                                                                                                                                                                           |
+| -----: | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1. | Extend to more public chains                                                | CrustNFT will provide multiple blockchain choices, decentralized metadata storage |
+|   2. | Extend to more trade places                               | CrustNFT will connect to multiple tradeplaces like OpenSea, OpenDAO, Showme, etc.  |
+|    3 | Rich visual design features | CrustNFT will provide a 100% code-free tool to support creators to create 10K NFT collections and minters to mint. |
+|   4 | DAO | crustnft.io team (potentially could be a company) is going to carry on any decision from the DAO, and be funded by the DAO, like OpenDAO (SOS - for now totally offchain governance, not really accontable) and Uniswap (UNI - most of parameters on chain for governance). |
+
+## Future Plans
+
+Potential social, Like random showcase of ‘Hot’ NFTs.
+
+## Additional Information
+
+Any additional information that you think is relevant to this application that hasn't already been included.
+
+Possible additional information to include:
+
+- Are there are any teams who have already contributed (financially) to your project? NO
+- Do you have a community of users or open-source developers who are contributing to your project? NO
