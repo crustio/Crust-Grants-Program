@@ -63,19 +63,19 @@ Content/Ops: \
 Paris Charanas Giannakou \
 Mikael Hagopian
 
-### Contact \
-* **Contact Name:** Deniz Omer \
-* **Contact Email:** deniz@alphaday.com \
+### Contact 
+* **Contact Name:** Deniz Omer 
+* **Contact Email:** deniz@alphaday.com 
 * **Website:** https://alphaday.com/
 
-### Legal Structure \
-* **Registered Address:**North Canal Road, Singapore, 059294 Singapore \
+### Legal Structure 
+* **Registered Address:**North Canal Road, Singapore, 059294 Singapore 
 * **Registered Legal Entity:** Alphabox Solutions Pte. Ltd.
 
-### Team's experience \
+### Team's experience 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
 
-### Team Code Repos \
+### Team Code Repos 
 https://github.com/faraggi \
 https://github.com/ppalomo \
 https://github.com/v-almonacid \
@@ -83,7 +83,7 @@ https://github.com/elcharitas \
 https://github.com/Xavier-Charles \
 https://github.com/getgiddy
 
-### Team LinkedIn Profiles \
+### Team LinkedIn Profiles 
 https://www.linkedin.com/in/denizomer/ \
 https://www.linkedin.com/in/faraggi/ \
 https://www.linkedin.com/in/defi-dude-72296b221/ \
@@ -97,12 +97,12 @@ https://www.linkedin.com/in/mikael-h-87bb4ba4/
 
 ## Development Roadmap
 
-### Overview \
+### Overview 
 **Total Estimated Duration:** 2 months for initial deployment, 12 months of continuous maintenance. \
 **Full-Time Equivalent (FTE):**  1 FTE \
 **Total Costs:** 2,640 USDT
 
-### Milestone 1 — Initial development and deployment of dashboard. \
+### Milestone 1 — Initial development and deployment of dashboard. 
 **Estimated Duration:** 2 months \
 **FTE:**  0.5 \
 **Costs:** 1,320 USDT
