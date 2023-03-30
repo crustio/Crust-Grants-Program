@@ -1,4 +1,4 @@
-# Name of your Project
+# Crust Grant Proposal
 
 ## Block Crawler
 
