@@ -1,0 +1,256 @@
+# Crust Grant Proposal
+
+* **Project Name:** Tales 
+* **Team Name:** Tales
+* **Payment Address:** 0x18ef1EeD4c4d6edE731bb7904F45e7825C649165 
+* **Receivable Token:** USDT
+
+> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+
+> ⚠️ *When you submit an application for a Grant，You confirm that you have read these Terms and Conditions carefully and that you agree to be bound by them.*
+
+### Overview
+
+**Project Name:**
+Tales: A New Chapter in Blockchain Gaming and Storytelling
+
+**Brief Description:**
+Tales aims to redefine the intersection of storytelling, gaming, and blockchain technology, leveraging AI-powered tools to enhance narrative and character creation. Transitioning these tools into the web3 space, Tales will enable creators to mint, trade, and manage NFTs, transforming traditional narratives into interactive story-games.
+
+**Relation to / Integration into Crust:**
+Tales will utilize Crust's decentralized storage solutions to securely store the NFT-related data, ensuring high availability and censorship resistance for our interactive narratives and character assets.
+
+**Interest in Creating This Project:** 
+Our team is passionate about blending the art of storytelling with the latest blockchain technology to offer creators and audiences new forms of engagement and ownership, aligning with Crust's vision of decentralized and secure data storage.
+
+### Project Details 
+
+* Mockups/designs of any UI components
+[Reader App](https://pitch.com/v/tales-crypto-grants-zsv9wx/74a535d8-e1ae-4fc9-ae10-ed0d80acefb5)
+[Ai Creator Tool](https://pitch.com/v/tales-crypto-grants-zsv9wx/a6e72270-c54c-4dd5-90ec-3d6e93490519)
+
+Technology Stack:
+Frontend: React.js
+Backend: Node.js
+Blockchain Integration: Ethereum for initial rollout, with plans for Layer 2 solutions
+AI Technology: Machine learning algorithms and NLP for content creation
+Database: MongoDB
+Cloud Services: AWS
+
+### Ecosystem Fit 
+
+* **Project's Ecosystem Role:** Enhances the Crust landscape by providing a novel use case: decentralized storage for interactive and AI-driven narrative content.
+
+* **Needs Addressed:** Meets the demand for reliable and secure decentralized storage solutions for rich media and NFT assets within interactive storytelling and gaming.
+
+* **Similar Projects:** While there are blockchain storytelling and gaming platforms, Tales' unique integration of AI-driven content creation and interactive narratives set it apart. There are no direct competitors within the Crust or broader IPFS ecosystem with this unique combination of features.
+
+## Team
+
+### Team members
+
+* Tommy - Product
+* Sam - Creative Directord/
+* Shawn - CTO
+* Rem - Engineer
+* Erin - Content
+* Ryan - Designer
+
+
+### Contact
+* **Contact Name:** Sam Gutierrez
+* **Contact Email:** samiam3d@gmail.com
+* **Website:** https://talescreator.com/
+
+### Legal Structure 
+* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. 
+* **Registered Legal Entity:** Name of your registered legal entity, if available. 
+
+### Team's experience
+The team brings extensive experience in gaming, content creation, and blockchain technology. They have successfully developed AI-powered narrative tools and have deep knowledge in blockchain integration for content monetization and ownership.
+
+### Team Code Repos
+* https://github.com/fablelabs/
+
+### Team LinkedIn Profiles
+* Tommy - https://www.linkedin.com/in/tommywu/
+* Sam - https://www.linkedin.com/in/samiam3d/
+* Shawn - https://www.linkedin.com/in/mantle/
+* Rem - https://www.linkedin.com/in/remingtonchan/
+* Erin - https://www.linkedin.com/in/erinamymcfarlane/
+* Ryan - https://www.linkedin.com/in/ryan-laplante-05512230/
+
+## Development Roadmap
+
+### Overview
+
+* **Total Estimated Duration:** 15 Months
+* **Full-Time Equivalent (FTE):**  5 FTE
+* **Total Costs:** $760,000 USD
+
+### Milestone 1: Platform Foundation and Initial Blockchain Integration
+
+* **Estimated Duration:** 3 Months
+* **FTE:**  2
+* **Costs:** $120,000 USD
+
+| Number | Deliverable                                   | Specification                                                                                                                |
+| ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 0a.    | License                                      | Project will be released under Apache 2.0 / MIT / Unlicense.                                                                  |
+| 0b.    | Documentation                                | Detailed documentation for blockchain integration strategy and initial NFT production setup.                                  |
+| 0c.    | Testing Guide                                | Comprehensive guide on executing unit tests for the tokenization prototype.                                                   |
+| 1.     | Blockchain Integration Strategy              | Development of a strategy for blockchain integration to facilitate NFT production and minting.                                |
+| 2.     | NFT Production Setup                         | Infrastructure setup to enable NFT production and minting capabilities.                                                       |
+| 3.     | Tokenization Prototype                       | Development of a prototype for tokenizing narrative assets within the Tales platform.                                         |
+
+### Milestone 2: Advanced Platform Development and User Interface Integration
+
+* **Estimated Duration:** 3 Months
+* **FTE:**  2
+* **Costs:** $160,000 USD
+
+| Number | Deliverable                                   | Specification                                                                                                                |
+| ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1.     | Advanced Blockchain Integration              | Integrate advanced blockchain functionalities for secure transactions and ownership verification.                            |
+| 2.     | Enhanced Web3 Storytelling Interface          | Develop a user-friendly interface supporting immersive web3 storytelling experiences across devices.                         |
+
+### Milestone 3: Beta Testing and Community Engagement
+
+* **Estimated Duration:** 3 Months
+* **FTE:**  2
+* **Costs:** $140,000 USD
+
+| Number | Deliverable                                   | Specification                                                                                                                |
+| ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1.     | Beta Platform Launch                          | Release the beta version for user feedback and engagement, setting the stage for iterative improvements.                      |
+| 2.     | Community Engagement and Marketing            | Initiate community engagement and marketing strategies to build platform awareness and user base.                            |
+
+### Milestone 4: Official Launch and Initial Scaling
+
+* **Estimated Duration:** 3 Months
+* **FTE:**  2
+* **Costs:** $180,000 USD
+
+| Number | Deliverable                                   | Specification                                                                                                                |
+| ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1.     | Official Platform Launch                      | Conduct the official platform launch with comprehensive marketing and partnership strategies.                                 |
+| 2.     | Platform Scaling and Feature Enhancements     | Begin scaling efforts, enhance platform features, and expand the ecosystem based on user and creator feedback.                |
+
+### Milestone 5: Expansion and Additional Features Development
+
+* **Estimated Duration:** 3 Months
+* **FTE:**  1
+* **Costs:** $160,000 USD
+
+| Number | Deliverable                                   | Specification                                                                                                                |
+| ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1.     | Platform Feature Expansion                    | Develop and integrate new features and functionalities to enhance user and creator experiences.                              |
+| 2.     | Strategic Partnership and Ecosystem Growth    | Forge strategic partnerships to broaden content variety and platform utility, solidifying Tales' market position.             |
+
+
+...
+
+
+## Future Plans
+
+As Tales evolves, our vision extends well beyond the current landscape, aiming to redefine digital storytelling and content consumption. Here is a glimpse into the future enhancements and innovations that will shape Tales into a pioneering platform in entertainment and blockchain technology:
+
+**Expanding the Content Universe:**
+
+**Virtual Reality (VR) and Augmented Reality (AR) Storytelling:**
+* Integrate VR and AR capabilities to offer immersive storytelling experiences, allowing users to step into story worlds, interact with characters, and influence environments in 3D spaces, creating a new dimension of engagement.
+
+**AI-Driven Content Personalization:**
+* Harness AI to tailor stories to individual preferences and behaviors, offering dynamic storylines that evolve based on user interactions, mood, and past behaviors, providing a unique experience with each engagement.
+
+**Interactive Live Events:**
+* Host live events where audiences can influence narratives in real-time, featuring collaborations with renowned authors, directors, and creators to merge traditional entertainment with interactive digital experiences.
+
+**Platform Scalability and Technological Upgrades:**
+
+**Blockchain Scalability Solutions:**
+* Implement Layer 2 scaling solutions or transition to more scalable blockchain infrastructures to manage increased transaction volumes, reduce costs, and enhance user experiences.
+
+**Cross-Chain Interoperability:**
+* Adopt cross-chain technologies to enable seamless movement of NFTs and tokens between different blockchains, expanding the marketplace and integration possibilities with other digital ecosystems.
+
+**Decentralized Content Distribution Networks (CDNs):**
+* Develop or integrate with decentralized CDNs to ensure fast, reliable content delivery worldwide, enhancing content accessibility and censorship resistance.
+
+**Bridging Traditional Entertainment with Blockchain:**
+
+**Creator Incubation Programs:**
+* Support traditional writers, artists, and creators in transitioning to digital and NFT-based models, providing workshops, funding, and collaboration opportunities to foster innovation.
+
+**Partnerships with Traditional Media:**
+* Collaborate with film studios, publishing houses, and entertainment companies to co-create blockchain-based projects, bringing established franchises into the Tales ecosystem.
+  
+**Educational Campaigns and Advocacy:**
+* Conduct educational campaigns to highlight blockchain benefits like ownership, participation, and new interaction forms in entertainment, advocating for blockchain integration in mainstream media.
+
+**Exploring New Avenues in Entertainment and Creator Content:**
+
+**Gaming Integration:**
+* Expand into narrative-driven games, offering NFT-based assets and characters that can traverse different stories and gameplay environments, blending storytelling with interactive gaming.
+
+**Music and Podcasts:**
+* Integrate music and podcasts, enabling creators to mint audio NFTs and offering audiences new ways to engage with and support their favorite artists and storytellers.
+
+By focusing on these areas, Tales aims to cultivate a rich ecosystem of interactive storytelling, marrying the creative potential of narrative art with blockchain's technological innovations, setting a new standard in the web3 space for immersive, engaging, and community-driven content experiences.
+
+## Extended Future Plans: Transforming Tales into a Multimedia Powerhouse
+
+**Evolution into a Multi-Platform Media Entity:**
+
+**Content Adaptation and Expansion:**
+
+* Envision Tales content evolving into various media forms, including TV series, movies, and even interactive experiences, broadening the narrative reach and audience engagement.
+* Develop a dedicated studio or collaborate with existing production houses to adapt the most compelling Tales narratives into screenplays, harnessing the depth and interactivity of the original stories.
+
+**Content Syndication and Distribution:**
+* Establish partnerships with streaming platforms, television networks, and movie studios to distribute Tales-adapted content, positioning Tales as a key player in entertainment akin to major streaming services.
+* Leverage blockchain technology to ensure creators are fairly compensated for adaptations of their work, maintaining transparency and integrity in content monetization.
+
+**Brand Expansion and Merchandising:**
+* Create a range of merchandise and interactive experiences tied to popular Tales narratives, including virtual reality experiences, video games, and physical merchandise, enhancing brand presence and audience connection.
+* Launch themed events, conventions, and immersive experiences that bring Tales stories to life, fostering a community of fans and creators.
+* 
+**Technological Advancements and Innovation:**
+  
+**Next-Gen Content Creation Tools:**
+* Invest in cutting-edge AI and machine learning to offer creators sophisticated tools for narrative development, character design, and world-building, setting new industry standards.
+* Explore new formats and storytelling methods, including augmented reality narratives and AI-driven interactive experiences, to stay ahead of technological trends.
+
+**Enhanced User Experience:**
+* Continuously improve the Tales platform interface and user interaction, ensuring seamless access across devices and platforms, making content consumption intuitive and engaging.
+* Implement advanced analytics to understand audience preferences and behaviors, refining content curation and recommendations to enhance user satisfaction and retention.
+
+**Strategic Collaborations and Community Engagement:**
+
+**Industry Partnerships:**
+* Forge strategic alliances with key industry players in entertainment, technology, and media to co-develop projects, share knowledge, and cross-promote content, amplifying Tales' reach and influence.
+* Collaborate with educational institutions to integrate Tales content into curricula, promoting storytelling as a tool for learning and creativity.
+  
+**Creator and Audience Empowerment:**
+* Develop programs that empower creators with workshops, funding, and exposure, encouraging a diverse range of voices and stories on the Tales platform.
+* Enhance community features, allowing fans and creators to interact, collaborate on story development, and participate in governance, reinforcing Tales' commitment to a decentralized and inclusive platform.
+
+**Visionary Goals:**
+* Establish Tales as the go-to platform for blockchain-based storytelling, synonymous with innovation, creativity, and community engagement.
+* Expand Tales' influence beyond digital realms, making it a cultural and entertainment touchstone with a legacy of inspiring stories and groundbreaking experiences.
+
+By ambitiously pursuing these future plans, Tales aims to transcend its current framework, evolving into a multimedia conglomerate that not only showcases exceptional narratives but also sets new benchmarks in how stories are told, shared, and experienced in the digital age and beyond.
+
+
+## Additional Information 
+
+[Pitch Deck](https://pitch.com/v/tales-crypto-grants-zsv9wx/)
+
+[Twitter/X](https://twitter.com/talesfiction)
+
+[Facebook](https://www.facebook.com/talesfiction/)
+
+[Discord](https://discord.com/invite/tales)
+
+[Website](https://talescreator.com/)
+
