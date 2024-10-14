@@ -70,7 +70,7 @@ Our team has extensive research experience optimizing IPFS, Kubo, and their appl
 
 ### Milestone 2  — Load Balancing and Panel Expansion
 * **Estimated Duration:** 1 month
-* **FTE:**  3
+* **FTE:**  2
 * **Costs:** 8000 USD
 
 | Number | Deliverable | Specification |
@@ -82,7 +82,7 @@ Our team has extensive research experience optimizing IPFS, Kubo, and their appl
 
 ### Milestone 3  — Test and Enhancement
 * **Estimated Duration:** 1 month
-* **FTE:**  3
+* **FTE:**  2
 * **Costs:** 2000 USD
 
 | Number | Deliverable | Specification |
