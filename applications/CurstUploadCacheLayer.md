@@ -50,12 +50,12 @@ Our team has extensive research experience optimizing IPFS, Kubo, and their appl
 ### Overview
 * **Total Estimated Duration:** 3 months
 * **Full-Time Equivalent (FTE):**  2 FTE
-* **Total Costs:** $20k
+* **Total Costs:** $1k
 
 ### Milestone 1  — Core Functionality
 * **Estimated Duration:** 1 month
 * **FTE:**  2
-* **Costs:** 10，000 USD
+* **Costs:** 500 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -67,11 +67,10 @@ Our team has extensive research experience optimizing IPFS, Kubo, and their appl
 | 3. | Kubo/libp2p Code Review| Source code analysis and customization for optimization |  
 
 
-
 ### Milestone 2  — Load Balancing and Panel Expansion
 * **Estimated Duration:** 1 month
 * **FTE:**  2
-* **Costs:** 8000 USD
+* **Costs:** 500 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -79,16 +78,8 @@ Our team has extensive research experience optimizing IPFS, Kubo, and their appl
 | 2. | Load Balancing Module | Developed to route requests to gateways based on usage and user location |
 | 3. | Gateway Node Image - Beta Version| Supports upgrades and management operations|
 | 4. | Kubo/libp2p Code Review | Further source code analysis and optimization | 
+| 5. | Testing | Load testing and system verification |
 
-### Milestone 3  — Test and Enhancement
-* **Estimated Duration:** 1 month
-* **FTE:**  2
-* **Costs:** 2000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 1. | Testing | Load testing and system verification |
-| 1. | Security Enhancement | Assess and enhance the security of the system to ensure the safety of each module during operation |
 
 ## Future Plans
 
